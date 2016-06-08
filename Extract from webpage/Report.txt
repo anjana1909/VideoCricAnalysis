@@ -1,0 +1,2086 @@
+<!DOCTYPE html>
+<!-- hostname: wci033, country: in, cluster: ind, created: 2015-09-23 01:14:03 -->
+<!--[if IE 8]><html class="lt-ie9" lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"> <![endif]-->
+<!--[if IE 9]><html class="ie9" lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"> <![endif]-->
+<!--[if gt IE 9]><!--> <html lang="en"> <!--<![endif]-->
+<head>
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+    <meta name="google-site-verification" content="ZxdgH3XglRg0Bsy-Ho2RnO3EE4nRs53FloLS6fkt_nc" />
+    <title>Robin Uthappa's blitz floors Chennai |  Cricket  | ESPN Cricinfo</title>
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    
+    
+    <meta name="keywords" content="Butter-fingered Chennai, and Albie-come-lately  , Robin Uthappa, Royal Challengers Bangalore v Chennai Super Kings at Bangalore, Indian Premier League, Chennai Super Kings cricket, India cricket, Royal Challengers Bangalore cricket" />
+    
+    <meta name="description" content="Robin Uthappa's blitz helped his team recover from a shaky start, after which Bangalore's bowlers throttled Chennai to move to the top of the points table" />
+
+    <!-- Include isMobile script inline -->
+    <script>
+/**
+ * isMobile.js v0.3.6
+ *
+ * @author: Kai Mallea (kmallea@gmail.com)
+ *
+ * @license: http://creativecommons.org/publicdomain/zero/1.0/
+ */
+!function(a){var b=/iPhone/i,c=/iPod/i,d=/iPad/i,e=/(?=.*\bAndroid\b)(?=.*\bMobile\b)/i,f=/Android/i,g=/IEMobile/i,h=/(?=.*\bWindows\b)(?=.*\bARM\b)/i,i=/BlackBerry/i,j=/BB10/i,k=/Opera Mini/i,l=/(?=.*\bFirefox\b)(?=.*\bMobile\b)/i,m=new RegExp("(?:Nexus 7|BNTV250|Kindle Fire|Silk|GT-P1000)","i"),n=function(a,b){return a.test(b)},o=function(a){var o=a||navigator.userAgent;return this.apple={phone:n(b,o),ipod:n(c,o),tablet:n(d,o),device:n(b,o)||n(c,o)||n(d,o)},this.android={phone:n(e,o),tablet:!n(e,o)&&n(f,o),device:n(e,o)||n(f,o)},this.windows={phone:n(g,o),tablet:n(h,o),device:n(g,o)||n(h,o)},this.other={blackberry:n(i,o),blackberry10:n(j,o),opera:n(k,o),firefox:n(l,o),device:n(i,o)||n(j,o)||n(k,o)||n(l,o)},this.seven_inch=n(m,o),this.any=this.apple.device||this.android.device||this.windows.device||this.other.device||this.seven_inch,this.phone=this.apple.phone||this.android.phone||this.windows.phone,this.tablet=this.apple.tablet||this.android.tablet||this.windows.tablet,"undefined"==typeof window?this:void 0},p=function(){var a=new o;return a.Class=o,a};"undefined"!=typeof module&&module.exports&&"undefined"==typeof window?module.exports=o:"undefined"!=typeof module&&module.exports&&"undefined"!=typeof window?module.exports=p():"function"==typeof define&&define.amd?define("isMobile",[],a.isMobile=p()):a.isMobile=p()}(this);
+</script>
+
+
+<!--[if IE 9]>
+<script language="javascript" type="text/javascript">
+function fnCreateJumpList(iScenario) {
+fnClearJumpList();
+window.external.msSiteModeCreateJumpList("Quick Links")
+window.external.msSiteModeAddJumpListItem('Shop', 'http://www.espncricinfo.com/ci/content/current/url/738963.html', '/favicon.ico');window.external.msSiteModeAddJumpListItem('Cricket Monthly', 'http://www.espncricinfo.com/ci/content/current/url/784439.html', '/favicon.ico');window.external.msSiteModeAddJumpListItem('SL v WI', 'http://www.espncricinfo.com/sri-lanka-v-west-indies-2015-16/content/current/series/915221.html', '/favicon.ico');window.external.msSiteModeAddJumpListItem('Ban v Aus', 'http://www.espncricinfo.com/bangladesh-v-australia-2015-16/content/current/series/905725.html', '/favicon.ico');window.external.msSiteModeAddJumpListItem('Pak v Eng', 'http://www.espncricinfo.com/pakistan-v-england-2015-16/content/current/series/902607.html', '/favicon.ico');window.external.msSiteModeAddJumpListItem('Zim v Pak', 'http://www.espncricinfo.com/zimbabwe-v-pakistan-2015-16/content/current/series/904331.html', '/favicon.ico');window.external.msSiteModeAddJumpListItem('Ind v SA', 'http://www.espncricinfo.com/india-v-south-africa-2015-16/content/current/series/903573.html', '/favicon.ico');window.external.msSiteModeShowJumpList();
+}
+function fnClearJumpList() {
+window.external.msSiteModeClearJumplist();
+}
+</script>
+
+<meta name="msapplication-task" content="name=Live Scores;action-uri=http://www.espncricinfo.com/ci/engine/current/match/scores/live.html;icon-uri=/favicon.ico"/>
+<meta name="msapplication-task" content="name=Latest News;action-uri=http://www.espncricinfo.com/ci/content/current/story/news.html;icon-uri=/favicon.ico"/>
+<meta name="msapplication-task" content="name=Fixtures;action-uri=http://www.espncricinfo.com/ci/content/current/match/fixtures/index.html;icon-uri=/favicon.ico"/>
+<meta name="msapplication-task" content="name=Results;action-uri=http://www.espncricinfo.com/ci/engine/current/match/scores/recent.html;icon-uri=/favicon.ico"/>
+<meta name="msapplication-task" content="name=Photos;action-uri=http://www.espncricinfo.com/ci/content/current/image/index.html;icon-uri=/favicon.ico"/>
+<meta name="msapplication-task" content="name=Audio/Video;action-uri=http://www.espncricinfo.com/ci/content/video_audio/index.html;icon-uri=/favicon.ico"/>
+<script language="javascript" type="text/javascript">
+        fnCreateJumpList(2);
+</script>
+<![endif]-->
+<meta name="robots" content="index, follow" />
+<meta name="googlebot" content="index, follow" />
+<meta property="fb:app_id" content="260890547115" />
+<meta property="og:site_name" content="Cricinfo" />
+<link rel="shortcut icon" href="/favicon.ie9new.ico" />
+<link rel="icon" type="image/png" href="/favicon.png" />
+<link rel="icon" type="image/gif" href="/favicon.gif" />
+<link rel="apple-touch-icon" href="http://i.imgci.com/espncricinfo/ci_apple_webclip.png"/>
+<meta name="application-name" content="ESPNcricinfo"/>
+<meta name="msapplication-TileColor" content="#266ab4"/>
+<meta name="msapplication-TileImage" content="http://i.imgci.com/espncricinfo/6b245241-3938-499c-8c79-9b80f97bed96.png"/>
+
+
+<meta property="article:published_time" content="2010-03-23T14:23:31+00:00"/>
+<meta property="article:modified_time" content="2010-03-23T20:13:52+00:00"/>
+<meta name="DC.date.issued" content="2010-03-23">
+
+
+<meta property="og:type" content="article"/>
+<meta property="og:title" content="Robin Uthappa's blitz floors Chennai"/>
+<meta property="og:description" content="Robin Uthappa's blitz helped his team recover from a shaky start, after which Bangalore's bowlers throttled Chennai to move to the top of the points table">
+<meta name="twitter:card" value="summary_large_image"> 
+<meta name="twitter:site" value="@espncricinfo"> 
+<meta name="twitter:creator" value="@espncricinfo">
+<meta name="twitter:title" content="Robin Uthappa's blitz floors Chennai">
+<meta name="twitter:description" content="Robin Uthappa's blitz helped his team recover from a shaky start, after which Bangalore's bowlers throttled Chennai to move to the top of the points table">
+
+<link rel="image_src" href="http://www.espncricinfo.com/db/PICTURES/CMS/115400/115439.3.jpg" />
+<meta property="og:image" content="http://www.espncricinfo.com/db/PICTURES/CMS/115400/115439.3.jpg" />
+<meta name="twitter:image:src" content="http://www.espncricinfo.com/db/PICTURES/CMS/115400/115439.3.jpg" />
+
+<meta name="twitter:image:width" content="310" />
+<meta name="twitter:image:height" content="248" />
+
+<link rel="canonical" href="http://www.espncricinfo.com/ipl2010/content/story/453205.html"/>
+<meta property="og:url" content="http://www.espncricinfo.com/ipl2010/content/story/453205.html" />
+
+<!-- Load GPT JavaScript library used by DFP -->
+<script type="text/javascript">
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node =document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+   })();
+</script>
+<script type="text/javascript" src="http://a.espncdn.com/combiner/c?js=swfobject/2.2/swfobject.js?minify=false"></script>
+
+
+<style>
+.espni-ad-slot{line-height: 0;}
+pre.gpt-debug{padding: 10px; background: burlywood;}
+</style>
+<script type='text/javascript'> var ad_setting = {"adtar":"","kvauthor":"jamiealter","kvbrand":"ipl","kvcluster":"ind","kvnavtype":"story","kvpt":"story","kvseriesid":"418064","kvsite":"ipl","kvstoryid":"453205","networkid":"6444","path":"/6444/espn.cricinfo.com/series/ipl/story","template":"desktop","template_type":"responsive"};</script>
+
+
+    
+
+	<link rel="stylesheet" href="http://a.espncdn.com/combiner/c?css=fonts/bentonsans.css,fonts/bentonsansbold.css,fonts/bentonsanslight.css,fonts/bentonsansmedium.css,fonts/bentonsanscond.css,fonts/bentonsanscondbold.css,fonts/bentonsanscondmedium.css" type="text/css" media="screen" charset="utf-8">
+    <link rel="stylesheet" href="/navigation/cricinfo/ci/assets/css/main_nav.css?v=1437387541" type="text/css" media="screen" charset="utf-8">
+    <link type="text/css" rel="stylesheet" href="/navigation/cricinfo/ci/assets/css/cilogin.css?v=1415115045" media="all" />
+
+<link rel="stylesheet" href="/navigation/cricinfo/ci/redesign/css/storypage/story.css?v=1439291188">
+
+
+
+
+
+<link rel="stylesheet" media="print" href="/navigation/cricinfo/ci/redesign/css/common/print.css?v=1435297656">
+
+    <!--[if lt IE 9]>
+        <script src="/navigation/cricinfo/ci/assets/js/plugins/html5.js"></script>
+        <link rel="stylesheet" href="/navigation/cricinfo/ci/redesign/css/common/ie8.css?v=1432640863">
+    <![endif]-->
+    
+    <script src="/navigation/cricinfo/ci/assets/js/libs/modernizr-2.8.3.min.js"></script>
+    
+    <script language="javascript"  type="text/javascript">
+                    cqanswer = 'in';
+                    location_country = 'in';
+            location_cluster = 'ind';
+        ord=Math.random()*10000000000000000;
+        var __hpad300_100Web = 1;
+        var ad_counter = 1;
+        var ad_counter_mobile = 1;
+        var devicenames = ['iPhone','BB10','Android','Windows Phone','Fennec','GoBrowser','NokiaBrowser','S40OviBrowser','SymbianOS','NokiaN73','Symbian','Opera Mini','Opera Mobi','Minimo','IEMobile','Mobile Safari','BlackBerry','sonyericsson'];
+    </script>
+
+
+<style type="text/css">
+#adform-container { width: auto!important; }
+</style>
+</head>
+<body class=" pagetype-storypage">
+<div id="viewport">
+
+
+    <div id="fb-root"></div>
+
+    <!-- Win8 Prompt (existing code) -->
+    
+    <!-- Win8 Prompt (existing code) -->
+
+    <div class="hide-for-mob">
+        
+    </div>
+
+    <div class="site-container ad-banner-1280">
+        <div class="leaderboard-ad">
+            <div class="espni-ad-slot ad-banner" data-slot-type="banner" data-kvpos="top"></div>
+        </div>
+    </div>
+
+
+<section class="mainnav_wrap" id="mainnav_wrap">
+	<div class="nav_inner" id="nav_inner">
+
+		<div class="nav_btn" id="nav_btn">
+			<span class="sp sp_nav"></span>
+		</div>
+
+		<div class="ci_logo" id="ci_logo">
+			
+			<a href="/">
+			
+				 
+				 <img src="http://i.imgci.com/espncricinfo/redesign/ci_logo.png">
+				 
+				<span class="logo_txt">ESPN Cricinfo</span>
+			</a>
+		</div>
+
+		<nav class="main_nav" id="main_nav" data-role="none">
+
+			<form class="srch_form srch_mobile" name="Search" id="Search" data-ajax="false">
+				<div class="srch_wrap">
+					<input class="srch_txt" placeholder="Search" data-role="none" />
+					<button class="srch_btn" data-role="none"><span class="sp sp_srch2"></span></button>
+				</div>
+			</form>
+
+			<ul class="nav_grp" id="nav_grp" data-role="none">
+
+							<li class="nav_grpitm nav_live_scores">
+								<div class="nav_grpico">
+									<span class="sp sp_live_scores"></span>
+									<span class="nav_txt">Live Scores</span>
+								</div>
+								<a href="/ci/engine/match/index.html?view=live" name="&lpos=header_livescores">Live Scores</a>
+
+								<div class="nav_grp_lvl1 dd_wrap">
+									<div class="nav_ttl">Live Scores</div>
+
+									<ul class="sub_nav" data-role="none">
+
+										<li class="sub_nav_item">
+											<a href="/ci/engine/match/index.html?view=live" name="&lpos=header_livescores">Live Scores Home</a>
+										</li>
+
+										<li class="sub_nav_item">
+											<a href="/ci/engine/match/index.html?view=week" name="&lpos=header_livescores">Matches by week</a>
+										</li>
+
+										<li class="sub_nav_item">
+											<a href="/ci/engine/series/index.html?view=month" name="&lpos=header_livescores">Matches by month</a>
+										</li>
+
+										<li class="sub_nav_item">
+											<a href="/ci/engine/series/index.html?view=season" name="&lpos=header_livescores">Matches by season</a>
+										</li>
+
+										<li class="sub_nav_item">
+											<a href="/ci/engine/series/index.html" name="&lpos=header_livescores">Match series archive</a>
+										</li>
+
+										<li class="sub_nav_item">
+											<a href="/ci/content/match/fixtures_futures.html" name="&lpos=header_livescores">Current and Future tours</a>
+										</li>
+
+										<li class="sub_nav_item">
+											<a href="/ci/engine/match/index.html?view=calendar" name="&lpos=header_livescores">Upcoming international matches</a>
+										</li>
+
+										<li class="sub_nav_item">
+											<a href="javascript:openS('/ci/engine/match/scores/desktop.html','dsktpScrBrd')" name="&lpos=header_livescores">Desktop Scoreboard</a>
+										</li>
+
+									</ul>
+
+								</div>
+							</li>
+
+							<li class="nav_grpitm nav_series">
+								<div class="nav_grpico">
+									<span class="sp sp_series"></span>
+									<span class="nav_txt">Series</span>
+								</div>
+								<a href="/ci/content/match/fixtures_futures.html" name="&lpos=header_series">Series</a>
+
+								<div class="nav_grp_lvl1 dd_wrap">
+									<div class="nav_ttl">Series</div>
+
+									<ul class="sub_nav" data-role="none">
+
+										<li class="sub_nav_item">
+											<a href="/india-v-south-africa-2015-16/content/series/903573.html" name="&lpos=header_series">India v South Africa</a>
+										</li>
+
+										<li class="sub_nav_item">
+											<a href="/zimbabwe-v-pakistan-2015-16/content/series/904331.html" name="&lpos=header_series">Zimbabwe v Pakistan</a>
+										</li>
+
+										<li class="sub_nav_item">
+											<a href="/bangladesh-v-australia-2015-16/content/series/905725.html" name="&lpos=header_series">Bangladesh v Australia</a>
+										</li>
+
+										<li class="sub_nav_item">
+											<a href="/pakistan-v-england-2015-16/content/series/902607.html" name="&lpos=header_series">Pakistan v England</a>
+										</li>
+
+										<li class="sub_nav_item">
+											<a href="/sri-lanka-v-west-indies-2015-16/content/series/915221.html" name="&lpos=header_series">Sri Lanka v West Indies</a>
+										</li>
+
+										<li class="sub_nav_item">
+											<a href="/county-cricket-2015/content/series/786877.html" name="&lpos=header_series">County Cricket 2015</a>
+										</li>
+
+										<li class="sub_nav_item">
+											<a href="/icc-womens-championship-2014-16/content/series/772563.html" name="&lpos=header_series">ICC Women's Championship</a>
+										</li>
+
+										<li class="sub_nav_item">
+											<a href="/icc-intercontinental-cup-2015-17/content/series/870857.html" name="&lpos=header_series">ICC Intercontinental Cup</a>
+										</li>
+
+										<li class="sub_nav_item">
+											<a href="/wcl-championship-2015-17/content/series/870869.html" name="&lpos=header_series">ICC WCL Championship</a>
+										</li>
+
+										<li class="sub_nav_item">
+											<a href="/ci/content/match/fixtures_futures.html" name="&lpos=header_series">More current and future series</a>
+										</li>
+
+									</ul>
+
+								</div>
+							</li>
+
+							<li class="nav_grpitm nav_countries">
+								<div class="nav_grpico">
+									<span class="sp sp_countries"></span>
+									<span class="nav_txt">Countries</span>
+								</div>
+								<a href="/ci/content/site/cricket_squads_teams/index.html" name="&lpos=header_countries">Countries</a>
+
+								<div class="nav_grp_lvl1 dd_wrap">
+									<div class="nav_ttl">Countries</div>
+
+									<ul class="subnav_grp" data-role="none">
+
+										<li class="subnav_grpitm">
+
+											<ul class="sub_nav" data-role="none">
+
+												<li class="sub_nav_item">
+													<a href="/australia/content/team/2.html" name="&lpos=header_countries">Australia</a>
+												</li>
+
+												<li class="sub_nav_item">
+													<a href="/bangladesh/content/team/25.html" name="&lpos=header_countries">Bangladesh</a>
+												</li>
+
+												<li class="sub_nav_item">
+													<a href="/england/content/team/1.html" name="&lpos=header_countries">England</a>
+												</li>
+
+												<li class="sub_nav_item">
+													<a href="/india/content/team/6.html" name="&lpos=header_countries">India</a>
+												</li>
+
+												<li class="sub_nav_item">
+													<a href="/newzealand/content/team/5.html" name="&lpos=header_countries">New Zealand</a>
+												</li>
+
+												<li class="sub_nav_item">
+													<a href="/pakistan/content/team/7.html" name="&lpos=header_countries">Pakistan</a>
+												</li>
+
+												<li class="sub_nav_item">
+													<a href="/southafrica/content/team/3.html" name="&lpos=header_countries">South Africa</a>
+												</li>
+
+												<li class="sub_nav_item">
+													<a href="/srilanka/content/team/8.html" name="&lpos=header_countries">Sri Lanka</a>
+												</li>
+
+												<li class="sub_nav_item">
+													<a href="/westindies/content/team/4.html" name="&lpos=header_countries">West Indies</a>
+												</li>
+
+												<li class="sub_nav_item">
+													<a href="/zimbabwe/content/team/9.html" name="&lpos=header_countries">Zimbabwe</a>
+												</li>
+
+											</ul>
+										</li>
+
+										<li class="subnav_grpitm">
+
+											<ul class="sub_nav" data-role="none">
+
+												<li class="sub_nav_item">
+													<a href="/afghanistan/content/team/40.html" name="&lpos=header_countries">Afghanistan</a>
+												</li>
+
+												<li class="sub_nav_item">
+													<a href="/hkg/content/team/19.html" name="&lpos=header_countries">Hong Kong</a>
+												</li>
+
+												<li class="sub_nav_item">
+													<a href="/ireland/content/team/29.html" name="&lpos=header_countries">Ireland</a>
+												</li>
+
+												<li class="sub_nav_item">
+													<a href="/png/content/team/20.html" name="&lpos=header_countries">PNG</a>
+												</li>
+
+												<li class="sub_nav_item">
+													<a href="/scotland/content/team/30.html" name="&lpos=header_countries">Scotland</a>
+												</li>
+
+												<li class="sub_nav_item">
+													<a href="/uae/content/team/27.html" name="&lpos=header_countries">UAE</a>
+												</li>
+
+											</ul>
+										</li>
+
+										<li class="subnav_grpitm">
+
+											<ul class="sub_nav" data-role="none">
+
+												<li class="sub_nav_item">
+													<a href="/other/content/site/207463.html" name="&lpos=header_countries">Other Countries</a>
+												</li>
+
+												<li class="sub_nav_item">
+													<a href="/women/content/site/207455.html" name="&lpos=header_countries">Women's Cricket</a>
+												</li>
+
+												<li class="sub_nav_item">
+													<a href="/ci-icc/content/site/297120.html" name="&lpos=header_countries">ICC</a>
+												</li>
+
+												<li class="sub_nav_item">
+													<a href="/canada/content/team/17.html" name="&lpos=header_countries">Canada</a>
+												</li>
+
+												<li class="sub_nav_item">
+													<a href="/kenya/content/team/26.html" name="&lpos=header_countries">Kenya</a>
+												</li>
+
+												<li class="sub_nav_item">
+													<a href="/netherlands/content/team/15.html" name="&lpos=header_countries">Netherlands</a>
+												</li>
+
+												<li class="sub_nav_item">
+													<a href="/nepal/content/team/33.html" name="&lpos=header_countries">Nepal</a>
+												</li>
+
+												<li class="sub_nav_item">
+													<a href="/oman/content/team/37.html" name="&lpos=header_countries">Oman</a>
+												</li>
+
+												<li class="sub_nav_item">
+													<a href="/usa/content/team/11.html" name="&lpos=header_countries">USA</a>
+												</li>
+
+											</ul>
+										</li>
+
+									</ul>
+
+								</div>
+							</li>
+
+							<li class="nav_grpitm nav_news">
+								<div class="nav_grpico">
+									<span class="sp sp_news"></span>
+									<span class="nav_txt">News</span>
+								</div>
+								<a href="/ci/content/story/news.html" name="&lpos=header_news">News</a>
+
+								<div class="nav_grp_lvl1 dd_wrap">
+									<div class="nav_ttl">News</div>
+
+									<ul class="subnav_grp" data-role="none">
+
+										<li class="subnav_grpitm">
+
+											<ul class="sub_nav" data-role="none">
+
+												<li class="sub_nav_item">
+													<a href="/ci/content/story/news.html" name="&lpos=header_news">News Home</a>
+												</li>
+
+												<li class="sub_nav_item">
+													<a href="/blogs/content/story/blogs?genre=454" name="&lpos=header_news">The Buzz</a>
+												</li>
+
+												<li class="sub_nav_item">
+													<a href="/ci/content/url/643069.html" name="&lpos=header_news">The Surfer</a>
+												</li>
+
+												<li class="sub_nav_item">
+													<a href="/infocus/content/story/infocus.html" name="&lpos=header_news">In Focus</a>
+												</li>
+
+											</ul>
+										</li>
+
+									</ul>
+
+								</div>
+							</li>
+
+							<li class="nav_grpitm nav_features">
+								<div class="nav_grpico">
+									<span class="sp sp_features"></span>
+									<span class="nav_txt">Features</span>
+								</div>
+								<a href="/ci/content/story/features.html" name="&lpos=header_features">Features</a>
+
+								<div class="nav_grp_lvl1 dd_wrap">
+									<div class="nav_ttl">Features</div>
+
+									<ul class="subnav_grp" data-role="none">
+
+										<li class="subnav_grpitm">
+
+											<div class="subnav_title">
+											
+											Writers
+											
+											</div>
+
+											<ul class="sub_nav" data-role="none">
+
+												<li class="sub_nav_item">
+													<a href="/ci/content/story/author.html?author=31" name="&lpos=header_features">Sambit Bal</a>
+												</li>
+
+												<li class="sub_nav_item">
+													<a href="/ci/content/story/author.html?author=589" name="&lpos=header_features">Simon Barnes</a>
+												</li>
+
+												<li class="sub_nav_item">
+													<a href="/ci/content/story/author.html?author=367" name="&lpos=header_features">Daniel Brettig</a>
+												</li>
+
+												<li class="sub_nav_item">
+													<a href="/ci/content/story/author.html?author=261" name="&lpos=header_features">Ian Chappell</a>
+												</li>
+
+												<li class="sub_nav_item">
+													<a href="/ci/content/story/author.html?author=276" name="&lpos=header_features">Aakash Chopra</a>
+												</li>
+
+												<li class="sub_nav_item">
+													<a href="/ci/content/story/author.html?author=268" name="&lpos=header_features">Brydon Coverdale</a>
+												</li>
+
+												<li class="sub_nav_item">
+													<a href="/ci/content/story/author.html?author=373" name="&lpos=header_features">Ed Cowan</a>
+												</li>
+
+												<li class="sub_nav_item">
+													<a href="/ci/content/story/author.html?author=200" name="&lpos=header_features">Tony Cozier</a>
+												</li>
+
+												<li class="sub_nav_item">
+													<a href="/ci/content/story/author.html?author=390" name="&lpos=header_features">Martin Crowe</a>
+												</li>
+
+												<li class="sub_nav_item">
+													<a href="/ci/content/story/author.html?author=116" name="&lpos=header_features">George Dobell</a>
+												</li>
+
+												<li class="sub_nav_item">
+													<a href="/ci/content/story/author.html?author=383" name="&lpos=header_features">David Hopps</a>
+												</li>
+
+											</ul>
+										</li>
+
+										<li class="subnav_grpitm">
+
+											<ul class="sub_nav" data-role="none">
+
+												<li class="sub_nav_item">
+													<a href="/ci/content/story/author.html?author=329" name="&lpos=header_features">Jarrod Kimber</a>
+												</li>
+
+												<li class="sub_nav_item">
+													<a href="/ci/content/story/author.html?author=375" name="&lpos=header_features">Ashley Mallett</a>
+												</li>
+
+												<li class="sub_nav_item">
+													<a href="/ci/content/story/author.html?author=272" name="&lpos=header_features">Sidharth Monga</a>
+												</li>
+
+												<li class="sub_nav_item">
+													<a href="/ci/content/story/author.html?author=315" name="&lpos=header_features">Firdose Moonda</a>
+												</li>
+
+												<li class="sub_nav_item">
+													<a href="/ci/content/story/author.html?author=384" name="&lpos=header_features">Mark Nicholas</a>
+												</li>
+
+												<li class="sub_nav_item">
+													<a href="/ci/content/story/author.html?author=597" name="&lpos=header_features">Ricky Ponting</a>
+												</li>
+
+												<li class="sub_nav_item">
+													<a href="/ci/content/story/author.html?author=380" name="&lpos=header_features">Ed Smith</a>
+												</li>
+
+												<li class="sub_nav_item">
+													<a href="/ci/content/story/author.html?author=291" name="&lpos=header_features">Rob Steen</a>
+												</li>
+
+												<li class="sub_nav_item">
+													<a href="/ci/content/story/author.html?author=355" name="&lpos=header_features">Sharda Ugra</a>
+												</li>
+
+												<li class="sub_nav_item">
+													<a href="/ci/content/story/author.html?author=311" name="&lpos=header_features">Andy Zaltzman</a>
+												</li>
+
+												<li class="sub_nav_item">
+													<a href="/ci/content/story/genre.html?genre=256" name="&lpos=header_features">Guest Column</a>
+												</li>
+
+											</ul>
+										</li>
+
+										<li class="subnav_grpitm">
+
+											<div class="subnav_title">
+											
+											Sections
+											
+											</div>
+
+											<ul class="sub_nav" data-role="none">
+
+												<li class="sub_nav_item">
+													<a href="/ci/content/story/genre.html?genre=6" name="&lpos=header_features">Ask Steven</a>
+												</li>
+
+												<li class="sub_nav_item">
+													<a href="/ci/content/story/genre.html?genre=490" name="&lpos=header_features">Couch Talk</a>
+												</li>
+
+												<li class="sub_nav_item">
+													<a href="/ci/content/story/genre.html?genre=268" name="&lpos=header_features">Diaries</a>
+												</li>
+
+												<li class="sub_nav_item">
+													<a href="/ci/content/story/genre.html?genre=169" name="&lpos=header_features">Features</a>
+												</li>
+
+												<li class="sub_nav_item">
+													<a href="/ci/content/story/genre.html?genre=174" name="&lpos=header_features">Gleanings</a>
+												</li>
+
+												<li class="sub_nav_item">
+													<a href="/ci/content/story/genre.html?genre=188" name="&lpos=header_features">I Was There</a>
+												</li>
+
+												<li class="sub_nav_item">
+													<a href="/ci/content/story/genre.html?genre=175" name="&lpos=header_features">Interviews</a>
+												</li>
+
+												<li class="sub_nav_item">
+													<a href="/magazine/content/story/magazine/otd.html" name="&lpos=header_features">On This Day</a>
+												</li>
+
+											</ul>
+										</li>
+
+										<li class="subnav_grpitm">
+
+											<ul class="sub_nav" data-role="none">
+
+												<li class="sub_nav_item">
+													<a href="/ci/content/story/genre.html?genre=176" name="&lpos=header_features">Profiles</a>
+												</li>
+
+												<li class="sub_nav_item">
+													<a href="/ci/content/story/genre.html?genre=12" name="&lpos=header_features">Numbers Game</a>
+												</li>
+
+												<li class="sub_nav_item">
+													<a href="/ci/content/story/genre.html?genre=340" name="&lpos=header_features">Quick Singles</a>
+												</li>
+
+												<li class="sub_nav_item">
+													<a href="/magazine/content/quote/index.html" name="&lpos=header_features">Quote Unquote</a>
+												</li>
+
+												<li class="sub_nav_item">
+													<a href="/ci/content/story/genre.html?genre=21" name="&lpos=header_features">Reviews</a>
+												</li>
+
+												<li class="sub_nav_item">
+													<a href="/ci/content/story/genre.html?genre=14" name="&lpos=header_features">Rewind</a>
+												</li>
+
+												<li class="sub_nav_item">
+													<a href="/ci/content/story/genre.html?genre=173" name="&lpos=header_features">Talking Cricket</a>
+												</li>
+
+												<li class="sub_nav_item">
+													<a href="/thestands/content/site/thestands" name="&lpos=header_features"><b>The Stands</b></a>
+												</li>
+
+												<li class="sub_nav_item">
+													<a href="/ci/content/story/editors_pick.html" name="&lpos=header_features"><b>EDITOR'S PICKS</b></a>
+												</li>
+
+											</ul>
+										</li>
+
+									</ul>
+
+								</div>
+							</li>
+
+							<li class="nav_grpitm nav_videos">
+								<div class="nav_grpico">
+									<span class="sp sp_videos"></span>
+									<span class="nav_txt">Videos</span>
+								</div>
+								<a href="/ci/content/video_audio/index.html" name="&lpos=header_videos">Videos</a>
+
+								<div class="nav_grp_lvl1 dd_wrap">
+									<div class="nav_ttl">Videos</div>
+
+									<ul class="subnav_grp" data-role="none">
+
+										<li class="subnav_grpitm">
+
+											<ul class="sub_nav" data-role="none">
+
+												<li class="sub_nav_item">
+													<a href="/ci/content/video_audio/index.html" name="&lpos=header_videos">Videos Home</a>
+												</li>
+
+												<li class="sub_nav_item">
+													<a href="/ci/content/video_audio/index.html?genre=21" name="&lpos=header_videos">Bowl at Boycs</a>
+												</li>
+
+												<li class="sub_nav_item">
+													<a href="/ci/content/video_audio/index.html?genre=10" name="&lpos=header_videos">Comments</a>
+												</li>
+
+												<li class="sub_nav_item">
+													<a href="/ci/content/video_audio/index.html?genre=46" name="&lpos=header_videos">Features</a>
+												</li>
+
+												<li class="sub_nav_item">
+													<a href="/ci/content/video_audio/index.html?genre=59" name="&lpos=header_videos">The Huddle</a>
+												</li>
+
+												<li class="sub_nav_item">
+													<a href="/ci/content/video_audio/index.html?genre=9" name="&lpos=header_videos">Interviews</a>
+												</li>
+
+												<li class="sub_nav_item">
+													<a href="/legends-of-cricket/content/site/451900.html" name="&lpos=header_videos">Legends of Cricket</a>
+												</li>
+
+												<li class="sub_nav_item">
+													<a href="/ci/content/video_audio/index.html?genre=129" name="&lpos=header_videos">Let's Talk About</a>
+												</li>
+
+												<li class="sub_nav_item">
+													<a href="/ci/content/video_audio/index.html?genre=1" name="&lpos=header_videos">Match Analysis</a>
+												</li>
+
+											</ul>
+										</li>
+
+										<li class="subnav_grpitm">
+
+											<ul class="sub_nav" data-role="none">
+
+												<li class="sub_nav_item">
+													<a href="/ci/content/video_audio/index.html?genre=16" name="&lpos=header_videos">Match Point</a>
+												</li>
+
+												<li class="sub_nav_item">
+													<a href="/ci/content/video_audio/modern_masters/index.html" name="&lpos=header_videos">Modern Masters</a>
+												</li>
+
+												<li class="sub_nav_item">
+													<a href="/ci/content/video_audio/index.html?genre=34" name="&lpos=header_videos">News and Analysis</a>
+												</li>
+
+												<li class="sub_nav_item">
+													<a href="/ci/content/video_audio/index.html?genre=119" name="&lpos=header_videos">Polite Enquiries</a>
+												</li>
+
+												<li class="sub_nav_item">
+													<a href="/ci/content/video_audio/index.html?genre=2" name="&lpos=header_videos">Press Conference</a>
+												</li>
+
+												<li class="sub_nav_item">
+													<a href="/ci/content/video_audio/index.html?genre=27" name="&lpos=header_videos">Switch Hit</a>
+												</li>
+
+												<li class="sub_nav_item">
+													<a href="/ci/content/video_audio/index.html?genre=127" name="&lpos=header_videos">Up for a Challenge</a>
+												</li>
+
+												<li class="sub_nav_item">
+													<a href="http://www.youtube.com/ESPNCricinfo" target="_blank" name="&lpos=header_videos">YouTube</a>
+												</li>
+
+												<li class="sub_nav_item">
+													<a href="/ci/content/site/ontheroad/index.html" name="&lpos=header_videos">ONTHEROAD</a>
+												</li>
+
+											</ul>
+										</li>
+
+									</ul>
+
+								</div>
+							</li>
+
+							<li class="nav_grpitm nav_blogs">
+								<div class="nav_grpico">
+									<span class="sp sp_blogs"></span>
+									<span class="nav_txt">Blogs</span>
+								</div>
+								<a href="/blogs/content/story/blogs/cordon.html" name="&lpos=header_blogs">Blogs</a>
+
+								<div class="nav_grp_lvl1 dd_wrap">
+									<div class="nav_ttl">Blogs</div>
+
+									<ul class="sub_nav" data-role="none">
+
+										<li class="sub_nav_item">
+											<a href="/blogs/content/story/blogs/cordon.html" name="&lpos=header_blogs">The Cordon</a>
+										</li>
+
+										<li class="sub_nav_item">
+											<a href="/blogs/content/story/blogs?genre=457" name="&lpos=header_blogs">The Confectionery Stall</a>
+										</li>
+
+										<li class="sub_nav_item">
+											<a href="/thestands/content/site/thestands/genre.html?genre=451" name="&lpos=header_blogs">Inbox</a>
+										</li>
+
+										<li class="sub_nav_item">
+											<a href="/blogs/content/story/blogs/page2.html" name="&lpos=header_blogs">Page 2</a>
+										</li>
+
+										<li class="sub_nav_item">
+											<a href="/blogs/content/story/blogs?genre=463" name="&lpos=header_blogs">Shot Selection</a>
+										</li>
+
+										<li class="sub_nav_item">
+											<a href="/blogs/content/story/blogs?genre=427" name="&lpos=header_blogs">Tour Diaries</a>
+										</li>
+
+									</ul>
+
+								</div>
+							</li>
+
+							<li class="nav_grpitm nav_photos">
+								<div class="nav_grpico">
+									<span class="sp sp_photos"></span>
+									<span class="nav_txt">Photos</span>
+								</div>
+								<a href="/ci/content/image/index.html" name="&lpos=header_photos">Photos</a>
+
+								<div class="nav_grp_lvl1 dd_wrap">
+									<div class="nav_ttl">Photos</div>
+
+									<ul class="sub_nav" data-role="none">
+
+										<li class="sub_nav_item">
+											<a href="/ci/content/image/index.html" name="&lpos=header_photos">Photos Home</a>
+										</li>
+
+										<li class="sub_nav_item">
+											<a href="/ci/content/gallery/index.html" name="&lpos=header_photos">Galleries</a>
+										</li>
+
+									</ul>
+
+								</div>
+							</li>
+
+							<li class="nav_grpitm nav_stats">
+								<div class="nav_grpico">
+									<span class="sp sp_stats"></span>
+									<span class="nav_txt">Stats</span>
+								</div>
+								<a href="/ci/content/stats/index.html" name="&lpos=header_stats">Stats</a>
+
+								<div class="nav_grp_lvl1 dd_wrap">
+									<div class="nav_ttl">Stats</div>
+
+									<ul class="sub_nav" data-role="none">
+
+										<li class="sub_nav_item">
+											<a href="/ci/content/stats/index.html" name="&lpos=header_stats">Stats home</a>
+										</li>
+
+										<li class="sub_nav_item">
+											<a href="/ci/engine/stats/index.html" name="&lpos=header_stats">Statsguru</a>
+										</li>
+
+										<li class="sub_nav_item">
+											<a href="/ci/engine/records/index.html?id=2015;type=year" name="&lpos=header_stats">2015 records</a>
+										</li>
+
+										<li class="sub_nav_item">
+											<a href="/ci/engine/records/index.html" name="&lpos=header_stats">All records</a>
+										</li>
+
+										<li class="sub_nav_item">
+											<a href="/ci/engine/series/index.html" name="&lpos=header_stats">Match and series archive</a>
+										</li>
+
+										<li class="sub_nav_item">
+											<a href="/ci/content/player/index.html" name="&lpos=header_stats">Players</a>
+										</li>
+
+										<li class="sub_nav_item">
+											<a href="/ci/content/ground/index.html" name="&lpos=header_stats">Grounds</a>
+										</li>
+
+										<li class="sub_nav_item">
+											<a href="/rankings/content/page/211271.html" name="&lpos=header_stats">Team Rankings / Player Rankings</a>
+										</li>
+
+										<li class="sub_nav_item">
+											<a href="http://www.espncricinfo.com/wisdenalmanack/content/story/almanack" name="&lpos=header_stats">Wisden Almanack</a>
+										</li>
+
+										<li class="sub_nav_item">
+											<a href="/insights" name="&lpos=header_stats">Insights</a>
+										</li>
+
+									</ul>
+
+								</div>
+							</li>
+
+				<li class="nav_grpitm nav_shop">
+				<a href="http://shop.espncricinfo.com/">
+					<div class="nav_grpico">
+						<span class="sp sp_shop"></span>
+						<span class="nav_txt">Shop</span>
+					</div>
+					</a>
+
+					<div class="nav_grp_lvl1 dd_wrap" data-role="none">
+						<ul class="sub_nav">
+							<li class="sub_nav_item">
+								<a href="http://shop.espncricinfo.com/" target="_blank" name="&lpos=header_shop">Shop</a>
+							</li>
+						</ul>
+					</div>
+				</li>
+
+
+				<!-- Right side section starts -->
+
+				<li class="nav_grpitm nav_grp_usr">
+					<div class="nav_grpico">
+						<span class="sp sp_usr"></span>
+						<span class="nav_txt">User</span>
+					</div>
+					<div class="nav_grp_lvl1 dd_wrap" id="hp-user-login-nav">
+						
+						
+<script type="text/javascript">
+	var endpoint = "submit.espncricinfo.com";
+	var server = "www.espncricinfo.com";
+</script>
+
+
+
+<div class="ci-logged-in-wrap">
+	<div class="ci-profile">
+		<div class="profile-image"></div>
+		<div class="profile-name"></div>
+		<!-- <a href="#" class="insider"><span class="sp sp_insider"></span> Activate Insider</a> -->
+	</div>
+	<!-- <div class="setting"><span class="sp sp_sett"></span></div> -->
+	<div class="ci-login-clear"></div>
+	<ul class="acc_nav acc_nav_v1" style="float: left;">
+		<li class="acc_navitm">
+			<ul class="acc_navlnk">
+				<!-- <li class="edit-profile"><a href="http://www.espncricinfo.com/member_mgmt/content/submit/member_mgmt/user_registration.html">Edit Profile</a></li> -->
+				<li class="profile-signout"><a href="#">Sign Out</a></li>
+			</ul>
+		</li>
+	</ul>
+</div>
+<div class="ci-login-form-wrap">
+	<form method="post" name="ciloginfm" id="cinavloginfm" class="ci-login-form" data-role="none">
+		<div class="message"></div>
+		<div class="input-wrap">
+			<label for="email">Email</label>
+			<input name="email" class="email textbox" type="email" placeholder="Enter your Email" />
+		</div>
+		<div class="input-wrap">
+			<label for="password">Password</label>
+			<input name="password" class="password textbox" type="password" placeholder="Password" />
+		</div>
+		<div class="input-wrap remember">
+			<input name="remember" class="remember" type="checkbox" value="Y" data-role="none">
+			<label for="remember">Remember me</label>
+		</div>
+		<div class="input-wrap submit-button">
+			<input type="submit" class="ci-login-submit-btn" value="Sign In" name="login_submit" data-role="none" />
+		</div>
+
+		<div class="input-wrap registration-links">
+			<a href="javascript:void(0)" class="forgotpwdtxt" onclick="javascript:window.open('http://www.espncricinfo.com/ci/content/submit/auth/web/forgotpassword.html','plyr_pop','width=600,height=390,toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=no');">Forgot Password?</a> <span class="sep">Or</span>
+			<a href="http://www.espncricinfo.com/member_mgmt/content/submit/member_mgmt/user_registration.html?sc=masthead">Register</a>
+		</div>
+		<div class="ci-login-clear"></div>
+	</form>
+	<div class="social-login">
+		<div class="ci-login-btn facebook">
+			<!-- facebook login -->
+			<div class="fb-login-button" data-size="medium" data-show-faces="false" data-auto-logout-link="true"></div>
+		</div>
+	</div>
+	<div class="ci-login-clear"></div>
+	<div class="social-links">
+		<div class="slabel">Follow Us </div>
+		<div class="sbutton-wrap facebook">
+			<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Ffacebook.com%2FCricinfo&amp;width&amp;layout=button_count&amp;action=like&amp;show_faces=false&amp;share=false&amp;height=21&amp;appId=260890547115" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:21px;" allowTransparency="true"></iframe>
+		</div>
+		<div class="sbutton-wrap gplus">
+			<!-- Place this tag in your head or just before your close body tag. -->
+			<script src="https://apis.google.com/js/platform.js" async defer></script>
+
+			<!-- Place this tag where you want the widget to render. -->
+			<div class="g-follow" data-annotation="bubble" data-height="24" data-href="https://plus.google.com/106584820876356799712" data-rel="publisher"></div>
+		</div>
+		<div class="sbutton-wrap twitter">
+			<!--
+			<iframe src="//platform.twitter.com/widgets/follow_button.html?screen_name=espncricinfo&lang=en" style="width: 300px; height: 20px;" allowtransparency="true" frameborder="0" scrolling="no"></iframe> -->
+			<a class="twitter-follow-button" href="https://twitter.com/espncricinfo" data-show-screen-name="false" data-show-count="true" data-lang="en">Follow</a>
+			<script type="text/javascript">
+			window.twttr = (function (d, s, id) {
+			  var t, js, fjs = d.getElementsByTagName(s)[0];
+			  if (d.getElementById(id)) return;
+			  js = d.createElement(s); js.id = id;
+			  js.src= "https://platform.twitter.com/widgets.js";
+			  fjs.parentNode.insertBefore(js, fjs);
+			  return window.twttr || (t = { _e: [], ready: function (f) { t._e.push(f) } });
+			}(document, "script", "twitter-wjs"));
+			</script>
+		</div>
+	</div>
+</div>
+
+
+					</div>
+				</li>
+
+				<li class="nav_grpitm nav_grp_srch">
+					<div class="nav_grpico">
+						<span class="sp sp_srch1"></span>
+						<span class="nav_txt">Search</span>
+					</div>
+					<div class="nav_grp_lvl1 dd_wrap">
+						<form class="srch_form" name="Search" id="Search" data-ajax="false">
+							<div class="srch_wrap">
+								<input class="srch_txt" placeholder="Search sports, team, players..." />
+								<button class="srch_btn"><span class="sp sp_srch2"></span></button>
+							</div>
+						</form>
+						<ul class="acc_nav">
+							<li class="acc_navitm most_want">
+								<div class="acc_nav_ttl"> <span class="sp sp_most"></span><a href="/ci/content/player/most_wanted.html">Most Wanted Players</a></div>
+							</li>
+
+						</ul>
+
+					</div>
+				</li>
+
+				
+
+			</ul>
+
+		</nav>
+
+	</div>
+</section>
+<section class="mainnav_wrap_small" id="mainnav_wrap_small"  data-role="none">
+<!-- place holder for mobile navigation -->
+	<div class="nav_mask" id="nav_mask"></div>
+</section>
+
+
+
+
+	   <div class="sub-nav ">
+        <div class="row">
+          <div class="large-20">
+
+            <div class="icc-home">
+				<a href="/ipl2010/content/series/418064.html">
+Indian Premier League
+				</a>
+	        </div>
+
+            <ul class="subnav_tier1" id="subnav_tier1" data-role="none">
+			  
+                <li><a name="&lpos=quicklink_News" href="/ipl2010/content/story/news.html?object=418064">News</a>
+
+                </li>
+			  
+                <li><a name="&lpos=quicklink_Features" href="/ipl2010/content/story/features.html?object=418064">Features</a>
+
+                </li>
+			  
+                <li><a name="&lpos=quicklink_Photos" href="/ipl2010/content/image/index.html?class=series;object=418064">Photos</a>
+
+                </li>
+			  
+                <li><a name="&lpos=quicklink_Fixtures" href="/ipl2010/content/series/418064.html?template=fixtures">Fixtures</a>
+
+                </li>
+			  
+                <li><a name="&lpos=quicklink_Results" href="/ipl2010/engine/series/418064.html">Results</a>
+
+                </li>
+			  
+                <li><a name="&lpos=quicklink_Teams" href="#">Teams</a>
+
+					<div class="dd_wrap">
+
+						<ul class="subnav_grp">
+							<li class="subnav_grpitm">
+								<ul class="subnav_tire2">
+
+									<li class="sub_nav_item">
+										<a name="&lpos=quicklink_Chennai Super Kings" href="/ipl-chennai/content/team/335974.html">Chennai Super Kings</a>
+									</li>
+
+									<li class="sub_nav_item">
+										<a name="&lpos=quicklink_Deccan Chargers" href="/ipl-hyd/content/team/335980.html">Deccan Chargers</a>
+									</li>
+
+									<li class="sub_nav_item">
+										<a name="&lpos=quicklink_Delhi Daredevils" href="/ipl-delhi/content/team/335975.html">Delhi Daredevils</a>
+									</li>
+
+									<li class="sub_nav_item">
+										<a name="&lpos=quicklink_Kings XI Punjab" href="/ipl-mohali/content/team/335973.html">Kings XI Punjab</a>
+									</li>
+
+									<li class="sub_nav_item">
+										<a name="&lpos=quicklink_Kolkata Knight Riders" href="/ipl-kolkata/content/team/335971.html">Kolkata Knight Riders</a>
+									</li>
+
+									<li class="sub_nav_item">
+										<a name="&lpos=quicklink_Mumbai Indians" href="/ipl-mumbai/content/team/335978.html">Mumbai Indians</a>
+									</li>
+
+									<li class="sub_nav_item">
+										<a name="&lpos=quicklink_Rajasthan Royals" href="/ipl-jaipur/content/team/335977.html">Rajasthan Royals</a>
+									</li>
+
+									<li class="sub_nav_item">
+										<a name="&lpos=quicklink_Royal Challengers Bangalore" href="/ipl-blore/content/team/335970.html">Royal Challengers Bangalore</a>
+									</li>
+
+								</ul>
+							</li>
+						</ul>
+
+					</div>
+
+                </li>
+			  
+                <li><a name="&lpos=quicklink_Squads" href="#">Squads</a>
+
+					<div class="dd_wrap">
+
+						<ul class="subnav_grp">
+							<li class="subnav_grpitm">
+								<ul class="subnav_tire2">
+
+									<li class="sub_nav_item">
+										<a name="&lpos=quicklink_Chennai Super Kings" href="/ipl2010/content/squad/448325.html">Chennai Super Kings</a>
+									</li>
+
+									<li class="sub_nav_item">
+										<a name="&lpos=quicklink_Deccan Chargers" href="/ipl2010/content/squad/448345.html">Deccan Chargers</a>
+									</li>
+
+									<li class="sub_nav_item">
+										<a name="&lpos=quicklink_Delhi Daredevils" href="/ipl2010/content/squad/448331.html">Delhi Daredevils</a>
+									</li>
+
+									<li class="sub_nav_item">
+										<a name="&lpos=quicklink_Kings XI Punjab" href="/ipl2010/content/squad/448324.html">Kings XI Punjab</a>
+									</li>
+
+									<li class="sub_nav_item">
+										<a name="&lpos=quicklink_Kolkata Knight Riders" href="/ipl2010/content/squad/448335.html">Kolkata Knight Riders</a>
+									</li>
+
+									<li class="sub_nav_item">
+										<a name="&lpos=quicklink_Mumbai Indians" href="/ipl2010/content/squad/448339.html">Mumbai Indians</a>
+									</li>
+
+									<li class="sub_nav_item">
+										<a name="&lpos=quicklink_Rajasthan Royals" href="/ipl2010/content/squad/448341.html">Rajasthan Royals</a>
+									</li>
+
+									<li class="sub_nav_item">
+										<a name="&lpos=quicklink_Royal Challengers Bangalore" href="/ipl2010/content/squad/448336.html">Royal Challengers Bangalore</a>
+									</li>
+
+								</ul>
+							</li>
+						</ul>
+
+					</div>
+
+                </li>
+			  
+                <li><a name="&lpos=quicklink_Grounds" href="#">Grounds</a>
+
+					<div class="dd_wrap">
+
+						<ul class="subnav_grp">
+							<li class="subnav_grpitm">
+								<ul class="subnav_tire2">
+
+									<li class="sub_nav_item">
+										<a name="&lpos=quicklink_Ahmedabad" href="/ipl2010/content/ground/57851.html">Ahmedabad</a>
+									</li>
+
+									<li class="sub_nav_item">
+										<a name="&lpos=quicklink_Bangalore" href="/ipl2010/content/ground/57897.html">Bangalore</a>
+									</li>
+
+									<li class="sub_nav_item">
+										<a name="&lpos=quicklink_Chandigarh" href="/ipl2010/content/ground/57991.html">Chandigarh</a>
+									</li>
+
+									<li class="sub_nav_item">
+										<a name="&lpos=quicklink_Chennai" href="/ipl2010/content/ground/58008.html">Chennai</a>
+									</li>
+
+									<li class="sub_nav_item">
+										<a name="&lpos=quicklink_Cuttack" href="/ipl2010/content/ground/58027.html">Cuttack</a>
+									</li>
+
+									<li class="sub_nav_item">
+										<a name="&lpos=quicklink_Delhi" href="/ipl2010/content/ground/58040.html">Delhi</a>
+									</li>
+
+									<li class="sub_nav_item">
+										<a name="&lpos=quicklink_Dharamsala" href="/ipl2010/content/ground/58056.html">Dharamsala</a>
+									</li>
+
+									<li class="sub_nav_item">
+										<a name="&lpos=quicklink_Jaipur" href="/ipl2010/content/ground/58162.html">Jaipur</a>
+									</li>
+
+									<li class="sub_nav_item">
+										<a name="&lpos=quicklink_Kolkata" href="/ipl2010/content/ground/57980.html">Kolkata</a>
+									</li>
+
+									<li class="sub_nav_item">
+										<a name="&lpos=quicklink_Navi Mumbai" href="/ipl2010/content/ground/343050.html">Navi Mumbai</a>
+									</li>
+
+									<li class="sub_nav_item">
+										<a name="&lpos=quicklink_Mumbai" href="/ipl2010/content/ground/58317.html">Mumbai</a>
+									</li>
+
+									<li class="sub_nav_item">
+										<a name="&lpos=quicklink_Nagpur" href="/ipl2010/content/ground/375326.html">Nagpur</a>
+									</li>
+
+								</ul>
+							</li>
+						</ul>
+
+					</div>
+
+                </li>
+			  
+                <li><a name="&lpos=quicklink_Points Table" href="/ipl2010/engine/series/418064.html?view=pointstable">Points Table</a>
+
+                </li>
+			  
+                <li><a name="&lpos=quicklink_Tournament Stats" href="/ipl2010/engine/series/418064.html?view=records">Tournament Stats</a>
+
+                </li>
+			  
+                <li><a name="&lpos=quicklink_Records" href="/ipl2010/engine/records/index.html?id=117;type=trophy">Records</a>
+
+					<div class="dd_wrap">
+
+						<ul class="subnav_grp">
+							<li class="subnav_grpitm">
+								<ul class="subnav_tire2">
+
+									<li class="sub_nav_item">
+										<a name="&lpos=quicklink_Overall IPL Records" href="/indian-premier-league-2013/engine/records/index.html?id=117;type=trophy">Overall IPL Records</a>
+									</li>
+
+									<li class="sub_nav_item">
+										<a name="&lpos=quicklink_2012" href="/indian-premier-league-2012/engine/series/520932.html?view=records">2012</a>
+									</li>
+
+									<li class="sub_nav_item">
+										<a name="&lpos=quicklink_2011" href="/indian-premier-league-2011/engine/series/466304.html?view=records">2011</a>
+									</li>
+
+									<li class="sub_nav_item">
+										<a name="&lpos=quicklink_2010" href="/ipl2010/engine/series/418064.html?view=records">2010</a>
+									</li>
+
+									<li class="sub_nav_item">
+										<a name="&lpos=quicklink_2009" href="/ipl2009/engine/series/374163.html?view=records">2009</a>
+									</li>
+
+									<li class="sub_nav_item">
+										<a name="&lpos=quicklink_2008" href="/ipl/engine/series/313494.html?view=records">2008</a>
+									</li>
+
+								</ul>
+							</li>
+						</ul>
+
+					</div>
+
+                </li>
+			  
+                <li><a name="&lpos=quicklink_Season" href="#">Season</a>
+
+					<div class="dd_wrap">
+
+						<ul class="subnav_grp">
+							<li class="subnav_grpitm">
+								<ul class="subnav_tire2">
+
+									<li class="sub_nav_item">
+										<a name="&lpos=quicklink_2013" href="/indian-premier-league-2013/content/series/586733.html">2013</a>
+									</li>
+
+									<li class="sub_nav_item">
+										<a name="&lpos=quicklink_2012" href="/indian-premier-league-2012/content/series/520932.html">2012</a>
+									</li>
+
+									<li class="sub_nav_item">
+										<a name="&lpos=quicklink_2011" href="/indian-premier-league-2011/content/series/466304.html">2011</a>
+									</li>
+
+									<li class="sub_nav_item">
+										<a name="&lpos=quicklink_2010" href="/ipl2010/content/series/418064.html">2010</a>
+									</li>
+
+									<li class="sub_nav_item">
+										<a name="&lpos=quicklink_2009" href="/ipl2009/content/series/374163.html">2009</a>
+									</li>
+
+									<li class="sub_nav_item">
+										<a name="&lpos=quicklink_2008" href="/ipl/content/series/313494.html">2008</a>
+									</li>
+
+								</ul>
+							</li>
+						</ul>
+
+					</div>
+
+                </li>
+
+            </ul>
+
+            </div>
+          </div>
+        </div>
+
+        <div class="secnav_wrap_small" id="secnav_wrap_small">
+        	<div class="secnav_mask" id="secnav_mask"></div>
+			
+        	<div class="secnav_btn " id="secnav_btn">
+				<span class="sp sp_nav"></span>
+			</div>
+			
+        </div>
+
+
+
+
+
+    <!-- Homepage wrapper Start -->
+    <div class="story-page-wrapper">
+
+        <div class="site-container">
+			<div class="pencil-ad">
+
+	<div class="slot-2 hide-for-mob">
+	<a href="http://www.espncricinfo.com/ci/content/video_audio/index.html" target="_blank"><img src="/db/ADVERT/100/0167.gif" alt="IN v SL Test 3" title="IN v SL Test 3" width="300" height="40" border="0"></a>
+
+	</div>
+	<div class="slot-1 hide-for-mob">
+	<script language="JavaScript" type="text/javascript">
+var adarr7=new Array();
+adarr7[0] = '<a href="http://pubads.g.doubleclick.net/gampad/clk?id=143769537&iu=/6444/espn.cricinfo.nondartserved/clicktracker" target="_blank"><img src="/db/ADVERT/100/0181.jpg" alt="OnePlus 2" title="OnePlus 2" width="615" height="40" border="0"/></a>';
+adarr7[1] = '<a href="http://pubads.g.doubleclick.net/gampad/clk?id=146490057&iu=/6444/espn.cricinfo.nondartserved/clicktracker" target="_blank"><img src="/db/ADVERT/200/0215.gif" alt="" title="" width="615" height="40" border="0"/></a>';
+adarr7[2] = '<a href="http://pubads.g.doubleclick.net/gampad/clk?id=146487897&iu=/6444/espn.cricinfo.nondartserved/clicktracker" target="_blank"><img src="/db/ADVERT/200/0217.gif" alt="" title="" width="615" height="40" border="0"/></a>';
+adarr7[3] = '<a href="http://pubads.g.doubleclick.net/gampad/clk?id=146488137&iu=/6444/espn.cricinfo.nondartserved/clicktracker" target="_blank"><img src="/db/ADVERT/200/0219.gif" alt="" title="" width="615" height="40" border="0"/></a>';
+adarr7[4] = '<a href="http://pubads.g.doubleclick.net/gampad/clk?id=146488857&iu=/6444/espn.cricinfo.nondartserved/clicktracker" target="_blank"><img src="/db/ADVERT/200/0221.gif" alt="" title="" width="615" height="40" border="0"/></a>';
+adarr7[5] = '<a href="http://pubads.g.doubleclick.net/gampad/clk?id=146490297&iu=/6444/espn.cricinfo.nondartserved/clicktracker" target="_blank"><img src="/db/ADVERT/200/0223.gif" alt="" title="" width="615" height="40" border="0"/></a>';
+adarr7[6] = '<a href="http://pubads.g.doubleclick.net/gampad/clk?id=146941857&iu=/6444/espn.cricinfo.nondartserved/clicktracker" target="_blank"><img src="/db/ADVERT/200/0251.gif" alt="" title="" width="615" height="40" border="0"/></a>';
+adarr7[7] = '<a href="http://pubads.g.doubleclick.net/gampad/clk?id=146943777&iu=/6444/espn.cricinfo.nondartserved/clicktracker" target="_blank"><img src="/db/ADVERT/200/0253.gif" alt="" title="" width="615" height="40" border="0"/></a>';
+adarr7[8] = '<a href="http://pubads.g.doubleclick.net/gampad/clk?id=146940657&iu=/6444/espn.cricinfo.nondartserved/clicktracker" target="_blank"><img src="/db/ADVERT/200/0255.gif" alt="" title="" width="615" height="40" border="0"/></a>';
+adarr7[9] = '<a href="http://pubads.g.doubleclick.net/gampad/clk?id=146942097&iu=/6444/espn.cricinfo.nondartserved/clicktracker" target="_blank"><img src="/db/ADVERT/200/0257.gif" alt="" title="" width="615" height="40" border="0"/></a>';
+adarr7[10] = '<a href="http://pubads.g.doubleclick.net/gampad/clk?id=146942817&iu=/6444/espn.cricinfo.nondartserved/clicktracker" target="_blank"><img src="/db/ADVERT/200/0259.gif" alt="" title="" width="615" height="40" border="0"/></a>';
+adarr7[11] = '<a href="http://pubads.g.doubleclick.net/gampad/clk?id=147232017&iu=/6444/espn.cricinfo.nondartserved/clicktracker" target="_blank"><img src="/db/ADVERT/300/0307.gif" alt="Dream 11_Orange 01" title="Dream 11_Orange 01" width="615" height="40" border="0"/></a>';
+adarr7[12] = '<a href="http://pubads.g.doubleclick.net/gampad/clk?id=147232977&iu=/6444/espn.cricinfo.nondartserved/clicktracker" target="_blank"><img src="/db/ADVERT/300/0309.gif" alt="Dream 11_Orange 02" title="Dream 11_Orange 02" width="615" height="40" border="0"/></a>';
+adarr7[13] = '<a href="http://pubads.g.doubleclick.net/gampad/clk?id=147234057&iu=/6444/espn.cricinfo.nondartserved/clicktracker" target="_blank"><img src="/db/ADVERT/300/0311.gif" alt="" title="" width="615" height="40" border="0"/></a>';
+adarr7[14] = '<a href="http://pubads.g.doubleclick.net/gampad/clk?id=147233337&iu=/6444/espn.cricinfo.nondartserved/clicktracker" target="_blank"><img src="/db/ADVERT/300/0313.gif" alt="Dream 11_Orange 04" title="Dream 11_Orange 04" width="615" height="40" border="0"/></a>';
+adarr7[15] = '<a href="http://pubads.g.doubleclick.net/gampad/clk?id=147233577&iu=/6444/espn.cricinfo.nondartserved/clicktracker" target="_blank"><img src="/db/ADVERT/300/0315.gif" alt="Dream 11_Orange 05" title="Dream 11_Orange 05" width="615" height="40" border="0"/></a>';
+adarr7[16] = '<a href="http://pubads.g.doubleclick.net/gampad/clk?id=143769537&iu=/6444/espn.cricinfo.nondartserved/clicktracker" target="_blank"><img src="/db/ADVERT/300/0365.jpg" alt="OnePlus 2" title="OnePlus 2" width="615" height="40" border="0"/></a>';
+adarr7[17] = '<a href="http://pubads.g.doubleclick.net/gampad/clk?id=143769537&iu=/6444/espn.cricinfo.nondartserved/clicktracker" target="_blank"><img src="/db/ADVERT/300/0367.jpg" alt="OnePlus 2" title="OnePlus 2" width="615" height="40" border="0"/></a>';
+adarr7[18] = '<a href="http://pubads.g.doubleclick.net/gampad/clk?id=143769537&iu=/6444/espn.cricinfo.nondartserved/clicktracker" target="_blank"><img src="/db/ADVERT/300/0369.jpg" alt="OnePlus 2" title="OnePlus 2" width="615" height="40" border="0"/></a>';
+adarr7[19] = '<a href="http://pubads.g.doubleclick.net/gampad/clk?id=143769537&iu=/6444/espn.cricinfo.nondartserved/clicktracker" target="_blank"><img src="/db/ADVERT/300/0371.jpg" alt="OnePlus 2" title="OnePlus 2" width="615" height="40" border="0"/></a>';
+
+var flab=Math.floor(Math.random()*adarr7.length);
+document.write(adarr7[flab]);
+</script>
+
+	</div>
+
+
+			</div>
+		</div>
+
+		<div class="story-page-container">
+
+		<main class="primary">
+			<script type="text/javascript">
+	var _isStory = 1;
+</script>
+
+
+<section class="col-1-1 main-content">
+	<article class="travel-lhs lhs">
+		<div class="main-story-container col-1-1">
+		<section class="story-headline col-10-12">
+
+				<span class="sub-headline col-8-12">Royal Challengers Bangalore v Chennai Super Kings, IPL , Bangalore</span>
+
+
+				<span class="date col-3-12">
+March 23, 2010				
+				</span>
+				<h1 class="col-1-1">Robin Uthappa's blitz floors Chennai</h1>
+				
+				<div class="author col-6-12">
+
+					<span class="author-name"><a href="/ci/content/story/author.html?author=235">The Bulletin by Jamie Alter</a></span>
+
+				</div>
+			
+				<div class="facebook-twitter-wrap col-6-12">
+					
+						<a href="#" class="facebook-share-button"><span></span><b class="show-for-large">Share on </b>Facebook</a>
+						<a class="sep"></a>
+						<a href="#" class="twitter-share-cricinfo"><span></span><b class="show-for-large">Share on</b> Twitter</a>
+				
+						
+				</div>
+
+		</section>		<section class="col-1-1 story-content-main">
+			
+				<div class="fixed-social col-1-12 hide-for-small">
+					
+					<span class="total-shares">
+						<b>&nbsp;</b>
+						<span>shares</span>
+					</span>
+					
+					<span class="facebook-shares ind">
+						<a href="#" class="facebook-share-button"></a>
+					</span>
+					<span class="twitter-shares">
+						<a href="#" class="twitter-share-cricinfo"></a>
+					</span>
+
+					<span class="print-shares">
+						<a href="/ipl2010/content/story/453205.html?wrappertype=print"> </a>
+					</span>
+				</div>
+		
+								<p>
+<b><i>Royal Challengers Bangalore</b> 171 for 5 (Uthappa 68*, Murali 3-25) beat <b>Chennai Super Kings</b>135 for 7 (R Vinay Kumar 4-40) by 36 runs</i><br/><a href="/ipl2010/engine/match/419123.html">Scorecard and ball-by-ball details</a><br/><a href="/ipl2010/engine/match/419123.html.html?view=wickets" target="_blank">How they were out</a>
+</p>
+<p>
+			<p class="insert-para IE-pull-right">
+				<figure class="image-insert-small story-sidebar col-4-12">
+					<img src="/db/PICTURES/CMS/115400/115439.3.jpg">
+					<figcaption>					
+Robin Uthappa's assault in the 19th over changed the game		
+					<span class="copyright"> &#169; Indian Premier League</span>
+
+					</figcaption>
+				</figure>
+			</p>
+
+</p>
+<p>
+"I'm just an ordinary cricketer who is working hard," said Robin Uthappa during the mid-innings break. His 38-ball 68 that rescued Royal Challengers Bangalore's innings, however, was anything but ordinary. Uthappa's eleventh-hour blitz helped his team recover from a shaky start and sluggish middle overs, after which Bangalore's bowlers throttled Chennai Super Kings to move to the top of the points table.
+</p>
+<p>
+Chennai took wickets during the early and middle overs but it was the final 19 deliveries of Bangalore's innings, where Uthappa blazed away, that made the difference. Dropped on 5 and 25, Uthappa helped Bangalore take 52 runs off them, lifting his team from 119 after 17 overs to 171 for 5, when at one stage 150 looked difficult.
+</p>
+<p>
+It was the speed and power with which Uthappa collected his runs that was dazzling: his last 39 came off ten balls. The over that swung the momentum Bangalore's way was the penultimate one, in which Uthappa - whose improvisation makes him the ideal Twenty20 batsman - struck three successive sixes off L Balaji to ransack 24 from six balls.
+</p>
+<p>
+<!--#cricinfo_parsed_1-->
+<!--#cricinfo_parsed_2-->
+<!--#cricinfo_parsed_3-->
+<!--#cricinfo_parsed_4-->
+<!--#cricinfo_parsed_5-->
+</p>
+<p>
+Until that explosion, Bangalore had struggled. From the time their talisman opener Jacques Kallis was bowled for 19 in 4.4 overs, ending a splendid run of four unbeaten innings, the home side failed to overcome Chennai's bowlers.  On a juiced-up surface, an eagerly-awaited contest began with Chennai's new-ball duo wondering just what was needed to make a breakthrough. They thought they had success in the first over, when a peach of a delivery from Albie Morkel appeared to shave the outer edge of Kallis' bat, but it was not to be. 
+</p>
+<p>
+Manish Pandey rode his luck, following up an inside-edged four to fine leg with a top edge that dropped between two fielders, and then Kallis charged Morkel, slashing a thick outside edge that was lost in the lights by L Balaji at third man. Off the very next delivery, Kallis edged Morkel wide of a diving slip for four more. 
+</p>
+<p>
+Once Kallis went for 19, missing a straight one from Balaji, Bangalore's innings lost direction. Pandey continued to live dangerously without imposing himself. Then for the second time a wicket immediately followed a boundary. Rahul Dravid rocked back and dispatched Muttiah Muralitharan's fifth delivery for four; the sixth was a topspinner that pitched on middle and leg and beat the bat to crash into the stumps. 
+</p>
+<p>
+When the strategic time-out rolled around - that's the pace at which the innings panned out - Chennai had restricted Bangalore to their poorest start yet, 61 for 2. That soon became 63 for 3 when Pandey slogged Murali and was held by Suresh Raina at mid-on. However, Chennai proceeded to reprieve Uthappa and conceded substantial ground.
+</p>
+<p>
+Confident after Uthappa's heroics, Bangalore began snuffing out the chase. Praveen Kumar has a knack of getting early wickets and troubling left-hand batsman, and he got Parthiv Patel to edge one in the first over. Chennai struggled during the Powerplay, finishing the six-over block on 29 for 1. Matthew Hayden called for the Mongoose immediately after and hit Kallis for three consecutive fours, but he and George Bailey were unable to get Anil Kumble away. Mixing flippers and googlies exceptionally, Kumble kept a check on runs and the pressure resulted in Hayden being run out by Rahul Dravid's underarm hit. 
+</p>
+<p>
+That breakthrough brought another, and R Vinay Kumar's perfect seam position dismissed Bailey for a woeful 18 from 27 balls. Vinay struck a bigger blow in his next over when he got Suresh Raina to slash to Kallis at third man, and then Kumble sent back M Vijay. The innings never recovered after four wickets had fallen for 17 runs. Vinay went for a few runs but finished with a four-wicket haul to help Bangalore surge ahead of Mumbai Indians in the points table.
+</p>				
+				<div class="end-credit col-9-12">
+					<div>
+						<p>Jamie Alter is a senior sub-editor at Cricinfo</p>
+					</div>
+				</div>
+
+				<div class="end-copyright col-9-12"> &#169; 
+ESPN Sports Media Ltd.
+				</div>
+
+<style type="text/css">.ob-widget-header{font-family:bentonsansbold !important;}</style>
+<script type="text/javascript">
+	__espni_outbrain = {"cluster":"ind","desktop":{"ind":"AR_13","uk":"AR_12","usa":"AR_11","www":"AR_13"},"mobile":{"ind":"MB_6","uk":"MB_5","usa":"MB_4","www":"MB_6"},"outbrain_compliant":"Y"};
+</script>
+<div class="outbrain-module col-9-12">
+	<div class="OUTBRAIN" data-src="http://www.espncricinfo.com/ipl2010/content/story/453205.html" data-widget-id="" data-ob-template="espncricinfo"></div>
+</div>
+<div class="ad-slot show-mobile"><div class="espni-ad-slot ad-incontent" data-slot-type="incontent" data-kvpos="top" data-exclude-bp="m,l,xl"></div></div>		
+
+		</section>	
+		</div>
+
+
+<script language="javascript">
+	var omniPageName = "report:Royal Challengers Bangalore v Chennai Super Kings, IPL , Bangalore";
+	var omniSiteSection1 = "Indian Premier League";
+	var omniSiteSection2 = "news";
+
+	var omniCt = "story";
+	
+	var omniAuthId = "Jamie Alter";
+	var omniStoryId = "453205";
+</script>
+	</article>	
+	
+</section>
+
+		</main>
+
+		<aside class="secondary">
+<div>
+		<div class="series-module-rhs" id="series-mod-tab" data-series-id="418064" data-series-results-url="/ipl2010/engine/series/418064.html"> 
+			<ul>
+				<li class="series-mod-tab"><a id="tab1" class="active" style="display: none;">Fixtures</a></li>
+				<li class="series-mod-tab"><a id="tab2" style="display: none;">Results</a></li>
+			</ul>
+			<div class="series-mod-tab-content" id="content-tab1" style="display: none;"></div>
+			<div class="series-mod-tab-content" id="content-tab2" style="display: none;"></div>
+		</div>
+
+</div><!-- 1st MPU start: Excluding from small, medium profiles and only for story pages --><section class="ad-container"><div class="espni-ad-slot ad-incontent" data-slot-type="incontent" data-kvpos="top" data-exclude-bp="s,m"></div></section><!-- 1st MPU end -->		<section class="related_links">
+					<span class="lhs_header">RELATED</span>
+					
+					<ul>
+					
+					<li class="first_link">
+
+					<div>
+						<span>News</span>
+						<a href="/ipl2010/content/story/453246.html">Butter-fingered Chennai, and Albie-come-lately  </a>
+					</div>	
+					</li>
+
+				<li>
+					<div>
+						<span>Players/Officials</span>
+
+					<a href="/ci/content/player/35582.html">Robin Uthappa</a>
+
+					</div>
+				</li>
+
+				<li>
+					<div>
+						<span>Matches</span>
+
+					<a href="/ipl2010/engine/match/419123.html">Royal Challengers Bangalore v Chennai Super Kings at Bangalore</a>
+
+					</div>
+				</li>
+
+				<li>
+					<div>
+						<span>Series/Tournaments</span>
+
+					<a href="/ipl2010/content/series/418064.html">Indian Premier League</a>
+
+					</div>
+				</li>
+
+				<li>
+					<div>
+						<span>Teams</span>
+
+					<a href="/ipl-chennai/content/team/335974.html">Chennai Super Kings</a>
+ | 
+					<a href="/india/content/team/6.html">India</a>
+ | 
+					<a href="/ipl-blore/content/team/335970.html">Royal Challengers Bangalore</a>
+
+					</div>
+				</li>
+
+					</ul>
+		</section>
+		
+
+
+<!-- 1st MPU start: Excluding from small, medium profiles and excluding the story pages -->
+<section class="ad-container">
+
+</section>
+<!-- 1st MPU end -->
+
+<!-- 125x125 Ads start -->
+<section class="ad-container ad-140">
+    <ul>
+	<li>
+<a href="http://pubads.g.doubleclick.net/gampad/clk?id=134584617&iu=/6444/espn.cricinfo.nondartserved/clicktracker" target="_blank"><img src="/db/ADVERT/100/0173.gif" alt="Idea MNP" title="Idea MNP" width="125" height="125" border="0"></a>
+
+	</li>
+	<li>
+<script language="JavaScript" type="text/javascript">
+var adarr10=new Array();
+adarr10[0] = '<a href="http://pubads.g.doubleclick.net/gampad/clk?id=142324377&iu=/6444/espn.cricinfo.nondartserved/clicktracker" target="_blank"><img src="/db/ADVERT/100/0177.jpg" alt="IN v SL" title="IN v SL" width="125" height="125" border="0"/></a>';
+adarr10[1] = '<a href="http://www.thecricketmonthly.com/" target="_blank"><img src="/db/ADVERT/100/0185.gif" alt="TCM" title="TCM" width="125" height="125" border="0"/></a>';
+adarr10[2] = '<a href="http://pubads.g.doubleclick.net/gampad/clk?id=146552697&iu=/6444/espn.cricinfo.nondartserved/clicktracker" target="_blank"><img src="/db/ADVERT/200/0235.jpg" alt="The Insider" title="The Insider" width="125" height="125" border="0"/></a>';
+
+var flab=Math.floor(Math.random()*adarr10.length);
+document.write(adarr10[flab]);
+</script>
+	</li>
+</ul>
+</section>
+<!-- 125x125 Ads end -->
+
+<!-- Most Viewed module start -->
+<section class="most-viewed module">
+    <div class="content-padding">
+        <h5 class="section-name">Most Viewed</h5>
+    </div>
+    <ul class="most-viewed-tabs" data-contentparent="#most-viewed-content">
+        <li class="selected"><a href="#most-today" class="ci-tabs">Today</a></li>
+        <li><a href="#most-last7" class="ci-tabs">Last 7 Days</a></li>
+        <li><a href="#most-last30" class="ci-tabs">Last 30 Days</a></li>
+    </ul>
+    <div id="most-viewed-content">
+        
+        <ul id="most-today" class="content tabs-content">
+        
+            <li><span class="count">1</span><span class="text"><a name="&lpos=mostviewed_1" href="/india-v-south-africa-2015-16/content/story/921989.html">India pick Gurkeerat for ODIs, Aravind for T20Is</a></span></li>
+        
+            <li><span class="count">2</span><span class="text"><a name="&lpos=mostviewed_2" href="/pakistan/content/story/922197.html">PCB unveils PSL plans, Pietersen video hints at participation</a></span></li>
+        
+            <li><span class="count">3</span><span class="text"><a name="&lpos=mostviewed_3" href="/india/content/story/922047.html">India A claim series win after Raina ton</a></span></li>
+        
+            <li><span class="count">4</span><span class="text"><a name="&lpos=mostviewed_4" href="/india/content/story/922087.html">BCCI president Dalmiya dies in hospital </a></span></li>
+        
+            <li><span class="count">5</span><span class="text"><a name="&lpos=mostviewed_5" href="/pakistan/content/story/922397.html">'Premature to think about international cricket' - Amir</a></span></li>
+        
+        </ul>
+        
+        
+        <ul id="most-last7" class="content tabs-content">
+        
+            <li><span class="count">1</span><span class="text"><a name="&lpos=mostviewed_1" href="/india-v-south-africa-2015-16/content/story/921989.html">India pick Gurkeerat for ODIs, Aravind for T20Is</a></span></li>
+        
+            <li><span class="count">2</span><span class="text"><a name="&lpos=mostviewed_2" href="/england/content/story/921119.html">Broad would have no problem facing Amir</a></span></li>
+        
+            <li><span class="count">3</span><span class="text"><a name="&lpos=mostviewed_3" href="/india/content/story/921755.html">Rohit slams his 'talented' label, says it's 'unfair and wrong'</a></span></li>
+        
+            <li><span class="count">4</span><span class="text"><a name="&lpos=mostviewed_4" href="/pakistan/content/story/921037.html">Fawad Alam back in Pakistan Test squad</a></span></li>
+        
+            <li><span class="count">5</span><span class="text"><a name="&lpos=mostviewed_5" href="/india/content/story/921607.html">All-round Nasir sinks India A with ton and five-for</a></span></li>
+        
+        </ul>
+        
+        
+        <ul id="most-last30" class="content tabs-content">
+        
+            <li><span class="count">1</span><span class="text"><a name="&lpos=mostviewed_1" href="/sri-lanka-v-india-2015/content/story/916287.html">Persistent India complete rare series win</a></span></li>
+        
+            <li><span class="count">2</span><span class="text"><a name="&lpos=mostviewed_2" href="/sri-lanka-v-india-2015/content/story/915847.html">Sharmas take India to within seven wickets of win</a></span></li>
+        
+            <li><span class="count">3</span><span class="text"><a name="&lpos=mostviewed_3" href="/india-v-south-africa-2015-16/content/story/921989.html">India pick Gurkeerat for ODIs, Aravind for T20Is</a></span></li>
+        
+            <li><span class="count">4</span><span class="text"><a name="&lpos=mostviewed_4" href="/the-ashes-2015/content/story/917901.html">Australia win after Stokes given obstructing the field</a></span></li>
+        
+            <li><span class="count">5</span><span class="text"><a name="&lpos=mostviewed_5" href="/the-ashes-2015/content/story/920039.html">Maxwell criticises boundary-catch law change</a></span></li>
+        
+        </ul>
+        
+    </div>
+</section>
+<!-- Most Viewed module end -->
+<!-- 2nd MPU start -->
+<section class="ad-container">
+    <div class="espni-ad-slot ad-incontent" data-slot-type="incontent" data-kvpos="bottom" data-exclude-bp="s,m"></div>
+</section>
+<!-- MPU end -->
+<!-- Sponsor Links module start -->
+<section class="sponsor-links module">
+    <div class="content-padding">
+        <h5 class="section-name">Sponsored Links</h5>
+    </div>
+    <ul class="content">
+		<li>
+       		<p class="link-text"><a href="/ci/content/url/914191.html" target="_blank">Every Match is a New Season</a></p>
+            <p class="text">Play Fantasy Cricket @ Dream11</p>
+        </li>  
+		<li>
+       		<p class="link-text"><a href="/ci/content/url/908657.html" target="_blank">Pay just Rs. 36/month and get you dialer tone without any extra charge.</a></p>
+            <p class="text"></p>
+        </li>  
+
+	</ul>
+</section>
+<!-- Sponsor Links module end --> 
+<!-- Cricket on Twitter start -->
+<section class="reader_rec">
+	<a class="twitter-timeline" href="/ESPNcricinfo/timelines/585813293161406464" data-widget-id="586402209283227648">Readers recommend</a> 
+	<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+</section>
+<!-- Cricket on Twitter end -->
+
+		</aside>
+		</div>
+
+    </div>
+    <!-- Homepage wrapper End -->
+
+    <!-- Footer Start -->
+    <div class="site-container">
+    <footer>
+    <div>
+        <div class="footer-links">
+            <ul class="horizontal">
+                <li><a href="/ci/content/page/866033.html" class="maintabs ui-link">Sitemap</a></li>
+                <li><a href="/ci/content/submit/forms/feedback.html" class="maintabs ui-link">Feedback</a></li>
+                <li><a href="/ci/content/rss/feeds_rss_cricket.html" class="maintabs ui-link">RSS</a></li>
+                <li><a href="/ci/content/page/156066.html" class="maintabs ui-link">About Us</a></li>
+                <li><a href="/ci/content/site/careers/careers.html" class="maintabs ui-link">Careers</a></li>
+                <!-- <li><a href="/ci/content/page/407211.html" class="maintabs ui-link">Advertise</a></li> -->
+                <li><a href="http://disneyprivacycenter.com/" class="maintabs ui-link" target="_blank">Privacy Policy</a></li>
+                <li><a href="http://disneytermsofuse.com/" class="maintabs ui-link" target="_blank">Terms of Use</a></li>
+            </ul>
+        </div>
+        <div class="footer-other-sites">
+            <div class="logo-sprite">
+                <img src="http://i.imgci.com/espncricinfo/redesign/espn-family-logo_3x.png" alt="" usemap="#Map" border="0"/>
+                <map name="Map" id="Map">
+                    <area alt="" title="" href="http://espn.go.com/" shape="poly" coords="1,1,53,2,52,16,1,16" />
+                    <area alt="" title="" href="http://www.espnf1.com/" shape="poly" coords="72,1,93,2,93,17,72,17" />
+                    <area alt="" title="" href="http://www.espnscrum.com/" shape="poly" coords="109,1,180,1,181,16,109,16" />
+                    <area alt="" title="" href="http://www.espnfc.com/" shape="poly" coords="198,1,280,1,281,15,198,15" />
+                    <area alt="" title="" href="http://footytips.com.au" shape="poly" coords="296,1,370,1,372,17,298,17" />
+                </map>
+            </div>
+        </div>
+    </div>
+    <div class="copyright">
+        &copy; ESPN Sports Media Ltd.
+    </div>
+</footer>
+
+    </div>
+    <!-- Footer End -->
+
+
+
+    
+
+
+
+
+
+        <!-- espn.video dependencies -->
+        <script src="http://a.espncdn.com/combiner/c?js=jquery-1.7.1.js,plugins/jquery.metadata.js,plugins/jquery.pubsub.r5.js,plugins/ba-debug-0.4.js,espn.l10n.r12.js,espn.core.duo.r55.js,espn.storage.r6.js,espn.p13n.r16.js,espn.geo.r2.js"></script>
+        <script src="/navigation/cricinfo/ci/video/js/min/espni.video-0.0.4.min.js?v=1430724683"></script>
+        <!-- Main nav and general dependencies -->
+        <script src="/navigation/cricinfo/ci/video/js/min/libs.min.js"></script>
+        <script src="/navigation/cricinfo/ci/video/js/min/plugins.min.v2.js"></script>
+        
+        <!--  Init gpt files if not home and series pages -->
+        <script src="/navigation/cricinfo/ci/assets/js/src/espncricinfo.gpt.1.0.0.min.js?v=1441718351"></script>
+        <script>
+        var __GPTenabled = true;
+        </script>
+
+    
+    
+
+
+        <script src="/navigation/cricinfo/ci/assets/js/plugins/jquery.cookie-1.4.1.js"></script>
+        <script src="/navigation/cricinfo/ci/assets/js/src/cilogin.min.js?v=1442933062"></script>
+        <script src="/navigation/cricinfo/ci/assets/js/src/main_nav.min.js?v=1442814829"></script>
+        <!--[if (gte IE 6)&(lte IE 8)]>
+        <script type="text/javascript" src="/navigation/cricinfo/ci/assets/js/plugins/selectivizr.modified.min.js"></script>
+        <![endif]-->
+
+    
+    <script src="/navigation/cricinfo/ci/redesign/js/min/story.js?v=1439797454"></script>
+    <script src="/navigation/cricinfo/ci/assets/js/src/poll.js?v=1415114704"></script>
+    <script src="/navigation/cricinfo/ci/assets/js/src/cicomments.1.0.1.min.js?v=1437567183"></script>
+    
+
+
+
+    <script type="text/javascript">
+        (function(d, s, id) {
+          var js, fjs = d.getElementsByTagName(s)[0];
+          if (d.getElementById(id)) return;
+          js = d.createElement(s); js.id = id;
+          js.src = "//connect.facebook.net/en_US/sdk.js?&appId=260890547115&version=v2.1";
+          fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));
+        window.fbAsyncInit = function() {
+            FB.init({
+                appId      : '260890547115',
+                xfbml      : true,
+                status     : true, // check login status
+                cookie     : true, // enable cookies to allow the server to access the session
+                oauth      : true,
+                version    : 'v2.1'
+            });
+            if(typeof cilogin !== "undefined"){
+                cilogin.facebookapiinit();
+            }
+        };
+    </script>
+
+
+
+    
+
+<script type="text/javascript" language="JavaScript">
+
+	var s_account="wdgespcricinfo";	//(Excludes Wireless)
+
+	//alert(window.location.hostname);
+	//alert(s_account);
+</script>
+
+
+<script language="JavaScript" type="text/javascript" src="http://www.espncricinfo.com/navigation/cricinfo/omniture/omniture_global.js?1441718351"></script>
+
+
+<script type="text/javascript" language="JavaScript">
+<!--
+
+//Clearing variable values for link tracking call
+function clrLnkTrckVar(){	
+	//Clear variables
+	s_omni.pageName = "";
+	s_omni.server = "";
+	s_omni.prop1 = "";
+	s_omni.prop3 = "";
+	s_omni.eVar2 = "";
+}
+
+//Link tracking like Video Tab, Video headlines, audio downloads etc.
+function lnkTrackVals(name){
+
+	//alert("Video Tab");
+	clrLnkTrckVar(); //Clear variables
+	
+	var lnkTrck = name;
+	s_omni.prop3 = s_omni.eVar2 = lnkTrck;
+	s_omni.t();
+	//alert(lnkTrck);
+	
+}
+
+/* You may give each page an identifying name, server, and channel on the next lines. */
+s_omni.server = window.location.host; // Server from the Host
+s_omni.prop1 = "cricinfo";
+
+//s_omni.pageName = omniPageName.toLowerCase(); //Omniture Page Name(S)
+
+if(typeof omniSiteSection2 != 'undefined' && typeof omniSiteSubSection3 != 'undefined'){
+	s_omni.pageName = omniSiteSection1.toLowerCase() + ":" + omniSiteSection2.toLowerCase() + ":" + omniSiteSection3.toLowerCase() + ":" + omniPageName.toLowerCase(); 	//Page name
+}else if(typeof omniSiteSection2 != 'undefined'){
+	s_omni.pageName = omniSiteSection1.toLowerCase() + ":" + omniSiteSection2.toLowerCase() + ":" + omniPageName.toLowerCase(); 												//Page name
+}else{
+	s_omni.pageName = omniSiteSection1.toLowerCase() + ":" + omniPageName.toLowerCase(); 																									//Page name
+}
+
+var omniPath = location.pathname;
+//alert(omniPath);
+if(typeof omniSiteSection1 != 'undefined'){
+	s_omni.channel = omniSiteSection1.toLowerCase();
+}
+
+//Error page variables
+if(typeof omniPageType == 'undefined'){
+	s_omni.pageType = "";
+}
+else{
+	s_omni.pageType = "errorPage";
+	s_omni.pageName = "";
+	s_omni.server = "";
+	s_omni.prop1 = "";	
+}
+
+if(typeof omniCt != 'undefined'){
+	s_omni.prop4 = omniCt.toLowerCase();	//Content type
+}
+
+if(typeof omniSiteSection2 != 'undefined' && typeof omniSiteSubSection3 != 'undefined'){
+	s_omni.prop5 = s_omni.channel + ":" +  omniSiteSection2.toLowerCase() + ":"+  omniSiteSubSection3.toLowerCase();
+}else if(typeof omniSiteSection2 != 'undefined'){
+	s_omni.prop5 = s_omni.channel + ":" +  omniSiteSection2.toLowerCase();
+} else {
+	s_omni.prop5 = omniSiteSection1.toLowerCase() + ":" + omniPageName.toLowerCase();
+}
+
+if(typeof omniStoryId != 'undefined'){
+	s_omni.prop15 = s_omni.eVar20 = omniStoryId; //Story Object id		
+}
+s_omni.prop16 = s_omni.eVar12 = cqanswer //Country where the page is viewed
+s_omni.prop17 = s_omni.eVar9 = "en" // Language Code
+
+if(typeof omniAuthId != 'undefined'){
+	s_omni.prop23 = s_omni.eVar10 = omniAuthId; //Columnist id		
+}
+
+s_omni.prop25 = s_omni.eVar19 = "cricket"; // Sport
+
+//Prop29 for capturing the Registered users
+var user_name = (typeof getCookie !== "undefined") && getCookie('un');
+if (user_name != "");
+{
+	if (user_name == null || undefined)
+	{
+		s_omni.prop29 = "anonymous";
+}
+	else
+	{
+	s_omni.prop29 = "Registered:Logged in Active";
+	}
+}
+
+//Prop32 for capturing Player and Grounds ID for the Most viewed objects
+if(typeof omniMVO != 'undefined'){
+	s_omni.prop32 = omniMVO; //Most viewed objects for Plyers and Grounds		
+}
+
+//Prop42 for capturing Hawkeye tabs
+if(typeof omniHawk != 'undefined'){
+	s_omni.prop33 = omniHawk; //capturing Hawkeye tabs	
+}
+
+s_omni.hier1 = s_omni.pageName;																	//Content Hierarchy
+if(typeof omniSrhType != 'undefined'){
+	s_omni.eVar11 = omniSrhType;
+}
+s_omni.eVar13 = s_omni.prop1 + ":" + s_omni.pageName; 						//Page name
+
+//s_omni.prop42 = omniHawk;
+
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s_omni.t();if(s_code)document.write(s_code)//-->
+
+</script>
+<!-- End SiteCatalyst code version: H.14. -->
+
+<!-- Begin comScore Tag -->
+<script>
+var _comscore = _comscore || [];
+_comscore.push({ c1: "2", c2: "3000005" });
+(function() {
+var s = document.createElement("script"), el =
+document.getElementsByTagName("script")[0]; s.async = true;
+s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+el.parentNode.insertBefore(s, el);
+})();
+</script>
+<!-- End comScore Tag -->
+
+    
+<script type='text/javascript'>
+    var _sf_async_config={};
+    /** CONFIGURATION START **/
+    _sf_async_config.uid = 26455;
+    _sf_async_config.domain = 'espncricinfo.com';
+    _sf_async_config.useCanonical = true;
+    _sf_async_config.authors  = 'in';
+    _sf_async_config.sections = 'Story';
+    /** CONFIGURATION END **/
+    (function(){
+      function loadChartbeat() {
+        window._sf_endpt=(new Date()).getTime();
+        var e = document.createElement('script');
+        e.setAttribute('language', 'javascript');
+        e.setAttribute('type', 'text/javascript');
+        e.setAttribute('src',
+           (('https:' == document.location.protocol) ? 'https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/' : 'http://static.chartbeat.com/') +
+           'js/chartbeat.js');
+        document.body.appendChild(e);
+      }
+      var oldonload = window.onload;
+      window.onload = (typeof window.onload != 'function') ?
+      loadChartbeat : function() { oldonload(); loadChartbeat(); };
+    })();
+</script>
+
+
+
+
+
+
+
+<script type="text/javascript">
+
+function getOutbrainWidgetId(){
+    __espni_outbrain.widget_id_desktop = '';
+    __espni_outbrain.widget_id_mobile = '';
+    if(isMobile.phone){
+        __espni_outbrain.widget_id_mobile = __espni_outbrain.mobile[__espni_outbrain.cluster];
+    }else{
+        __espni_outbrain.widget_id_desktop = __espni_outbrain.desktop[__espni_outbrain.cluster];
+    }
+}
+// start outbrain for mobile
+if((typeof __espni_outbrain !== 'undefined')&&(typeof isMobile !== 'undefined')){
+    var outbrain_div = $('.outbrain-module .OUTBRAIN');
+    if((outbrain_div.length > 0) && (typeof __espni_outbrain.cluster !== 'undefined')){
+        getOutbrainWidgetId();
+        if(isMobile.phone){
+            outbrain_div.attr("data-widget-id",__espni_outbrain.widget_id_mobile)
+        }else{
+            outbrain_div.attr("data-widget-id",__espni_outbrain.widget_id_desktop)
+        }
+    }
+}
+
+// end outbrain for mobile
+
+//load outbrain script tag
+(function(){
+    var ciout = document.createElement("script");
+    ciout.async = true;
+    ciout.type = "text/javascript";
+    ciout.src = "http://widgets.outbrain.com/outbrain.js";
+    var node =document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(ciout, node);
+}());
+</script>
+
+
+
+
+</div>
+</body>
+</html>
+

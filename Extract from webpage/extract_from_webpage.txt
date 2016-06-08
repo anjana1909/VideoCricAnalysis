@@ -1,0 +1,27 @@
+#This is correct
+curl http://www.espncricinfo.com/ipl2010/engine/current/match/419123.html -o "Scorecard.txt"
+curl http://www.espncricinfo.com/ipl2010/engine/match/419123.html?view=commentary -o "Commentary.txt"
+curl http://www.espncricinfo.com/ipl2010/engine/match/419123.html?view=wickets -o "Wickets.txt"
+curl http://www.espncricinfo.com/ipl2010/engine/match/419123.html?view=fow -o "PartnershipTable.txt"
+curl http://www.espncricinfo.com/ipl2010/engine/match/419123.html?view=pvp -o "PlayerVsPlayerTable.txt"
+curl http://www.espncricinfo.com/ipl2010/engine/match/419123.html?view=comparison -o "OverComparison.txt"
+curl http://www.espncricinfo.com/ipl2010/engine/match/419123.html?view=averages -o "CareerAverages.txt"
+curl http://www.espncricinfo.com/ipl2010/engine/match/419123.html?view=runsballs -o "PlayerVsPlayerGraph.txt"
+curl http://www.espncricinfo.com/ipl2010/engine/match/419123.html?view=partnership -o "PartnershipGraph.txt"
+curl http://www.espncricinfo.com/ipl2010/engine/match/419123.html?view=runstype -o "ScoringShotsGraph.txt"
+curl http://www.espncricinfo.com/ipl2010/engine/match/419123.html?view=wicketspie -o "WicketsPie.txt"
+curl http://www.espncricinfo.com/ipl2010/engine/match/419123.html?view=extraspie -o "ExtrasPie.txt"
+curl http://www.espncricinfo.com/ipl2010/engine/match/419123.html?view=runrate -o "RunRateGraph.txt"
+curl http://www.espncricinfo.com/ipl2010/engine/match/419123.html?view=wagonwheel -o "WagonWheel.txt"
+curl http://www.espncricinfo.com/ipl2010/engine/match/419123.html?view=manhattan -o "Manhatten.txt"
+curl http://www.espncricinfo.com/ipl2010/content/story/453205.html -o "Report.txt"
+curl http://www.espncricinfo.com/ipl2010/engine/match/419123.html?view=wormchart -o "Worm.txt"
+
+
+curl -A "Mozilla/5.0" -L -k -b /tmp/c -c /tmp/c -s http://www.espncricinfo.com/ipl2010/engine/current/match/419123.html
+
+
+
+
+curl http://www.cricbuzz.com/cricket-scores/14614/royal-challengers-bangalore-v-chennai-super-kings-22-apr-2015 -o "CricBuzz_Commentary.txt"
+

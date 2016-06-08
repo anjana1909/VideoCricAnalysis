@@ -1,0 +1,2043 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- hostname: wci019, country: in, cluster: ind, created: 2015-09-23 01:09:28 -->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<!--[if IE 8]>         <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+
+<head>
+ <meta name="google-site-verification" content="ZxdgH3XglRg0Bsy-Ho2RnO3EE4nRs53FloLS6fkt_nc" />
+ <title>18th match: Royal Challengers Bangalore v Chennai Super Kings at Bangalore, Mar 23, 2010 | Cricket Career averages | ESPN Cricinfo</title>
+ <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+ <meta name="keywords" content="Royal Challengers Bangalore v Chennai Super Kings, Live cricket score, M Chinnaswamy Stadium, Bangalore, Bengaluru, Twenty20 matches" />
+ <meta name="description" content="Cricket scores for Indian Premier League, 18th match: Royal Challengers Bangalore v Chennai Super Kings at Bangalore, Mar 23, 2010" />
+ <meta name="robots" content="index, follow" />
+ <meta name="googlebot" content="index, follow" />
+
+<!-- Redirect to mobile scorecard for smartphones -->
+<script>
+/**
+ * isMobile.js v0.3.6
+ *
+ * @author: Kai Mallea (kmallea@gmail.com)
+ *
+ * @license: http://creativecommons.org/publicdomain/zero/1.0/
+ */
+!function(a){var b=/iPhone/i,c=/iPod/i,d=/iPad/i,e=/(?=.*\bAndroid\b)(?=.*\bMobile\b)/i,f=/Android/i,g=/IEMobile/i,h=/(?=.*\bWindows\b)(?=.*\bARM\b)/i,i=/BlackBerry/i,j=/BB10/i,k=/Opera Mini/i,l=/(?=.*\bFirefox\b)(?=.*\bMobile\b)/i,m=new RegExp("(?:Nexus 7|BNTV250|Kindle Fire|Silk|GT-P1000)","i"),n=function(a,b){return a.test(b)},o=function(a){var o=a||navigator.userAgent;return this.apple={phone:n(b,o),ipod:n(c,o),tablet:n(d,o),device:n(b,o)||n(c,o)||n(d,o)},this.android={phone:n(e,o),tablet:!n(e,o)&&n(f,o),device:n(e,o)||n(f,o)},this.windows={phone:n(g,o),tablet:n(h,o),device:n(g,o)||n(h,o)},this.other={blackberry:n(i,o),blackberry10:n(j,o),opera:n(k,o),firefox:n(l,o),device:n(i,o)||n(j,o)||n(k,o)||n(l,o)},this.seven_inch=n(m,o),this.any=this.apple.device||this.android.device||this.windows.device||this.other.device||this.seven_inch,this.phone=this.apple.phone||this.android.phone||this.windows.phone,this.tablet=this.apple.tablet||this.android.tablet||this.windows.tablet,"undefined"==typeof window?this:void 0},p=function(){var a=new o;return a.Class=o,a};"undefined"!=typeof module&&module.exports&&"undefined"==typeof window?module.exports=o:"undefined"!=typeof module&&module.exports&&"undefined"!=typeof window?module.exports=p():"function"==typeof define&&define.amd?define("isMobile",[],a.isMobile=p()):a.isMobile=p()}(this);
+
+/**
+ * Redirect to mobile scorecard for smart phones
+ */
+
+(function(){
+
+    try{
+        // Start isMobile detection
+        if (typeof isMobile !== 'undefined') {
+            if (isMobile.apple.phone === true ||
+                isMobile.android.phone === true ||
+                isMobile.windows.phone === true ) {
+
+                var mobile_scorecard = 'http://m.espncricinfo.com/' + 'ipl2010' + '/engine/current/match/' + '419123' + '.html';
+                //console.log('mobile_scorecard', mobile_scorecard);
+
+                // Redirect to mobile scorecard
+                window.location.href = mobile_scorecard;
+            }
+            else{
+                //console.log('not a mobile device');
+            }
+        }
+        // End isMobile detection
+    }
+    catch(ex){}
+
+})();
+</script>
+
+
+<!-- Redirect in case javascript is disabled on the page -->
+<noscript>
+   <meta http-equiv="refresh" content="0; url=http://www.espncricinfo.com/ipl2010/engine/current/match/419123.html?version=iframe" />
+</noscript>
+
+<!-- Redirect in case of browsers less than IE8 -->
+<!--[if lt IE 8]>
+   <meta http-equiv="refresh" content="0; url=http://www.espncricinfo.com/ipl2010/engine/current/match/419123.html?version=iframe" />
+<![endif]-->
+
+ <!-- Cricinfo Global News RSS feed link -->
+ <link href="/rss/content/story/feeds/0.xml" rel="alternate" type="application/rss+xml" title="Global News RSS Feed" />
+ <link href="/rss/livescores.xml" rel="alternate" type="application/rss+xml" title="Cricinfo live scores RSS feed" />
+
+ <meta property="og:title" content="18th match: Royal Challengers Bangalore v Chennai Super Kings at Bangalore, Mar 23, 2010 | Cricket Career averages | ESPN Cricinfo"/>
+ <meta property="og:description" content="Cricket scores for Indian Premier League, 18th match: Royal Challengers Bangalore v Chennai Super Kings at Bangalore, Mar 23, 2010"/>
+ <link rel="canonical" href="http://www.espncricinfo.com/ipl2010/engine/current/match/419123.html" />
+ <meta property="og:url" content="http://www.espncricinfo.com/ipl2010/engine/current/match/419123.html" />
+ <meta property="og:site_name" content="Cricinfo" />
+ <meta property="og:type" content="article"/>
+ <meta property="fb:app_id" content="260890547115" />
+ <meta property="fb:admins" content="507509800,543647230,521294616,502164596,548845180,100000100658108,738070288" />
+ <link rel="image_src" href="http://i.imgci.com/espncricinfo/facebook/3.jpg" />
+ <meta property="og:image" content="http://i.imgci.com/espncricinfo/facebook/3.jpg" />
+ <link rel="apple-touch-icon" href="http://i.imgci.com/espncricinfo/ci_apple_webclip.png"/>
+
+
+
+
+	<!-- load libraries for scorecard -->
+    <script src="/navigation/cricinfo/ci/scorecard/js/min/lib.js?1395992050"></script>
+    <link rel="stylesheet" href="http://a.espncdn.com/combiner/c?css=fonts/bentonsans.css,fonts/bentonsansbold.css,fonts/bentonsanslight.css,fonts/bentonsansmedium.css" type="text/css" media="screen" charset="utf-8">
+    <link rel="stylesheet" href="/navigation/cricinfo/ci/scorecard/css/app.css?1439272648" />
+    <!--[if lt IE 9]>
+    <link rel="stylesheet" type="text/css" href="/navigation/cricinfo/ci/scorecard/css/ie8.css?1423676281" />
+    <![endif]-->
+    <link rel="stylesheet" type="text/css" href="/navigation/cricinfo/ci/scorecard/css/swipebox.css" media="screen" />
+
+  
+
+    <link rel="stylesheet" media="print" href="/navigation/cricinfo/ci/redesign/css/common/print.css?v=1435297656">
+    <script src="/navigation/cricinfo/ci/scorecard/js/lib/custom.modernizr.js"></script>
+
+<script type="text/javascript">
+    if (typeof $ === 'undefined'){
+      var $ = jQuery;
+    }
+</script>
+<style type="text/css">
+.espni-vid-wrapper{position: relative;}
+.video-play-button{background: url(http://img.cricinfo.com/espncricinfo/video/play-icon.png) no-repeat center center;bottom: 0px;left: 0px;position: absolute;right: 0px;text-shadow: none;top: 0px;width: 100%;background-size: 50px auto;opacity: .6;color: transparent;cursor:pointer;}
+.video-play-button:hover{opacity: 1;}
+</style>
+
+<script language="javascript"  type="text/javascript">
+	ord=Math.random()*10000000000000000;
+	var ad_counter = 1;
+	cqanswer = 'in';
+	location_country = 'in';
+	location_cluster = 'ind';
+</script>
+<script type="text/javascript">
+//----------------------------------------------------------
+//      create cookie
+//----------------------------------------------------------
+function setCookie( name, value, expires, path, domain, secure ) {
+
+var today = new Date();
+
+    today.setTime( today.getTime() );
+    if ( expires ) {
+        expires = expires * 1000 * 60 * 60 * 24;
+     }
+
+     var expires_date = new Date( today.getTime() + (expires) );
+
+     document.cookie = name+'='+escape( value ) + 
+                       ( ( expires ) ? ';expires='+expires_date.toGMTString() : '' ) + 
+                       ( ( path ) ? ';path=' + path : '' ) +
+                       ( ( domain ) ? ';domain=' + domain : '' ) +
+                       ( ( secure ) ? ';secure' : '' );
+
+}
+
+//----------------------------------------------------------
+//      check if cookie defined 
+//----------------------------------------------------------
+function getCookie(name) {
+
+    var start = document.cookie.indexOf( name + "=" );
+    var len = start + name.length + 1;
+
+    if ( ( !start ) && ( name != document.cookie.substring( 0, name.length ) ) ) {
+       return null;
+    }
+
+    if ( start == -1 ) return null;
+    var end = document.cookie.indexOf( ';', len );
+    if ( end == -1 ) end = document.cookie.length;
+    return unescape( document.cookie.substring( len, end ) );
+}
+
+//------------------------------------------------------------
+//      Remove cookie
+//------------------------------------------------------------
+function removeCookie(  name, path, domain) {
+    if ( getCookie( name ) )
+	{
+        document.cookie = name + '=' + ( ( path ) ? ';path=' + path : '') + ( ( domain ) ? ';domain=' + domain : '' ) + ';expires=Thu, 01-Jan-1970 00:00:01 GMT';
+	}
+}
+//------------------------------------------------------------
+//      Get the domain name
+//------------------------------------------------------------
+function getDomainname () {
+    var hostname = window.location.hostname.split('.');
+    if ( hostname.length >= 2 ) {
+        var len = hostname.length;
+        var domainname = '.' +  hostname[len - 2] + '.' + hostname[len - 1];
+    } else {
+        var domainname = '.' + window.location.hostname;
+    }
+    return domainname;
+}
+</script><!-- Load GPT JavaScript library used by DFP -->
+<script type="text/javascript">
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node =document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+   })();
+</script>
+<script type="text/javascript" src="http://a.espncdn.com/combiner/c?js=swfobject/2.2/swfobject.js?minify=false"></script>
+
+
+<style>
+.espni-ad-slot{line-height: 0;}
+pre.gpt-debug{padding: 10px; background: burlywood;}
+</style>
+<script type='text/javascript'> var ad_setting = {"adtar":"","kvbrand":"ipl","kvcluster":"ind","kvnavtype":"livescorecard","kvpt":"archivedscorecard","kvseriesid":"418064","kvsite":"","networkid":"6444","path":"/6444/espn.cricinfo.com/livescorecard","template":"desktop","template_type":"live_scorecard"};</script>
+</head>
+<body class="livescorecard-page">
+
+<div class="espni-ad-slot ad0" data-slot-type="overlay" data-kvpos="outofpage" data-exclude-bp="s" data-out-of-page="true"></div>
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=260890547115&version=v2.0";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+  <div class="row">
+  
+      <div class="large-20 columns">
+      <div class="masthead-block">
+        <div class="large-1 medium-2 columns home">
+          <a href="/" alt="Home" title="Home"><img src="http://i.imgci.com/espncricinfo/scorecard/icon_home-black.jpg" alt="" title="" /></a>
+        </div>
+        <div class="large-10 medium-8 columns score-strip-block">
+          <div class="row">
+            <ul class="large-13 medium-8 columns score-strip inline-list" id="top-strip-livescore">
+              <!--<li><a href="#">Ind 527/7d & 172/4d<br>v SA 365 & 37/3 (20.3ov)</a></li>
+              <li><a href="#">Ind 527/7d & 172/4d<!-- <br>v SA 365 & 37/3 (20.3ov) --><!--</a></li>
+              <li class="remove-border-right"><a href="#">Ind 527/7d & 172/4d<!-- <br>v SA 365 & 37/3 (20.3ov) --><!--</a></li>-->
+            </ul>
+            <div class="large-7 medium-12 columns match-select">
+              <div class="large-20 medium-20">
+                <div class="large-19 medium-20" id="defTxt">
+                  <span></span>
+                  <input id="drop" type="button" value="" />
+                </div>                
+              </div>
+              <div class="row">
+               <div class="large-20 medium-20 columns marginTop">
+                <ul id="droplist" class="large-20 medium-20 columns">
+                </ul>
+                </div>
+              </div>
+          </div>
+          </div>
+        </div>
+        <div class="large-5 medium-6 columns link-strip-block">
+          <ul class="link-strip inline-list">
+            <li><a href="http://static.espncricinfo.com/rss/livescores.xml" target="_blank"><img src="http://i.imgci.com/espncricinfo/scorecard/rss.png"></a></li>
+            <li><a href="/ci/engine/match/scores/live.html" target="_blank">All live games</a></li>
+            <li><a href="/ci/content/match/fixtures/live.html" target="_blank">Fixtures</a></li>
+            <li class="remove-border-right"><a href="/ci/engine/match/scores/recent.html" target="_blank">Results</a></li>
+          </ul>
+        </div>
+        <div class="large-4 medium-4 columns search-block">
+          <form method="get" enctype="application/x-www-form-urlencoded" action="/ci/content/site/search.html">
+            <input class="search-field" name="search" type="text" value="Search" onfocus="if(this.value == 'Search') {this.value=''}"  onblur="if(this.value == ''){this.value ='Search'}" />
+            <input type="submit" name="gblsearch" class="srch-icon" value="" />
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+   <!-- Header - Logo & Ad -->
+  <div class="row">
+    <div class="large-20 columns header-block">
+      <div class="row">
+        <div class="large-4 medium-5 columns logo" style="margin-top:0px;padding-right:0;">
+          <a href="/ci/content/site/"><img src="http://i.imgci.com/espncricinfo/scorecard/logo_espn_cricinfo_livescore.jpg" alt="" title="" /></a>
+          <div id="social-icons" style="margin:10px 0 5px 0">
+            <div class="ci-fb-button" style="float: left;" >
+            
+              <div class="fb-like" data-href="http://www.espncricinfo.com/ipl2010/engine/current/match/419123.html" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false"></div>
+            </div>
+            <div class="ci-twt-button" style="float: left; margin-left:10px">
+            <a href="https://twitter.com/share" data-url="http://www.espncricinfo.com/ipl2010/engine/match/419123.html" data-text="18th match: Royal Challengers Bangalore v Chennai Super Kings at Bangalore, Mar 23, 2010 Cricket Career averages" class="twitter-share-button" data-via="ESPNCricinfo" data-lang="en">Tweet</a>
+            <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+            </div>
+        </div>
+        </div>
+        <div class="large-16 medium-15 columns text-right">
+			<div class="ad-leaderboard">
+				<div class="espni-ad-slot ad-banner" data-slot-type="banner" data-kvpos="top" data-exclude-bp="s"></div>
+			</div>
+        </div>
+      </div>
+      <hr>
+    </div>
+  </div>
+  <!-- End -->
+
+
+  <div id="matchId" data-matchId="419123" data-contentId="28324" data-endpoint="www.espncricinfo.com" data-complete="1" data-netstorage="0" data-cluster="ind"></div>
+  <!-- Match Information Strip, Social Share, Desktop Score -->
+
+  <!-- Content - #LHS & #RHS -->
+  <div class="row">
+    <!-- LHS - Live Score Tabs, Scores, Commentary, #Central Thin Column -->
+
+    <div class="large-10 medium-13 columns">
+
+<!-- Underhead Ad Slots -->
+
+    <div class="underhead-ad-615-1">
+<script language="JavaScript" type="text/javascript">
+var adarr13=new Array();
+adarr13[0] = '<a href="http://pubads.g.doubleclick.net/gampad/clk?id=143769297&iu=/6444/espn.cricinfo.nondartserved/clicktracker" target="_blank"><img src="/db/ADVERT/100/0183.jpg" alt="OnePlus 2" title="OnePlus 2" width="615" height="40" border="0"/></a>';
+adarr13[1] = '<a href="http://pubads.g.doubleclick.net/gampad/clk?id=146944497&iu=/6444/espn.cricinfo.nondartserved/clicktracker" target="_blank"><img src="/db/ADVERT/200/0261.jpg" alt="" title="" width="615" height="40" border="0"/></a>';
+adarr13[2] = '<a href="http://pubads.g.doubleclick.net/gampad/clk?id=146943057&iu=/6444/espn.cricinfo.nondartserved/clicktracker" target="_blank"><img src="/db/ADVERT/200/0263.jpg" alt="" title="" width="615" height="40" border="0"/></a>';
+adarr13[3] = '<a href="http://pubads.g.doubleclick.net/gampad/clk?id=146944017&iu=/6444/espn.cricinfo.nondartserved/clicktracker" target="_blank"><img src="/db/ADVERT/200/0265.jpg" alt="" title="" width="615" height="40" border="0"/></a>';
+adarr13[4] = '<a href="http://pubads.g.doubleclick.net/gampad/clk?id=146944257&iu=/6444/espn.cricinfo.nondartserved/clicktracker" target="_blank"><img src="/db/ADVERT/200/0267.jpg" alt="" title="" width="615" height="40" border="0"/></a>';
+adarr13[5] = '<a href="http://pubads.g.doubleclick.net/gampad/clk?id=146942337&iu=/6444/espn.cricinfo.nondartserved/clicktracker" target="_blank"><img src="/db/ADVERT/200/0269.jpg" alt="" title="" width="615" height="40" border="0"/></a>';
+adarr13[6] = '<a href="http://pubads.g.doubleclick.net/gampad/clk?id=146490657&iu=/6444/espn.cricinfo.nondartserved/clicktracker" target="_blank"><img src="/db/ADVERT/200/0271.jpg" alt="" title="" width="615" height="40" border="0"/></a>';
+adarr13[7] = '<a href="http://pubads.g.doubleclick.net/gampad/clk?id=146488377&iu=/6444/espn.cricinfo.nondartserved/clicktracker" target="_blank"><img src="/db/ADVERT/200/0273.jpg" alt="" title="" width="615" height="40" border="0"/></a>';
+adarr13[8] = '<a href="http://pubads.g.doubleclick.net/gampad/clk?id=146488617&iu=/6444/espn.cricinfo.nondartserved/clicktracker" target="_blank"><img src="/db/ADVERT/200/0277.jpg" alt="" title="" width="615" height="40" border="0"/></a>';
+adarr13[9] = '<a href="http://pubads.g.doubleclick.net/gampad/clk?id=146489097&iu=/6444/espn.cricinfo.nondartserved/clicktracker" target="_blank"><img src="/db/ADVERT/200/0279.jpg" alt="" title="" width="615" height="40" border="0"/></a>';
+adarr13[10] = '<a href="http://pubads.g.doubleclick.net/gampad/clk?id=146489337&iu=/6444/espn.cricinfo.nondartserved/clicktracker" target="_blank"><img src="/db/ADVERT/200/0281.jpg" alt="" title="" width="615" height="40" border="0"/></a>';
+adarr13[11] = '<a href="http://pubads.g.doubleclick.net/gampad/clk?id=147235137&iu=/6444/espn.cricinfo.nondartserved/clicktracker" target="_blank"><img src="/db/ADVERT/300/0317.jpg" alt="Dream-11_Orange-01" title="Dream-11_Orange-01" width="615" height="40" border="0"/></a>';
+adarr13[12] = '<a href="http://pubads.g.doubleclick.net/gampad/clk?id=147232257&iu=/6444/espn.cricinfo.nondartserved/clicktracker" target="_blank"><img src="/db/ADVERT/300/0319.jpg" alt="Dream-11_Orange-02" title="Dream-11_Orange-02" width="615" height="40" border="0"/></a>';
+adarr13[13] = '<a href="http://pubads.g.doubleclick.net/gampad/clk?id=147231777&iu=/6444/espn.cricinfo.nondartserved/clicktracker" target="_blank"><img src="/db/ADVERT/300/0321.jpg" alt="Dream-11_Orange-03" title="Dream-11_Orange-03" width="615" height="40" border="0"/></a>';
+adarr13[14] = '<a href="http://pubads.g.doubleclick.net/gampad/clk?id=147234417&iu=/6444/espn.cricinfo.nondartserved/clicktracker" target="_blank"><img src="/db/ADVERT/300/0323.jpg" alt="" title="" width="615" height="40" border="0"/></a>';
+adarr13[15] = '<a href="http://pubads.g.doubleclick.net/gampad/clk?id=147234657&iu=/6444/espn.cricinfo.nondartserved/clicktracker" target="_blank"><img src="/db/ADVERT/300/0325.jpg" alt="" title="" width="615" height="40" border="0"/></a>';
+adarr13[16] = '<a href="http://pubads.g.doubleclick.net/gampad/clk?id=143769297&iu=/6444/espn.cricinfo.nondartserved/clicktracker" target="_blank"><img src="/db/ADVERT/300/0373.jpg" alt="OnePlus 2" title="OnePlus 2" width="615" height="40" border="0"/></a>';
+adarr13[17] = '<a href="http://pubads.g.doubleclick.net/gampad/clk?id=143769297&iu=/6444/espn.cricinfo.nondartserved/clicktracker" target="_blank"><img src="/db/ADVERT/300/0375.jpg" alt="OnePlus 2" title="OnePlus 2" width="615" height="40" border="0"/></a>';
+adarr13[18] = '<a href="http://pubads.g.doubleclick.net/gampad/clk?id=143769297&iu=/6444/espn.cricinfo.nondartserved/clicktracker" target="_blank"><img src="/db/ADVERT/300/0377.jpg" alt="OnePlus 2" title="OnePlus 2" width="615" height="40" border="0"/></a>';
+adarr13[19] = '<a href="http://pubads.g.doubleclick.net/gampad/clk?id=143769297&iu=/6444/espn.cricinfo.nondartserved/clicktracker" target="_blank"><img src="/db/ADVERT/300/0379.jpg" alt="OnePlus 2" title="OnePlus 2" width="615" height="40" border="0"/></a>';
+
+var flab=Math.floor(Math.random()*adarr13.length);
+document.write(adarr13[flab]);
+</script>
+    </div>
+
+<!-- End -->
+
+<!-- Match Information -->
+
+    <div class="match-information-strip">
+      Indian Premier League,
+18th match: Royal Challengers Bangalore v Chennai Super Kings at Bangalore, Mar 23, 2010
+    </div>
+<!-- End -->
+
+     <!-- Score Tabs -->
+<div class='menuArchive'><span class="cardMenu"><a href="/ipl2010/engine/match/419123.html" class="cardMenu">Scorecard</a> |</span>
+<span class="cardMenu"><a href="/ipl2010/engine/match/419123.html?innings=1;view=commentary" class="cardMenu">Commentary</a> |</span>
+<span class="cardMenu"><a href="/ipl2010/engine/match/419123.html?view=wickets" class="cardMenu">Wickets</a> |</span>
+<span class="cardMenu"><a href="/ipl2010/engine/match/419123.html?innings=1;view=fow" class="cardMenu">Partnership table</a> |</span>
+<span class="cardMenu"><a href="/ipl2010/engine/match/419123.html?view=pvp" class="cardMenu">Player v player table</a> |</span>
+<span class="cardMenu"><a href="/ipl2010/engine/match/419123.html?view=comparison" class="cardMenu">Over comparison</a> |</span>
+<span class="cardMenu"><b>Career averages</b> |</span>
+<span class="cardMenu"><a href="/wisdenalmanack/content/story/518487.html" class="cardMenu">Almanack report</a> |</span>
+<span class="cardMenu"><a href="/ipl2010/content/story/453205.html" class="cardMenu">Report</a> |</span>
+<span class="cardMenu"><a href="/ipl2010/content/story/index.html?object=419123" class="cardMenu">Articles (5)</a> |</span>
+<span class="cardMenu"><a href="/ipl2010/content/image/index.html?object=419123" class="cardMenu">Photos (1)</a> |</span>
+<span class="cardMenu"><a href="/ipl2010/engine/match/419123.html?view=wagonwheel" class="cardMenu">Wagon wheel</a> |</span>
+<span class="cardMenu"><a href="/ipl2010/engine/match/419123.html?view=manhattan" class="cardMenu">Manhattan</a> |</span>
+<span class="cardMenu"><a href="/ipl2010/engine/match/419123.html?view=wormchart" class="cardMenu">Worm</a> |</span>
+<span class="cardMenu"><a href="/ipl2010/engine/match/419123.html?view=runrate" class="cardMenu">Run rate graph</a> |</span>
+<span class="cardMenu"><a href="/ipl2010/engine/match/419123.html?view=runsballs" class="cardMenu">Player v player graph</a> |</span>
+<span class="cardMenu"><a href="/ipl2010/engine/match/419123.html?view=partnership" class="cardMenu">Partnership graph</a> |</span>
+<span class="cardMenu"><a href="/ipl2010/engine/match/419123.html?view=runstype" class="cardMenu">Scoring shots graph</a> |</span>
+<span class="cardMenu"><a href="/ipl2010/engine/match/419123.html?view=wicketspie" class="cardMenu">Wickets pie</a> |</span>
+<span class="cardMenu"><a href="/ipl2010/engine/match/419123.html?view=extraspie" class="cardMenu">Extras pie</a></span>
+</div>
+     <!-- End -->
+     <div id="main_content">
+<div class="statistics-block">
+ <!-- Match Information -->
+ <div class="row brief-summary">
+
+	    <div class="large-13 medium-13 columns innings-information">
+  <div class="space-top-bottom-5"><a href="/ipl2010/engine/series/418064.html" target="" title="view the match results for Indian Premier League in 2009/10" class="headLink">Indian Premier League</a> - 18th match</div>
+  <div class="team-1-name">
+<a href="/ipl-blore/content/team/335970.html" target="" title="view the team home page for Royal Challengers Bangalore" class="teamLink">Royal Challengers Bangalore</a> v <a href="/ipl-chennai/content/team/335974.html" target="" title="view the team home page for Chennai Super Kings" class="teamLink">Chennai Super Kings</a>  </div>
+  <div class="innings-requirement">Royal Challengers Bangalore won by 36 runs</div>
+	    </div>
+	    
+	    <div class="large-7 medium-7 columns text-right match-information">
+   <div class="space-top-bottom-5"><a href="/ci/engine/records/index.html?class=6" target="" title="view the overall records for Twenty20 matches" class="headLink">Twenty20 match</a>  |  <a href="/ci/engine/series/index.html?season=2009%2F10" target="" title="view the scorecard archive for season 2009/10" class="headLink">2009/10 season</a></div>
+   <div class="space-top-bottom-5">
+    Played at 
+<a href="/ipl2010/content/ground/57897.html" target="" title="view the ground profile for M Chinnaswamy Stadium, Bangalore" class="headLink">M Chinnaswamy Stadium, Bangalore</a>   </div>
+   <div class="space-top-bottom-5">
+23 March 2010 - night match (20-over match)   </div>
+	    </div>
+	
+<div class="large-20 columns">
+		<div class="row">
+			<div class="large-20 columns break-status">
+
+			</div>
+		</div>
+	</div>  </div>
+
+ <div class="row">
+  <div class="large-20 columns">
+   <div id="stats-container">
+	  <div class="career-avg-section">
+ 		<div class="more-match-stats space-top-bottom-10">
+		     <p>Career averages for matches completed by Mar 23, 2010</p>
+		</div>
+	       <div id="first-match-block" style="display:block">
+
+       
+<table width="100%" class="careeravg-table">
+<caption>Royal Challengers Bangalore batting averages - Twenty20 matches</caption>
+ <tr class="tr-heading">
+  <th scope="col" title="player name" class="text-left">Player</th>
+  <th scope="col" title="playing span" class="text-left">Span</th>
+  <th scope="col" title="matches played" class="padAst">Mat</th>
+  <th scope="col" title="innings batted">Inns</th>
+  <th scope="col" title="not outs">NO</th>
+  <th scope="col" title="runs scored">Runs</th>
+  <th scope="col" title="highest inns score" class="padAst">HS</th>
+  <th scope="col" title="batting average">Ave</th>
+  <th scope="col" title="balls faced">BF</th>
+  <th scope="col" title="batting strike rate">SR</th>
+  <th scope="col" title="hundreds scored">100</th>
+  <th scope="col" title="fifties scored">50</th>
+  <th scope="col" title="ducks scored">0</th>
+  <th scope="col" title="boundary fours">4s</th>
+  <th scope="col" title="boundary sixes">6s</th>
+ </tr>
+ <tr class="data1">
+  <td class="text-left" nowrap="nowrap"><a href="/ipl2010/content/player/44111.html" class="data-link">MV Boucher</a></td>
+  <td class="text-left" nowrap="nowrap">2004-2010</td>
+  <td class="padAst" nowrap="nowrap">58</td>
+  <td nowrap="nowrap">45</td>
+  <td nowrap="nowrap">16</td>
+  <td nowrap="nowrap">840</td>
+  <td nowrap="nowrap">57*</td>
+  <td nowrap="nowrap">28.96</td>
+  <td nowrap="nowrap">731</td>
+  <td nowrap="nowrap">114.91</td>
+  <td nowrap="nowrap">0</td>
+  <td nowrap="nowrap">2</td>
+  <td nowrap="nowrap">0</td>
+  <td nowrap="nowrap">64</td>
+  <td nowrap="nowrap">25</td>
+ </tr>
+ <tr class="data1">
+  <td class="text-left" nowrap="nowrap"><a href="/ipl2010/content/player/28114.html" class="data-link">R Dravid</a></td>
+  <td class="text-left" nowrap="nowrap">2007-2010</td>
+  <td class="padAst" nowrap="nowrap">38</td>
+  <td nowrap="nowrap">33</td>
+  <td nowrap="nowrap">2</td>
+  <td nowrap="nowrap">825</td>
+  <td nowrap="nowrap">75*</td>
+  <td nowrap="nowrap">26.61</td>
+  <td nowrap="nowrap">687</td>
+  <td nowrap="nowrap">120.08</td>
+  <td nowrap="nowrap">0</td>
+  <td nowrap="nowrap">4</td>
+  <td nowrap="nowrap">3</td>
+  <td nowrap="nowrap">86</td>
+  <td nowrap="nowrap">17</td>
+ </tr>
+ <tr class="data1">
+  <td class="text-left" nowrap="nowrap"><a href="/ipl2010/content/player/45789.html" class="data-link">JH Kallis</a></td>
+  <td class="text-left" nowrap="nowrap">2004-2010</td>
+  <td class="padAst" nowrap="nowrap">48</td>
+  <td nowrap="nowrap">48</td>
+  <td nowrap="nowrap">9</td>
+  <td nowrap="nowrap">1407</td>
+  <td nowrap="nowrap">89*</td>
+  <td nowrap="nowrap">36.07</td>
+  <td nowrap="nowrap">1210</td>
+  <td nowrap="nowrap">116.28</td>
+  <td nowrap="nowrap">0</td>
+  <td nowrap="nowrap">12</td>
+  <td nowrap="nowrap">3</td>
+  <td nowrap="nowrap">155</td>
+  <td nowrap="nowrap">30</td>
+ </tr>
+ <tr class="data1">
+  <td class="text-left" nowrap="nowrap"><a href="/ipl2010/content/player/253802.html" class="data-link">V Kohli</a></td>
+  <td class="text-left" nowrap="nowrap">2007-2010</td>
+  <td class="padAst" nowrap="nowrap">43</td>
+  <td nowrap="nowrap">38</td>
+  <td nowrap="nowrap">5</td>
+  <td nowrap="nowrap">728</td>
+  <td class="padAst" nowrap="nowrap">76</td>
+  <td nowrap="nowrap">22.06</td>
+  <td nowrap="nowrap">608</td>
+  <td nowrap="nowrap">119.73</td>
+  <td nowrap="nowrap">0</td>
+  <td nowrap="nowrap">2</td>
+  <td nowrap="nowrap">1</td>
+  <td nowrap="nowrap">72</td>
+  <td nowrap="nowrap">19</td>
+ </tr>
+ <tr class="data1">
+  <td class="text-left" nowrap="nowrap"><a href="/ipl2010/content/player/30732.html" class="data-link">P Kumar</a></td>
+  <td class="text-left" nowrap="nowrap">2007-2010</td>
+  <td class="padAst" nowrap="nowrap">40</td>
+  <td nowrap="nowrap">26</td>
+  <td nowrap="nowrap">7</td>
+  <td nowrap="nowrap">293</td>
+  <td nowrap="nowrap">76*</td>
+  <td nowrap="nowrap">15.42</td>
+  <td nowrap="nowrap">235</td>
+  <td nowrap="nowrap">124.68</td>
+  <td nowrap="nowrap">0</td>
+  <td nowrap="nowrap">1</td>
+  <td nowrap="nowrap">4</td>
+  <td nowrap="nowrap">24</td>
+  <td nowrap="nowrap">14</td>
+ </tr>
+ <tr class="data1">
+  <td class="text-left" nowrap="nowrap"><a href="/ipl2010/content/player/30176.html" class="data-link">A Kumble</a></td>
+  <td class="text-left" nowrap="nowrap">2006-2010</td>
+  <td class="padAst" nowrap="nowrap">38</td>
+  <td nowrap="nowrap">14</td>
+  <td nowrap="nowrap">10</td>
+  <td nowrap="nowrap">38</td>
+  <td class="padAst" nowrap="nowrap">8</td>
+  <td nowrap="nowrap">9.50</td>
+  <td nowrap="nowrap">45</td>
+  <td nowrap="nowrap">84.44</td>
+  <td nowrap="nowrap">0</td>
+  <td nowrap="nowrap">0</td>
+  <td nowrap="nowrap">0</td>
+  <td nowrap="nowrap">3</td>
+  <td nowrap="nowrap">0</td>
+ </tr>
+ <tr class="data1">
+  <td class="text-left" nowrap="nowrap"><a href="/ipl2010/content/player/24598.html" class="data-link">EJG Morgan</a></td>
+  <td class="text-left" nowrap="nowrap">2006-2010</td>
+  <td class="padAst" nowrap="nowrap">50</td>
+  <td nowrap="nowrap">46</td>
+  <td nowrap="nowrap">5</td>
+  <td nowrap="nowrap">939</td>
+  <td nowrap="nowrap">85*</td>
+  <td nowrap="nowrap">22.90</td>
+  <td nowrap="nowrap">749</td>
+  <td nowrap="nowrap">125.36</td>
+  <td nowrap="nowrap">0</td>
+  <td nowrap="nowrap">4</td>
+  <td nowrap="nowrap">2</td>
+  <td nowrap="nowrap">78</td>
+  <td nowrap="nowrap">35</td>
+ </tr>
+ <tr class="data1">
+  <td class="text-left" nowrap="nowrap"><a href="/ipl2010/content/player/290630.html" class="data-link">MK Pandey</a></td>
+  <td class="text-left" nowrap="nowrap">2007-2010</td>
+  <td class="padAst" nowrap="nowrap">25</td>
+  <td nowrap="nowrap">23</td>
+  <td nowrap="nowrap">5</td>
+  <td nowrap="nowrap">547</td>
+  <td nowrap="nowrap">114*</td>
+  <td nowrap="nowrap">30.38</td>
+  <td nowrap="nowrap">436</td>
+  <td nowrap="nowrap">125.45</td>
+  <td nowrap="nowrap">1</td>
+  <td nowrap="nowrap">1</td>
+  <td nowrap="nowrap">3</td>
+  <td nowrap="nowrap">53</td>
+  <td nowrap="nowrap">12</td>
+ </tr>
+ <tr class="data1">
+  <td class="text-left" nowrap="nowrap"><a href="/ipl2010/content/player/47492.html" class="data-link">DW Steyn</a></td>
+  <td class="text-left" nowrap="nowrap">2005-2010</td>
+  <td class="padAst" nowrap="nowrap">49</td>
+  <td nowrap="nowrap">10</td>
+  <td nowrap="nowrap">4</td>
+  <td nowrap="nowrap">32</td>
+  <td class="padAst" nowrap="nowrap">22</td>
+  <td nowrap="nowrap">5.33</td>
+  <td nowrap="nowrap">30</td>
+  <td nowrap="nowrap">106.66</td>
+  <td nowrap="nowrap">0</td>
+  <td nowrap="nowrap">0</td>
+  <td nowrap="nowrap">1</td>
+  <td nowrap="nowrap">1</td>
+  <td nowrap="nowrap">2</td>
+ </tr>
+ <tr class="data1">
+  <td class="text-left" nowrap="nowrap"><a href="/ipl2010/content/player/35582.html" class="data-link">RV Uthappa</a></td>
+  <td class="text-left" nowrap="nowrap">2007-2010</td>
+  <td class="padAst" nowrap="nowrap">58</td>
+  <td nowrap="nowrap">54</td>
+  <td nowrap="nowrap">9</td>
+  <td nowrap="nowrap">1151</td>
+  <td nowrap="nowrap">68*</td>
+  <td nowrap="nowrap">25.57</td>
+  <td nowrap="nowrap">925</td>
+  <td nowrap="nowrap">124.43</td>
+  <td nowrap="nowrap">0</td>
+  <td nowrap="nowrap">5</td>
+  <td nowrap="nowrap">2</td>
+  <td nowrap="nowrap">113</td>
+  <td nowrap="nowrap">41</td>
+ </tr>
+ <tr class="data1">
+  <td class="text-left" nowrap="nowrap"><a href="/ipl2010/content/player/35731.html" class="data-link">R Vinay Kumar</a></td>
+  <td class="text-left" nowrap="nowrap">2007-2010</td>
+  <td class="padAst" nowrap="nowrap">34</td>
+  <td nowrap="nowrap">19</td>
+  <td nowrap="nowrap">7</td>
+  <td nowrap="nowrap">143</td>
+  <td nowrap="nowrap">25*</td>
+  <td nowrap="nowrap">11.91</td>
+  <td nowrap="nowrap">104</td>
+  <td nowrap="nowrap">137.50</td>
+  <td nowrap="nowrap">0</td>
+  <td nowrap="nowrap">0</td>
+  <td nowrap="nowrap">3</td>
+  <td nowrap="nowrap">10</td>
+  <td nowrap="nowrap">7</td>
+ </tr>
+</table>
+
+
+       
+<table width="100%" class="careeravg-table">
+<caption>Royal Challengers Bangalore bowling averages - Twenty20 matches</caption>
+ <tr class="tr-heading">
+  <th scope="col" title="player name" class="text-left">Player</th>
+  <th scope="col" title="playing span" class="text-left">Span</th>
+  <th scope="col" title="matches played" class="padAst">Mat</th>
+  <th scope="col" title="innings bowled">Inns</th>
+  <th scope="col" title="overs bowled">Overs</th>
+  <th scope="col" title="maidens earned">Mdns</th>
+  <th scope="col" title="runs conceded">Runs</th>
+  <th scope="col" title="wickets taken">Wkts</th>
+  <th scope="col" title="best innings bowling">BBI</th>
+  <th scope="col" title="bowling average">Ave</th>
+  <th scope="col" title="economy rate">Econ</th>
+  <th scope="col" title="bowling strike rate">SR</th>
+  <th scope="col" title="four wkts in an inns">4</th>
+  <th scope="col" title="five wkts in an inns">5</th>
+  <th scope="col" title="catches taken">Ct</th>
+  <th scope="col" title="stumpings made">St</th>
+ </tr>
+ <tr class="data1">
+  <td class="text-left" nowrap="nowrap"><a href="/ipl2010/content/player/44111.html" class="data-link">MV Boucher</a></td>
+  <td class="text-left" nowrap="nowrap">2004-2010</td>
+  <td class="padAst" nowrap="nowrap">58</td>
+  <td nowrap="nowrap">-</td>
+  <td nowrap="nowrap">-</td>
+  <td nowrap="nowrap">-</td>
+  <td nowrap="nowrap">-</td>
+  <td nowrap="nowrap">-</td>
+  <td nowrap="nowrap">-</td>
+  <td class="padDp2" nowrap="nowrap">-</td>
+  <td class="padDp2" nowrap="nowrap">-</td>
+  <td class="padDp1" nowrap="nowrap">-</td>
+  <td nowrap="nowrap">-</td>
+  <td nowrap="nowrap">-</td>
+  <td nowrap="nowrap">33</td>
+  <td nowrap="nowrap">9</td>
+ </tr>
+ <tr class="data1">
+  <td class="text-left" nowrap="nowrap"><a href="/ipl2010/content/player/28114.html" class="data-link">R Dravid</a></td>
+  <td class="text-left" nowrap="nowrap">2007-2010</td>
+  <td class="padAst" nowrap="nowrap">38</td>
+  <td nowrap="nowrap">-</td>
+  <td nowrap="nowrap">-</td>
+  <td nowrap="nowrap">-</td>
+  <td nowrap="nowrap">-</td>
+  <td nowrap="nowrap">-</td>
+  <td nowrap="nowrap">-</td>
+  <td class="padDp2" nowrap="nowrap">-</td>
+  <td class="padDp2" nowrap="nowrap">-</td>
+  <td class="padDp1" nowrap="nowrap">-</td>
+  <td nowrap="nowrap">-</td>
+  <td nowrap="nowrap">-</td>
+  <td nowrap="nowrap">6</td>
+  <td nowrap="nowrap">0</td>
+ </tr>
+ <tr class="data1">
+  <td class="text-left" nowrap="nowrap"><a href="/ipl2010/content/player/45789.html" class="data-link">JH Kallis</a></td>
+  <td class="text-left" nowrap="nowrap">2004-2010</td>
+  <td class="padAst" nowrap="nowrap">48</td>
+  <td nowrap="nowrap">41</td>
+  <td nowrap="nowrap">122.2</td>
+  <td nowrap="nowrap">2</td>
+  <td nowrap="nowrap">999</td>
+  <td nowrap="nowrap">21</td>
+  <td nowrap="nowrap">3/18</td>
+  <td nowrap="nowrap">47.57</td>
+  <td nowrap="nowrap">8.16</td>
+  <td nowrap="nowrap">34.9</td>
+  <td nowrap="nowrap">0</td>
+  <td nowrap="nowrap">0</td>
+  <td nowrap="nowrap">17</td>
+  <td nowrap="nowrap">0</td>
+ </tr>
+ <tr class="data1">
+  <td class="text-left" nowrap="nowrap"><a href="/ipl2010/content/player/253802.html" class="data-link">V Kohli</a></td>
+  <td class="text-left" nowrap="nowrap">2007-2010</td>
+  <td class="padAst" nowrap="nowrap">43</td>
+  <td nowrap="nowrap">10</td>
+  <td nowrap="nowrap">18.0</td>
+  <td nowrap="nowrap">0</td>
+  <td nowrap="nowrap">154</td>
+  <td nowrap="nowrap">2</td>
+  <td nowrap="nowrap">2/25</td>
+  <td nowrap="nowrap">77.00</td>
+  <td nowrap="nowrap">8.55</td>
+  <td nowrap="nowrap">54.0</td>
+  <td nowrap="nowrap">0</td>
+  <td nowrap="nowrap">0</td>
+  <td nowrap="nowrap">17</td>
+  <td nowrap="nowrap">0</td>
+ </tr>
+ <tr class="data1">
+  <td class="text-left" nowrap="nowrap"><a href="/ipl2010/content/player/30732.html" class="data-link">P Kumar</a></td>
+  <td class="text-left" nowrap="nowrap">2007-2010</td>
+  <td class="padAst" nowrap="nowrap">40</td>
+  <td nowrap="nowrap">40</td>
+  <td nowrap="nowrap">143.4</td>
+  <td nowrap="nowrap">3</td>
+  <td nowrap="nowrap">1069</td>
+  <td nowrap="nowrap">41</td>
+  <td nowrap="nowrap">3/18</td>
+  <td nowrap="nowrap">26.07</td>
+  <td nowrap="nowrap">7.44</td>
+  <td nowrap="nowrap">21.0</td>
+  <td nowrap="nowrap">0</td>
+  <td nowrap="nowrap">0</td>
+  <td nowrap="nowrap">4</td>
+  <td nowrap="nowrap">0</td>
+ </tr>
+ <tr class="data1">
+  <td class="text-left" nowrap="nowrap"><a href="/ipl2010/content/player/30176.html" class="data-link">A Kumble</a></td>
+  <td class="text-left" nowrap="nowrap">2006-2010</td>
+  <td class="padAst" nowrap="nowrap">38</td>
+  <td nowrap="nowrap">38</td>
+  <td nowrap="nowrap">144.0</td>
+  <td nowrap="nowrap">1</td>
+  <td nowrap="nowrap">952</td>
+  <td nowrap="nowrap">42</td>
+  <td nowrap="nowrap">5/5</td>
+  <td nowrap="nowrap">22.66</td>
+  <td nowrap="nowrap">6.61</td>
+  <td nowrap="nowrap">20.5</td>
+  <td nowrap="nowrap">1</td>
+  <td nowrap="nowrap">1</td>
+  <td nowrap="nowrap">12</td>
+  <td nowrap="nowrap">0</td>
+ </tr>
+ <tr class="data1">
+  <td class="text-left" nowrap="nowrap"><a href="/ipl2010/content/player/24598.html" class="data-link">EJG Morgan</a></td>
+  <td class="text-left" nowrap="nowrap">2006-2010</td>
+  <td class="padAst" nowrap="nowrap">50</td>
+  <td nowrap="nowrap">-</td>
+  <td nowrap="nowrap">-</td>
+  <td nowrap="nowrap">-</td>
+  <td nowrap="nowrap">-</td>
+  <td nowrap="nowrap">-</td>
+  <td nowrap="nowrap">-</td>
+  <td class="padDp2" nowrap="nowrap">-</td>
+  <td class="padDp2" nowrap="nowrap">-</td>
+  <td class="padDp1" nowrap="nowrap">-</td>
+  <td nowrap="nowrap">-</td>
+  <td nowrap="nowrap">-</td>
+  <td nowrap="nowrap">24</td>
+  <td nowrap="nowrap">0</td>
+ </tr>
+ <tr class="data1">
+  <td class="text-left" nowrap="nowrap"><a href="/ipl2010/content/player/290630.html" class="data-link">MK Pandey</a></td>
+  <td class="text-left" nowrap="nowrap">2007-2010</td>
+  <td class="padAst" nowrap="nowrap">25</td>
+  <td nowrap="nowrap">-</td>
+  <td nowrap="nowrap">-</td>
+  <td nowrap="nowrap">-</td>
+  <td nowrap="nowrap">-</td>
+  <td nowrap="nowrap">-</td>
+  <td nowrap="nowrap">-</td>
+  <td class="padDp2" nowrap="nowrap">-</td>
+  <td class="padDp2" nowrap="nowrap">-</td>
+  <td class="padDp1" nowrap="nowrap">-</td>
+  <td nowrap="nowrap">-</td>
+  <td nowrap="nowrap">-</td>
+  <td nowrap="nowrap">11</td>
+  <td nowrap="nowrap">0</td>
+ </tr>
+ <tr class="data1">
+  <td class="text-left" nowrap="nowrap"><a href="/ipl2010/content/player/47492.html" class="data-link">DW Steyn</a></td>
+  <td class="text-left" nowrap="nowrap">2005-2010</td>
+  <td class="padAst" nowrap="nowrap">49</td>
+  <td nowrap="nowrap">48</td>
+  <td nowrap="nowrap">180.0</td>
+  <td nowrap="nowrap">0</td>
+  <td nowrap="nowrap">1235</td>
+  <td nowrap="nowrap">53</td>
+  <td nowrap="nowrap">4/9</td>
+  <td nowrap="nowrap">23.30</td>
+  <td nowrap="nowrap">6.86</td>
+  <td nowrap="nowrap">20.3</td>
+  <td nowrap="nowrap">1</td>
+  <td nowrap="nowrap">0</td>
+  <td nowrap="nowrap">11</td>
+  <td nowrap="nowrap">0</td>
+ </tr>
+ <tr class="data1">
+  <td class="text-left" nowrap="nowrap"><a href="/ipl2010/content/player/35582.html" class="data-link">RV Uthappa</a></td>
+  <td class="text-left" nowrap="nowrap">2007-2010</td>
+  <td class="padAst" nowrap="nowrap">58</td>
+  <td nowrap="nowrap">-</td>
+  <td nowrap="nowrap">-</td>
+  <td nowrap="nowrap">-</td>
+  <td nowrap="nowrap">-</td>
+  <td nowrap="nowrap">-</td>
+  <td nowrap="nowrap">-</td>
+  <td class="padDp2" nowrap="nowrap">-</td>
+  <td class="padDp2" nowrap="nowrap">-</td>
+  <td class="padDp1" nowrap="nowrap">-</td>
+  <td nowrap="nowrap">-</td>
+  <td nowrap="nowrap">-</td>
+  <td nowrap="nowrap">23</td>
+  <td nowrap="nowrap">1</td>
+ </tr>
+ <tr class="data1">
+  <td class="text-left" nowrap="nowrap"><a href="/ipl2010/content/player/35731.html" class="data-link">R Vinay Kumar</a></td>
+  <td class="text-left" nowrap="nowrap">2007-2010</td>
+  <td class="padAst" nowrap="nowrap">34</td>
+  <td nowrap="nowrap">34</td>
+  <td nowrap="nowrap">106.4</td>
+  <td nowrap="nowrap">1</td>
+  <td nowrap="nowrap">845</td>
+  <td nowrap="nowrap">33</td>
+  <td nowrap="nowrap">4/40</td>
+  <td nowrap="nowrap">25.60</td>
+  <td nowrap="nowrap">7.92</td>
+  <td nowrap="nowrap">19.3</td>
+  <td nowrap="nowrap">1</td>
+  <td nowrap="nowrap">0</td>
+  <td nowrap="nowrap">6</td>
+  <td nowrap="nowrap">0</td>
+ </tr>
+</table>
+
+
+       
+<table width="100%" class="careeravg-table">
+<caption>Chennai Super Kings batting averages - Twenty20 matches</caption>
+ <tr class="tr-heading">
+  <th scope="col" title="player name" class="text-left">Player</th>
+  <th scope="col" title="playing span" class="text-left">Span</th>
+  <th scope="col" title="matches played" class="padAst">Mat</th>
+  <th scope="col" title="innings batted">Inns</th>
+  <th scope="col" title="not outs">NO</th>
+  <th scope="col" title="runs scored">Runs</th>
+  <th scope="col" title="highest inns score" class="padAst">HS</th>
+  <th scope="col" title="batting average">Ave</th>
+  <th scope="col" title="balls faced">BF</th>
+  <th scope="col" title="batting strike rate">SR</th>
+  <th scope="col" title="hundreds scored">100</th>
+  <th scope="col" title="fifties scored">50</th>
+  <th scope="col" title="ducks scored">0</th>
+  <th scope="col" title="boundary fours">4s</th>
+  <th scope="col" title="boundary sixes">6s</th>
+ </tr>
+ <tr class="data1">
+  <td class="text-left" nowrap="nowrap"><a href="/ipl2010/content/player/26421.html" class="data-link">R Ashwin</a></td>
+  <td class="text-left" nowrap="nowrap">2007-2010</td>
+  <td class="padAst" nowrap="nowrap">19</td>
+  <td nowrap="nowrap">8</td>
+  <td nowrap="nowrap">2</td>
+  <td nowrap="nowrap">28</td>
+  <td nowrap="nowrap">11*</td>
+  <td nowrap="nowrap">4.66</td>
+  <td nowrap="nowrap">40</td>
+  <td nowrap="nowrap">70.00</td>
+  <td nowrap="nowrap">0</td>
+  <td nowrap="nowrap">0</td>
+  <td nowrap="nowrap">2</td>
+  <td nowrap="nowrap">2</td>
+  <td nowrap="nowrap">0</td>
+ </tr>
+ <tr class="data1">
+  <td class="text-left" nowrap="nowrap"><a href="/ipl2010/content/player/26806.html" class="data-link">S Badrinath</a></td>
+  <td class="text-left" nowrap="nowrap">2007-2010</td>
+  <td class="padAst" nowrap="nowrap">42</td>
+  <td nowrap="nowrap">34</td>
+  <td nowrap="nowrap">10</td>
+  <td nowrap="nowrap">611</td>
+  <td class="padAst" nowrap="nowrap">64</td>
+  <td nowrap="nowrap">25.45</td>
+  <td nowrap="nowrap">512</td>
+  <td nowrap="nowrap">119.33</td>
+  <td nowrap="nowrap">0</td>
+  <td nowrap="nowrap">3</td>
+  <td nowrap="nowrap">3</td>
+  <td nowrap="nowrap">60</td>
+  <td nowrap="nowrap">18</td>
+ </tr>
+ <tr class="data1">
+  <td class="text-left" nowrap="nowrap"><a href="/ipl2010/content/player/4451.html" class="data-link">GJ Bailey</a></td>
+  <td class="text-left" nowrap="nowrap">2006-2010</td>
+  <td class="padAst" nowrap="nowrap">24</td>
+  <td nowrap="nowrap">20</td>
+  <td nowrap="nowrap">2</td>
+  <td nowrap="nowrap">494</td>
+  <td class="padAst" nowrap="nowrap">60</td>
+  <td nowrap="nowrap">27.44</td>
+  <td nowrap="nowrap">368</td>
+  <td nowrap="nowrap">134.23</td>
+  <td nowrap="nowrap">0</td>
+  <td nowrap="nowrap">4</td>
+  <td nowrap="nowrap">0</td>
+  <td nowrap="nowrap">40</td>
+  <td nowrap="nowrap">20</td>
+ </tr>
+ <tr class="data1">
+  <td class="text-left" nowrap="nowrap"><a href="/ipl2010/content/player/26829.html" class="data-link">L Balaji</a></td>
+  <td class="text-left" nowrap="nowrap">2008-2010</td>
+  <td class="padAst" nowrap="nowrap">29</td>
+  <td nowrap="nowrap">7</td>
+  <td nowrap="nowrap">2</td>
+  <td nowrap="nowrap">19</td>
+  <td class="padAst" nowrap="nowrap">15</td>
+  <td nowrap="nowrap">3.80</td>
+  <td nowrap="nowrap">26</td>
+  <td nowrap="nowrap">73.07</td>
+  <td nowrap="nowrap">0</td>
+  <td nowrap="nowrap">0</td>
+  <td nowrap="nowrap">3</td>
+  <td nowrap="nowrap">1</td>
+  <td nowrap="nowrap">1</td>
+ </tr>
+ <tr class="data1">
+  <td class="text-left" nowrap="nowrap"><a href="/ipl2010/content/player/5616.html" class="data-link">ML Hayden</a></td>
+  <td class="text-left" nowrap="nowrap">2005-2010</td>
+  <td class="padAst" nowrap="nowrap">30</td>
+  <td nowrap="nowrap">30</td>
+  <td nowrap="nowrap">5</td>
+  <td nowrap="nowrap">1245</td>
+  <td class="padAst" nowrap="nowrap">93</td>
+  <td nowrap="nowrap">49.80</td>
+  <td nowrap="nowrap">854</td>
+  <td nowrap="nowrap">145.78</td>
+  <td nowrap="nowrap">0</td>
+  <td nowrap="nowrap">12</td>
+  <td nowrap="nowrap">0</td>
+  <td nowrap="nowrap">139</td>
+  <td nowrap="nowrap">52</td>
+ </tr>
+ <tr class="data1">
+  <td class="text-left" nowrap="nowrap"><a href="/ipl2010/content/player/46248.html" class="data-link">JA Morkel</a></td>
+  <td class="text-left" nowrap="nowrap">2004-2010</td>
+  <td class="padAst" nowrap="nowrap">98</td>
+  <td nowrap="nowrap">81</td>
+  <td nowrap="nowrap">26</td>
+  <td nowrap="nowrap">1388</td>
+  <td class="padAst" nowrap="nowrap">71</td>
+  <td nowrap="nowrap">25.23</td>
+  <td nowrap="nowrap">1008</td>
+  <td nowrap="nowrap">137.69</td>
+  <td nowrap="nowrap">0</td>
+  <td nowrap="nowrap">3</td>
+  <td nowrap="nowrap">4</td>
+  <td nowrap="nowrap">106</td>
+  <td nowrap="nowrap">72</td>
+ </tr>
+ <tr class="data1">
+  <td class="text-left" nowrap="nowrap"><a href="/ipl2010/content/player/49636.html" class="data-link">M Muralitharan</a></td>
+  <td class="text-left" nowrap="nowrap">2005-2010</td>
+  <td class="padAst" nowrap="nowrap">57</td>
+  <td nowrap="nowrap">15</td>
+  <td nowrap="nowrap">3</td>
+  <td nowrap="nowrap">38</td>
+  <td class="padAst" nowrap="nowrap">11</td>
+  <td nowrap="nowrap">3.16</td>
+  <td nowrap="nowrap">47</td>
+  <td nowrap="nowrap">80.85</td>
+  <td nowrap="nowrap">0</td>
+  <td nowrap="nowrap">0</td>
+  <td nowrap="nowrap">5</td>
+  <td nowrap="nowrap">2</td>
+  <td nowrap="nowrap">1</td>
+ </tr>
+ <tr class="data1">
+  <td class="text-left" nowrap="nowrap"><a href="/ipl2010/content/player/32242.html" class="data-link">PA Patel</a></td>
+  <td class="text-left" nowrap="nowrap">2005-2010</td>
+  <td class="padAst" nowrap="nowrap">38</td>
+  <td nowrap="nowrap">37</td>
+  <td nowrap="nowrap">2</td>
+  <td nowrap="nowrap">754</td>
+  <td class="padAst" nowrap="nowrap">57</td>
+  <td nowrap="nowrap">21.54</td>
+  <td nowrap="nowrap">683</td>
+  <td nowrap="nowrap">110.39</td>
+  <td nowrap="nowrap">0</td>
+  <td nowrap="nowrap">4</td>
+  <td nowrap="nowrap">4</td>
+  <td nowrap="nowrap">103</td>
+  <td nowrap="nowrap">10</td>
+ </tr>
+ <tr class="data1">
+  <td class="text-left" nowrap="nowrap"><a href="/ipl2010/content/player/33335.html" class="data-link">SK Raina</a></td>
+  <td class="text-left" nowrap="nowrap">2006-2010</td>
+  <td class="padAst" nowrap="nowrap">46</td>
+  <td nowrap="nowrap">43</td>
+  <td nowrap="nowrap">6</td>
+  <td nowrap="nowrap">1101</td>
+  <td class="padAst" nowrap="nowrap">98</td>
+  <td nowrap="nowrap">29.75</td>
+  <td nowrap="nowrap">805</td>
+  <td nowrap="nowrap">136.77</td>
+  <td nowrap="nowrap">0</td>
+  <td nowrap="nowrap">6</td>
+  <td nowrap="nowrap">1</td>
+  <td nowrap="nowrap">88</td>
+  <td nowrap="nowrap">52</td>
+ </tr>
+ <tr class="data1">
+  <td class="text-left" nowrap="nowrap"><a href="/ipl2010/content/player/317784.html" class="data-link">S Tyagi</a></td>
+  <td class="text-left" nowrap="nowrap">2009-2010</td>
+  <td class="padAst" nowrap="nowrap">11</td>
+  <td nowrap="nowrap">3</td>
+  <td nowrap="nowrap">2</td>
+  <td nowrap="nowrap">3</td>
+  <td nowrap="nowrap">3*</td>
+  <td nowrap="nowrap">3.00</td>
+  <td nowrap="nowrap">4</td>
+  <td nowrap="nowrap">75.00</td>
+  <td nowrap="nowrap">0</td>
+  <td nowrap="nowrap">0</td>
+  <td nowrap="nowrap">1</td>
+  <td nowrap="nowrap">0</td>
+  <td nowrap="nowrap">0</td>
+ </tr>
+ <tr class="data1">
+  <td class="text-left" nowrap="nowrap"><a href="/ipl2010/content/player/237095.html" class="data-link">M Vijay</a></td>
+  <td class="text-left" nowrap="nowrap">2007-2010</td>
+  <td class="padAst" nowrap="nowrap">20</td>
+  <td nowrap="nowrap">18</td>
+  <td nowrap="nowrap">1</td>
+  <td nowrap="nowrap">302</td>
+  <td class="padAst" nowrap="nowrap">54</td>
+  <td nowrap="nowrap">17.76</td>
+  <td nowrap="nowrap">264</td>
+  <td nowrap="nowrap">114.39</td>
+  <td nowrap="nowrap">0</td>
+  <td nowrap="nowrap">1</td>
+  <td nowrap="nowrap">1</td>
+  <td nowrap="nowrap">20</td>
+  <td nowrap="nowrap">11</td>
+ </tr>
+</table>
+
+
+       
+<table width="100%" class="careeravg-table">
+<caption>Chennai Super Kings bowling averages - Twenty20 matches</caption>
+ <tr class="tr-heading">
+  <th scope="col" title="player name" class="text-left">Player</th>
+  <th scope="col" title="playing span" class="text-left">Span</th>
+  <th scope="col" title="matches played" class="padAst">Mat</th>
+  <th scope="col" title="innings bowled">Inns</th>
+  <th scope="col" title="overs bowled">Overs</th>
+  <th scope="col" title="maidens earned">Mdns</th>
+  <th scope="col" title="runs conceded">Runs</th>
+  <th scope="col" title="wickets taken">Wkts</th>
+  <th scope="col" title="best innings bowling">BBI</th>
+  <th scope="col" title="bowling average">Ave</th>
+  <th scope="col" title="economy rate">Econ</th>
+  <th scope="col" title="bowling strike rate">SR</th>
+  <th scope="col" title="four wkts in an inns">4</th>
+  <th scope="col" title="five wkts in an inns">5</th>
+  <th scope="col" title="catches taken">Ct</th>
+  <th scope="col" title="stumpings made">St</th>
+ </tr>
+ <tr class="data1">
+  <td class="text-left" nowrap="nowrap"><a href="/ipl2010/content/player/26421.html" class="data-link">R Ashwin</a></td>
+  <td class="text-left" nowrap="nowrap">2007-2010</td>
+  <td class="padAst" nowrap="nowrap">19</td>
+  <td nowrap="nowrap">18</td>
+  <td nowrap="nowrap">65.4</td>
+  <td nowrap="nowrap">0</td>
+  <td nowrap="nowrap">426</td>
+  <td nowrap="nowrap">20</td>
+  <td nowrap="nowrap">3/15</td>
+  <td nowrap="nowrap">21.30</td>
+  <td nowrap="nowrap">6.48</td>
+  <td nowrap="nowrap">19.7</td>
+  <td nowrap="nowrap">0</td>
+  <td nowrap="nowrap">0</td>
+  <td nowrap="nowrap">8</td>
+  <td nowrap="nowrap">0</td>
+ </tr>
+ <tr class="data1">
+  <td class="text-left" nowrap="nowrap"><a href="/ipl2010/content/player/26806.html" class="data-link">S Badrinath</a></td>
+  <td class="text-left" nowrap="nowrap">2007-2010</td>
+  <td class="padAst" nowrap="nowrap">42</td>
+  <td nowrap="nowrap">1</td>
+  <td nowrap="nowrap">2.0</td>
+  <td nowrap="nowrap">0</td>
+  <td nowrap="nowrap">6</td>
+  <td nowrap="nowrap">0</td>
+  <td nowrap="nowrap">-</td>
+  <td class="padDp2" nowrap="nowrap">-</td>
+  <td nowrap="nowrap">3.00</td>
+  <td class="padDp1" nowrap="nowrap">-</td>
+  <td nowrap="nowrap">0</td>
+  <td nowrap="nowrap">0</td>
+  <td nowrap="nowrap">14</td>
+  <td nowrap="nowrap">0</td>
+ </tr>
+ <tr class="data1">
+  <td class="text-left" nowrap="nowrap"><a href="/ipl2010/content/player/4451.html" class="data-link">GJ Bailey</a></td>
+  <td class="text-left" nowrap="nowrap">2006-2010</td>
+  <td class="padAst" nowrap="nowrap">24</td>
+  <td nowrap="nowrap">1</td>
+  <td nowrap="nowrap">2.0</td>
+  <td nowrap="nowrap">0</td>
+  <td nowrap="nowrap">24</td>
+  <td nowrap="nowrap">0</td>
+  <td nowrap="nowrap">-</td>
+  <td class="padDp2" nowrap="nowrap">-</td>
+  <td nowrap="nowrap">12.00</td>
+  <td class="padDp1" nowrap="nowrap">-</td>
+  <td nowrap="nowrap">0</td>
+  <td nowrap="nowrap">0</td>
+  <td nowrap="nowrap">8</td>
+  <td nowrap="nowrap">0</td>
+ </tr>
+ <tr class="data1">
+  <td class="text-left" nowrap="nowrap"><a href="/ipl2010/content/player/26829.html" class="data-link">L Balaji</a></td>
+  <td class="text-left" nowrap="nowrap">2008-2010</td>
+  <td class="padAst" nowrap="nowrap">29</td>
+  <td nowrap="nowrap">29</td>
+  <td nowrap="nowrap">95.4</td>
+  <td nowrap="nowrap">0</td>
+  <td nowrap="nowrap">799</td>
+  <td nowrap="nowrap">34</td>
+  <td nowrap="nowrap">5/24</td>
+  <td nowrap="nowrap">23.50</td>
+  <td nowrap="nowrap">8.35</td>
+  <td nowrap="nowrap">16.8</td>
+  <td nowrap="nowrap">1</td>
+  <td nowrap="nowrap">1</td>
+  <td nowrap="nowrap">5</td>
+  <td nowrap="nowrap">0</td>
+ </tr>
+ <tr class="data1">
+  <td class="text-left" nowrap="nowrap"><a href="/ipl2010/content/player/5616.html" class="data-link">ML Hayden</a></td>
+  <td class="text-left" nowrap="nowrap">2005-2010</td>
+  <td class="padAst" nowrap="nowrap">30</td>
+  <td nowrap="nowrap">-</td>
+  <td nowrap="nowrap">-</td>
+  <td nowrap="nowrap">-</td>
+  <td nowrap="nowrap">-</td>
+  <td nowrap="nowrap">-</td>
+  <td nowrap="nowrap">-</td>
+  <td class="padDp2" nowrap="nowrap">-</td>
+  <td class="padDp2" nowrap="nowrap">-</td>
+  <td class="padDp1" nowrap="nowrap">-</td>
+  <td nowrap="nowrap">-</td>
+  <td nowrap="nowrap">-</td>
+  <td nowrap="nowrap">7</td>
+  <td nowrap="nowrap">0</td>
+ </tr>
+ <tr class="data1">
+  <td class="text-left" nowrap="nowrap"><a href="/ipl2010/content/player/46248.html" class="data-link">JA Morkel</a></td>
+  <td class="text-left" nowrap="nowrap">2004-2010</td>
+  <td class="padAst" nowrap="nowrap">98</td>
+  <td nowrap="nowrap">91</td>
+  <td nowrap="nowrap">282.1</td>
+  <td nowrap="nowrap">4</td>
+  <td nowrap="nowrap">2210</td>
+  <td nowrap="nowrap">85</td>
+  <td nowrap="nowrap">4/30</td>
+  <td nowrap="nowrap">26.00</td>
+  <td nowrap="nowrap">7.83</td>
+  <td nowrap="nowrap">19.9</td>
+  <td nowrap="nowrap">2</td>
+  <td nowrap="nowrap">0</td>
+  <td nowrap="nowrap">22</td>
+  <td nowrap="nowrap">0</td>
+ </tr>
+ <tr class="data1">
+  <td class="text-left" nowrap="nowrap"><a href="/ipl2010/content/player/49636.html" class="data-link">M Muralitharan</a></td>
+  <td class="text-left" nowrap="nowrap">2005-2010</td>
+  <td class="padAst" nowrap="nowrap">57</td>
+  <td nowrap="nowrap">57</td>
+  <td nowrap="nowrap">217.5</td>
+  <td nowrap="nowrap">3</td>
+  <td nowrap="nowrap">1299</td>
+  <td nowrap="nowrap">75</td>
+  <td nowrap="nowrap">4/16</td>
+  <td nowrap="nowrap">17.32</td>
+  <td nowrap="nowrap">5.96</td>
+  <td nowrap="nowrap">17.4</td>
+  <td nowrap="nowrap">3</td>
+  <td nowrap="nowrap">0</td>
+  <td nowrap="nowrap">13</td>
+  <td nowrap="nowrap">0</td>
+ </tr>
+ <tr class="data1">
+  <td class="text-left" nowrap="nowrap"><a href="/ipl2010/content/player/32242.html" class="data-link">PA Patel</a></td>
+  <td class="text-left" nowrap="nowrap">2005-2010</td>
+  <td class="padAst" nowrap="nowrap">38</td>
+  <td nowrap="nowrap">-</td>
+  <td nowrap="nowrap">-</td>
+  <td nowrap="nowrap">-</td>
+  <td nowrap="nowrap">-</td>
+  <td nowrap="nowrap">-</td>
+  <td nowrap="nowrap">-</td>
+  <td class="padDp2" nowrap="nowrap">-</td>
+  <td class="padDp2" nowrap="nowrap">-</td>
+  <td class="padDp1" nowrap="nowrap">-</td>
+  <td nowrap="nowrap">-</td>
+  <td nowrap="nowrap">-</td>
+  <td nowrap="nowrap">15</td>
+  <td nowrap="nowrap">7</td>
+ </tr>
+ <tr class="data1">
+  <td class="text-left" nowrap="nowrap"><a href="/ipl2010/content/player/33335.html" class="data-link">SK Raina</a></td>
+  <td class="text-left" nowrap="nowrap">2006-2010</td>
+  <td class="padAst" nowrap="nowrap">46</td>
+  <td nowrap="nowrap">17</td>
+  <td nowrap="nowrap">36.5</td>
+  <td nowrap="nowrap">0</td>
+  <td nowrap="nowrap">241</td>
+  <td nowrap="nowrap">9</td>
+  <td nowrap="nowrap">2/17</td>
+  <td nowrap="nowrap">26.77</td>
+  <td nowrap="nowrap">6.54</td>
+  <td nowrap="nowrap">24.5</td>
+  <td nowrap="nowrap">0</td>
+  <td nowrap="nowrap">0</td>
+  <td nowrap="nowrap">24</td>
+  <td nowrap="nowrap">0</td>
+ </tr>
+ <tr class="data1">
+  <td class="text-left" nowrap="nowrap"><a href="/ipl2010/content/player/317784.html" class="data-link">S Tyagi</a></td>
+  <td class="text-left" nowrap="nowrap">2009-2010</td>
+  <td class="padAst" nowrap="nowrap">11</td>
+  <td nowrap="nowrap">11</td>
+  <td nowrap="nowrap">26.5</td>
+  <td nowrap="nowrap">0</td>
+  <td nowrap="nowrap">215</td>
+  <td nowrap="nowrap">5</td>
+  <td nowrap="nowrap">2/18</td>
+  <td nowrap="nowrap">43.00</td>
+  <td nowrap="nowrap">8.01</td>
+  <td nowrap="nowrap">32.2</td>
+  <td nowrap="nowrap">0</td>
+  <td nowrap="nowrap">0</td>
+  <td nowrap="nowrap">2</td>
+  <td nowrap="nowrap">0</td>
+ </tr>
+ <tr class="data1">
+  <td class="text-left" nowrap="nowrap"><a href="/ipl2010/content/player/237095.html" class="data-link">M Vijay</a></td>
+  <td class="text-left" nowrap="nowrap">2007-2010</td>
+  <td class="padAst" nowrap="nowrap">20</td>
+  <td nowrap="nowrap">1</td>
+  <td nowrap="nowrap">1.0</td>
+  <td nowrap="nowrap">0</td>
+  <td nowrap="nowrap">4</td>
+  <td nowrap="nowrap">0</td>
+  <td nowrap="nowrap">-</td>
+  <td class="padDp2" nowrap="nowrap">-</td>
+  <td nowrap="nowrap">4.00</td>
+  <td class="padDp1" nowrap="nowrap">-</td>
+  <td nowrap="nowrap">0</td>
+  <td nowrap="nowrap">0</td>
+  <td nowrap="nowrap">5</td>
+  <td nowrap="nowrap">0</td>
+ </tr>
+</table>
+
+	       
+	   </div>
+
+</div>
+	
+	   </div>
+
+  </div>
+ </div>
+</div>
+<script language="javascript" type="text/javascript">
+
+	var omniPageName = "averages - 18th match: Royal Challengers Bangalore v Chennai Super Kings at Bangalore, Mar 23, 2010";
+
+	var omniSiteSection1 = "Indian Premier League";
+
+	var omniSiteSection2 = "archive scorecards";
+
+	var omniCt = "match";
+</script>
+
+<div class="row">
+  <div class="large-16 medium-16 columns hide" id="commIFrame">
+     <a class="closeBox" href="">x</a>
+  <iframe name="commfeedback"  id="iframe-commentary-feedback" src='javascript:""' name="iframecommentaryfeedback" style="border: 0; display: none;" frameborder="0" scrolling="no"></iframe>
+</div>
+</div>
+
+
+    </div>
+    </div>
+
+        <!-- RHS - Match Cards, Ad Slot, Graph, Match Center, Match Coverage, Twitter Module -->
+    <div class="large-10 medium-7 columns" id="rhs_content">
+      <!-- Match Cards & Ad Slot -->
+      <div class="row">
+    <div class="large-20 columns ad-slot-4" style="margin-bottom: 12px;">
+
+    </div> 
+
+
+	
+        <!-- Match Cards -->
+        <div class="large-10 medium-20 columns text-right match-card-template" id="matchCardBlock">
+         <div class="match-card-block">
+	<ul id="suffleDiv">
+		<li style="text-align:center;">
+		<img style="margin-top:90px;display:inline-block" src="http://i.imgci.com/espncricinfo/mobileweb/smartphone/ajax-loader.gif">
+		</li>
+	</ul>
+	<div class="match-card-nav" id="matchCardNav">
+			<span id="match-card-prev">&nbsp;</span>
+			<span id="match-card-next">&nbsp;</span>
+	</div>
+</div>
+        </div>
+        <!-- End -->
+
+        <!-- Ad Slot 300x250 -->
+        <div class="large-10 ad-mpu-320 columns text-right">
+<div class="espni-ad-slot ad-incontent" data-slot-type="incontent" data-kvpos="top" data-exclude-bp="s"></div>        </div>
+        <!-- End -->
+      </div>
+
+
+
+    
+        <!-- START mcr -->
+        <div class="large-20 mcr_h2">
+          <h2>MATCH CENTRE</h2>
+        </div>
+        <div id="mcr" class="mcr-inn">
+            <div class="row mcr-overview mcr-hdr">
+              <div class="large-8 columns mcr-tab active">
+                <p class="mcr-tab-team-stat"></p>
+                <p class="mcr-tab-team-data"></p>
+              </div>
+              <div class="large-4 mcr-all-result columns">
+                <div class="row">
+                  <div class="mcr-all-fours large-6 columns">
+                      <p>4s</p>
+                      <p class="mcr-data"></p>
+                  </div>
+                  <div class="mcr-all-sixes large-6 columns">
+                      <p>6s</p>
+                      <p class="mcr-data"></p>
+                  </div>
+                  <div class="mcr-all-dots large-8 columns">
+                      <p>dots</p>
+                      <p class="mcr-data"></p>
+                  </div>
+                </div>
+              </div>
+              <div class="mcr-all-control large-4 columns">
+
+              </div>
+            </div>
+
+            <div id="match-center-live">
+              <div class="row mcr-batsmen">
+              </div>
+              <div id="mcr-batting-temp" class="row mcr-vis" style="display:none;">
+              <div id="bat_top_strip" class="row mcr-inn-player-text">
+	
+</div>
+<div class="large-20">
+	<div class="large-8 mcr-bat-left">
+		 <div class="mcr-bat-upper" id="mcr-graph-filter">            
+            <span id="firstchart" data-chart="mcr-batcard-spike" class="active">
+                <img src="http://i.imgci.com/espncricinfo/scorecard/mcr_stroke.png" title="stroke" />
+            </span>
+            <span data-chart="mcr-batcard-wagon">
+                <img src="http://i.imgci.com/espncricinfo/scorecard/mcr_wagon.png" title="wagon" />
+            </span>
+            <span data-chart="mcr-batcard-line">
+                <img src="http://i.imgci.com/espncricinfo/scorecard/mcr_runstroke.png" title="run stroke" />
+            </span>
+            <span data-chart="mcr-batcard-heatmap">
+                <img src="http://i.imgci.com/espncricinfo/scorecard/mcr_heatmap.png" title="heatmap" />
+            </span>
+        </div>
+        <div class="mcr-bat-down" id="mcr_player_graph">
+            <div id="mcr_bat_type"></div>
+            <div id="mcr-batcard-spike"></div>
+            <div id="mcr-batcard-wagon" style="display:none;"></div>            
+            <div id="mcr-batcard-line" style="display:none;"></div>
+            <div id="mcr-batcard-heatmap" style="display:none;"></div>
+        </div>       
+	</div>
+	<div class="large-12 mcr-bat-right">
+		<div class="mcr-bat-upper">
+            <div class="large-20 columns mcr-filter-1">
+                <span id="mcr-bat-bvfilter"><span>Filter By Bowlers </span><img src="http://i.imgci.com/espncricinfo/scorecard/mcr_drop.png" /></span>
+            </div>
+            <ul id="mcr-bat-drop" style="display:none;">             
+            </ul>
+            <!--<div class="large-3 columns mcr-over">
+                <span>Overs</span>
+            </div>
+            <div class="large-6 columns mcr-over-filter">
+                <span><input type="text" value="from" /></span><span>&nbsp;-&nbsp;</span><span> <input type="text" value="to" /></span>
+            </div>
+            <div class="large-4 columns mcr-filter-2">
+                <span id="over-filter">FILTER</span>
+            </div>-->
+        </div>
+        <div class="mcr-bat-down">
+            <div id="bowling-data">
+            </div>
+             <div class="mcr-bat-summary large-20 columns">
+                <div class="large-4" id="zonefilter">
+                    <ul>
+                        <li class="mcr-fltr-header">Filter zones</li>
+                        <li id="filter-wagon"></li>
+                        <li><input type="checkbox" id="mcr_show_all" name="mcr_show_all">Show all</li>
+                    </ul>                                    
+                </div>
+                <div class="large-6 filters" id="runfilter">
+                    <ul>
+                        <li class="mcr-fltr-header">Filter by runs</li>
+                        <li>
+                            <span><input type="checkbox" class="mcr_check" checked value="1"><span class="ones">1s</span> </span>
+                            <span> <input type="checkbox" class="mcr_check" checked value="2"><span class="twos">2s</span> </span>
+                        </li>
+                        <li>
+                            <span><input type="checkbox" class="mcr_check" checked value="3"><span class="threes">3s</span> </span>
+                            <span> <input type="checkbox" class="mcr_check" checked value="4"><span class="fours">4s</span> </span>
+                        </li>
+                        <li>
+                            <span><input type="checkbox" class="mcr_check" checked value="5"><span class="fives">5s</span> </span><span> <input type="checkbox" checked class="mcr_check" value="6"><span class="sixs">6s</span> </span>
+                        </li>
+                        <li><span><input type="checkbox" class="mcr_check" checked value="all">All </span></li>
+                    </ul>
+                </div>
+                <div class="large-10 summary" id="summaryfilter">
+                
+                    
+                </div>
+            </div>
+        
+        </div>
+	</div>
+</div>
+
+              </div>
+              <div id="mcr-bowling-temp" class="row mcr-vis" style="display:none;">
+              <div id="bowl_top_strip" class="row mcr-inn-player-text">
+    
+</div>
+<div class="large-20 columns mcr-bowl-filter">
+    <div class="large-8 columns">
+    </div>
+    <div class="large-12 columns">
+        <div class="large-20 columns mcr-filter-1">
+            <span id="mcr-bowl-bvfilter"><span>Filter By Batsman</span><img src="http://i.imgci.com/espncricinfo/scorecard/mcr_drop.png" /></span>
+            <ul id="mcr-bowl-drop" style="display:none;">				
+            </ul>
+        </div>
+        <!--<div class="large-3 columns mcr-over">
+            <span>Overs</span>
+        </div>
+        <div class="large-7 columns mcr-over-filter">
+            <span><input type="text" value="from" /></span><span>&nbsp;-&nbsp;</span><span> <input type="text" value="to" /></span>
+        </div>
+        <div class="large-3 columns mcr-filter-2">
+            <span id="over-filter">FILTER</span>
+        </div>-->
+    </div>
+</div>
+<div class="large-20 columns mcr-bowl-div">
+    <div class="large-10 columns" id="mcr-bowl-rhb">
+    	<div class="large-20 columns header"><span>RHB</span></div>
+        <div class="large-10 columns" id="mcr-bowl-heatmap-rhb">
+        </div>
+        <div class="large-10 columns" id="mcr-bowl-wagon-rhb">
+           
+        </div>
+        <div class="large-20 columns mcr-bowl-down">
+	        
+	    </div>
+    </div>
+    <div class="large-10 columns" id="mcr-bowl-lhb">
+    	<div class="large-20 columns header"><span>LHB</span></div>
+		<div class="large-10 columns" id="mcr-bowl-heatmap-lhb">
+        </div>
+        <div class="large-10 columns" id="mcr-bowl-wagon-lhb">
+           
+        </div>
+         <div class="large-20 columns mcr-bowl-down">
+	        
+	    </div>
+    </div>
+</div>
+
+              </div>
+              <div id="mcr-innings-temp" class="row mcr-vis">
+                  <!-- START Innings card current players -->
+                  <div class="mcr-inn-current-players large-14 columns">
+                      <!-- START current batsmen-->
+                      <ul class="mcr-inn-current-batsmen row">
+                          <!-- START batsman 0-->
+                          <li class="mcr-inn-current-player large-10 columns cbat0">
+                              <div class="row mcr-inn-player-text">
+
+                              </div>
+                              <div class="row mcr-inn-player-graphic">
+                                  <div class="large-10 columns">
+                                      <div class="mcr-inn-bat0-control">
+
+                                      </div>
+                                      <div class="pref-shot">
+                                          <p class="shotname"></p>
+                                          <p class="shotruns"></p>
+                                          <p class="shotsummary"></p>
+                                      </div>
+                                  </div>
+                                  <div class="large-10 columns mcr-inn-bat0-wagon">
+
+                                  </div>
+                              </div>
+                          </li>
+                          <!-- END batsman 0-->
+
+                          <!-- START batsman 1-->
+                          <li class="mcr-inn-current-player large-10 columns cbat1">
+                              <div class="row mcr-inn-player-text">
+
+                              </div>
+                              <div class="row mcr-inn-player-graphic">
+                                  <div class="large-10 columns">
+                                      <div class="mcr-inn-bat1-control">
+
+                                      </div>
+                                      <div class="pref-shot">
+                                          <p class="shotname"></p>
+                                          <p class="shotruns"></p>
+                                          <p class="shotsummary"></p>
+                                      </div>
+                                  </div>
+                                  <div class="large-10 columns mcr-inn-bat1-wagon">
+
+                                  </div>
+                              </div>
+                          </li>
+                          <!-- END batsman 1-->
+                      </ul>
+                      <!-- END current batsmen-->
+
+                      <!-- START current bowlers -->
+                      <ul class="mcr-inn-current-bowlers row">
+                          <!-- START bowler 0-->
+                          <li class="mcr-inn-current-player large-10 columns cbowl0">
+                              <div class="row mcr-inn-player-text">
+
+                              </div>
+
+                              <div class="row mcr-inn-player-graphic">
+                                  <div class="large-10 columns mcr-inn-bowler0-heatmap-rhb">
+                                      <p class="heatmap-title">RHB</p>
+                                  </div>
+                                  <div class="large-10 columns mcr-inn-bowler0-heatmap-lhb">
+                                    <p class="heatmap-title">LHB</p>
+                                  </div>
+                              </div>
+                          </li>
+                          <!-- END bowler 0 -->
+                          <!-- START bowler 1-->
+                          <li class="mcr-inn-current-player large-10 columns cbowl1">
+                              <div class="row mcr-inn-player-text">
+
+                              </div>
+
+                              <div class="row mcr-inn-player-graphic">
+                                  <div class="large-10 columns mcr-inn-bowler1-heatmap-rhb">
+                                    <p class="heatmap-title">RHB</p>
+                                  </div>
+                                  <div class="large-10 columns mcr-inn-bowler1-heatmap-lhb">
+                                    <p class="heatmap-title">LHB</p>
+                                  </div>
+                              </div>
+                          </li>
+                          <!-- END bowler 1-->
+                      </ul>
+                      <!-- END current bowlers -->
+                  </div>
+                  <!-- END Innings card current players -->
+                  <div class="mcr-inn-partnerships large-6 columns">
+                      <div class="row">
+                          <h4>Partnerships</h4>
+                      </div>
+                      <div class="row mcr-inn-partnerships-chart">
+
+                      </div>
+                  </div>
+              </div>
+              <div class="row mcr-bowlers">
+              </div>
+            </div>
+
+            <!-- Start Match Cards -->
+            <div id="mcr-matchcards-temp" class="row">
+                <!-- START Match Cards for Batsmen -->
+                <div class="mcr-matchcards-best-batperf">
+
+                </div>
+                <!-- End Match Cards for Batsmen -->
+                <div style="clear:both"></div>
+                <!-- START Match Cards for Bowlers -->
+                <div class="mcr-matchcards-best-bowlperf">
+
+                </div>
+                <!-- End Match Cards for Bowlers -->
+            </div>
+            <!-- End Match Cards -->
+
+        </div>
+        <!-- END mcr -->
+    
+
+
+      <div class="row">
+	 
+        <!-- Match Coverage -  -->      
+        <div class="large-20 columns match-coverage-block" id="match-coverage-full">
+          <hr class="secondary-hr">
+          <div class="row">
+            <div class="large-10 medium-20 columns">
+              <div class="playtime">
+		        <span class="small-bold">Hours of play (local time)</span>
+		        20.00 start, First Session 20.00-21.20, Interval 21.20-21.40, Second Session 21.40-23.00
+              </div>
+            </div>
+            <div class="large-10 medium-20 columns">
+              <div class="row">
+                <div class="large-9 medium-9 columns">
+                  <ul class="match-block-list">
+                    <li><a href="/ipl2010/content/series/418064.html" target="_blank">Tournament home</a></li>
+                    <li><a href="/ipl2010/content/ground/57897.html" target="_blank">Ground page</a></li>
+                  </ul>
+                </div>
+                
+                <div class="large-11 medium-11 columns">
+                  <ul class="match-inline-list">
+                    <li><a href="/ipl-chennai/content/team/335974.html" target="_blank">Super Kings home</a>
+                    | <a href="/ipl2010/content/squad/448325.html" target="_blank">squad</a>
+                    </li>
+                    <li><a href="/ipl-blore/content/team/335970.html" target="_blank">RCB home</a>
+                    | <a href="/ipl2010/content/squad/448336.html" target="_blank">squad</a>
+                    </li>
+                    <li><a href="/ipl2010/content/squad/452935.html" target="_blank">Match officials</a></li>
+                  </ul>
+
+                </div>
+                
+              </div>
+            </div>
+          </div>
+          <hr class="thick-2">
+          <div class="match-coverage-heading-wrapper">
+            <h2 class="uppercase">Match Coverage</h2>            
+          </div>
+          <hr class="secondary-hr">
+          <div class="row">
+            <div class="large-20 columns"> 
+              <dl class="tabs inline-list coverage-day-list">
+                <dd class="active"><a href="#matchdayCoverage">Match Day</a></dd>
+                <dd class="remove-border-right"><a href="#previewCoverage">Preview</a></dd>
+              </dl>
+              <hr>
+              <ul class="tabs-content">
+                  <li class="" id="previewCoverageTab">
+                      <ul class="headlines-list">
+                          <li>
+                            <a href="/ipl2010/content/story/453052.html" target="_blank">
+                            <span class="bold">Preview</span> - <span>Bangalore hold aces against southern rivals</span>
+                            </a>
+                          </li>
+                      </ul>
+                  </li>
+                  <li class="active" id="matchdayCoverageTab">
+                      <ul class="headlines-list">
+                          <li>
+                            <a href="/ipl2010/content/story/453205.html" target="_blank">
+                            <span class="bold">Report</span> - <span>Robin Uthappa's blitz floors Chennai</span>
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/ipl2010/content/story/453235.html" target="_blank">
+                            <span class="bold">Analysis</span> - <span>Robin Uthappa, Bangalore's game-changer</span>
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/ipl2010/content/story/453246.html" target="_blank">
+                            <span class="bold">News</span> - <span>Butter-fingered Chennai, and Albie-come-lately  </span>
+                            </a>
+                          </li>
+                          <li>
+                            <a href="/wisdenalmanack/content/story/518487.html" target="_blank">
+                            <span class="bold">Match reports</span> - <span>Indian Premier League, 2009-10</span>
+                            </a>
+                          </li>
+                      </ul>
+                  </li>
+              </ul>
+          </div>
+          <hr class="thick-2">
+	  </div>      
+	  <!-- End -->
+
+      </div>
+
+      <div class="row">
+	 
+<div class="large-20 columns photos-block" id="photos-block" style="display:none;">
+  <h5 class="uppercase">Photos</h2>
+  <div>
+    <div>
+      <ul>
+        <li class="box1">
+          <a href="" data-id="" title="">
+            <img src="" id="imgMain" align="center" >
+          </a>
+        </li>          
+      </ul>
+    </div>
+    
+    <div id="imgLoading" style="display: block;">
+      <img src="http://i.imgci.com/espncricinfo/lightbox-ico-loading.gif" align="center" height="32" width="32">
+    </div>
+    <p>
+      <span></span>            
+    </p>
+  </div>
+  <div class="photos-list">
+    <ul>
+      <li><a id="firstPhoto" href="javascript:void(0);">Back to Latest Photo</a></li>
+      <li><a href="/ipl2010/content/image/index.html?object=419123" target="_blank">All Photos for this match</a></li>
+      <li><a class="no-border" href="/ipl2010/content/gallery/index.html?object=419123;cat=current" target="_blank">Galleries</a></li>
+    </ul>
+  </div>
+  <hr class="thick-2">
+  <div class="rhscontent-loader"><img style="margin: auto; margin-top: 40px;" src="http://i.imgci.com/espncricinfo/gfx/loading.gif" /></div>
+</div>
+
+      </div>
+
+      <!-- social module -->
+      <div class="row">
+        <div class="large-10 medium-20 columns">
+          <!-- Twitter Module -->
+	  <div style="margin-top: 7px; margin-bottom:15px;">
+<a class="twitter-timeline" href="https://twitter.com/ESPNcricinfo/cricketers-on-twitter" data-widget-id="286832583709442048" style="width:320px; margin-bottom:20px; height:290px;" width="320" height="290" data-theme="light"  data-link-color="#0084B4">Tweets from @ESPNcricinfo/cricket-tweeters</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script> 
+</div>
+
+        </div>
+        <div class="large-10 medium-20 columns">
+          <div class="sponsored-outbrain">
+	
+          <h6>Sponsored Links</h6>
+	  <ul class="headlines-list sponsored-links">
+
+ <li><a href="/ci/content/url/914175.html" class="criRecmndsLnk" target="_blank">Play Fantasy Cricket @ Dream11</a>
+ <p>Win Cash Daily!</p>
+ </li>
+
+ <li><a href="/ci/content/url/908649.html" class="criRecmndsLnk" target="_blank">Idea dialer tone with no extra charge</a>
+ <p></p>
+ </li>
+
+ <li><a href="/ci/content/url/827083.html" class="criRecmndsLnk" target="_blank">Make Huge Income from your Home</a>
+ <p>Join Us at XForex™ And Learn How To Increase Your Monthly Income.</p>
+ </li>
+</ul>
+	
+          </div>
+        </div>
+      </div>
+      <!-- social module end -->
+
+      </div>
+      <!-- End -->
+    </div>
+
+  </div>
+
+    <!-- Workaround for templates in IE8 -->
+	<!--[if lte IE 8]>
+	<script type="text/javascript">
+		var espn = espn || {};
+		espn.templates = {};
+	</script>
+	<![endif]-->
+    <!-- Include js files before closing of body tag -->
+  
+<script src="http://a.espncdn.com/combiner/c?js=jquery-1.7.1.js,plugins/jquery.metadata.js,plugins/jquery.pubsub.r5.js,plugins/ba-debug-0.4.js,espn.l10n.r12.js,espn.core.duo.r55.js,espn.storage.r6.js,espn.p13n.r16.js,espn.geo.r2.js"></script>
+<script src="/navigation/cricinfo/ci/video/js/min/espni.video-0.0.4.min.js?1430724683"></script>
+    <script src="/navigation/cricinfo/ci/scorecard/js/min/templates.js?1434611865"></script>
+	  <script src="/navigation/cricinfo/ci/scorecard/js/min/plugin.js?1423678476"></script>
+    <script src="/navigation/cricinfo/ci/scorecard/js/lib/jquery.foundation.tabs.js"></script>
+    
+    <script src="/navigation/cricinfo/ci/scorecard/js/min/espn.gfx.js?1404811032"></script>
+    <script src="/navigation/cricinfo/ci/scorecard/js/min/matchcenter.js?1434611851"></script>
+    
+    <script src="/navigation/cricinfo/ci/scorecard/js/min/app.js?1423832374"></script>
+    <script src="/navigation/cricinfo/ci/scorecard/js/min/global.js?1433829247"></script>
+    <script type="text/javascript" src="/navigation/cricinfo/ci/scorecard/js/lib/jquery.swipebox.js"></script>
+
+
+
+ <script type="text/javascript">
+    //foundation tabs
+    jQuery(document).foundationTabs();
+
+  </script>
+
+
+
+<script type="text/javascript" language="JavaScript">
+
+	var s_account="wdgespcricinfo";	//(Excludes Wireless)
+
+	//alert(window.location.hostname);
+	//alert(s_account);
+</script>
+
+
+<script language="JavaScript" type="text/javascript" src="http://www.espncricinfo.com/navigation/cricinfo/omniture/omniture_global.js?1430724683"></script>
+
+
+<script type="text/javascript" language="JavaScript">
+<!--
+
+//Clearing variable values for link tracking call
+function clrLnkTrckVar(){	
+	//Clear variables
+	s_omni.pageName = "";
+	s_omni.server = "";
+	s_omni.prop1 = "";
+	s_omni.prop3 = "";
+	s_omni.eVar2 = "";
+}
+
+//Link tracking like Video Tab, Video headlines, audio downloads etc.
+function lnkTrackVals(name){
+
+	//alert("Video Tab");
+	clrLnkTrckVar(); //Clear variables
+	
+	var lnkTrck = name;
+	s_omni.prop3 = s_omni.eVar2 = lnkTrck;
+	s_omni.t();
+	//alert(lnkTrck);
+	
+}
+
+/* You may give each page an identifying name, server, and channel on the next lines. */
+s_omni.server = window.location.host; // Server from the Host
+s_omni.prop1 = "cricinfo";
+
+//s_omni.pageName = omniPageName.toLowerCase(); //Omniture Page Name(S)
+
+if(typeof omniSiteSection2 != 'undefined' && typeof omniSiteSubSection3 != 'undefined'){
+	s_omni.pageName = omniSiteSection1.toLowerCase() + ":" + omniSiteSection2.toLowerCase() + ":" + omniSiteSection3.toLowerCase() + ":" + omniPageName.toLowerCase(); 	//Page name
+}else if(typeof omniSiteSection2 != 'undefined'){
+	s_omni.pageName = omniSiteSection1.toLowerCase() + ":" + omniSiteSection2.toLowerCase() + ":" + omniPageName.toLowerCase(); 												//Page name
+}else{
+	s_omni.pageName = omniSiteSection1.toLowerCase() + ":" + omniPageName.toLowerCase(); 																									//Page name
+}
+
+var omniPath = location.pathname;
+//alert(omniPath);
+if(typeof omniSiteSection1 != 'undefined'){
+	s_omni.channel = omniSiteSection1.toLowerCase();
+}
+
+//Error page variables
+if(typeof omniPageType == 'undefined'){
+	s_omni.pageType = "";
+}
+else{
+	s_omni.pageType = "errorPage";
+	s_omni.pageName = "";
+	s_omni.server = "";
+	s_omni.prop1 = "";	
+}
+
+if(typeof omniCt != 'undefined'){
+	s_omni.prop4 = omniCt.toLowerCase();	//Content type
+}
+
+if(typeof omniSiteSection2 != 'undefined' && typeof omniSiteSubSection3 != 'undefined'){
+	s_omni.prop5 = s_omni.channel + ":" +  omniSiteSection2.toLowerCase() + ":"+  omniSiteSubSection3.toLowerCase();
+}else if(typeof omniSiteSection2 != 'undefined'){
+	s_omni.prop5 = s_omni.channel + ":" +  omniSiteSection2.toLowerCase();
+} else {
+	s_omni.prop5 = omniSiteSection1.toLowerCase() + ":" + omniPageName.toLowerCase();
+}
+
+if(typeof omniStoryId != 'undefined'){
+	s_omni.prop15 = s_omni.eVar20 = omniStoryId; //Story Object id		
+}
+s_omni.prop16 = s_omni.eVar12 = cqanswer //Country where the page is viewed
+s_omni.prop17 = s_omni.eVar9 = "en" // Language Code
+
+if(typeof omniAuthId != 'undefined'){
+	s_omni.prop23 = s_omni.eVar10 = omniAuthId; //Columnist id		
+}
+
+s_omni.prop25 = s_omni.eVar19 = "cricket"; // Sport
+
+//Prop29 for capturing the Registered users
+var user_name = (typeof getCookie !== "undefined") && getCookie('un');
+if (user_name != "");
+{
+	if (user_name == null || undefined)
+	{
+		s_omni.prop29 = "anonymous";
+}
+	else
+	{
+	s_omni.prop29 = "Registered:Logged in Active";
+	}
+}
+
+//Prop32 for capturing Player and Grounds ID for the Most viewed objects
+if(typeof omniMVO != 'undefined'){
+	s_omni.prop32 = omniMVO; //Most viewed objects for Plyers and Grounds		
+}
+
+//Prop42 for capturing Hawkeye tabs
+if(typeof omniHawk != 'undefined'){
+	s_omni.prop33 = omniHawk; //capturing Hawkeye tabs	
+}
+
+s_omni.hier1 = s_omni.pageName;																	//Content Hierarchy
+if(typeof omniSrhType != 'undefined'){
+	s_omni.eVar11 = omniSrhType;
+}
+s_omni.eVar13 = s_omni.prop1 + ":" + s_omni.pageName; 						//Page name
+
+//s_omni.prop42 = omniHawk;
+
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s_omni.t();if(s_code)document.write(s_code)//-->
+
+</script>
+<!-- End SiteCatalyst code version: H.14. -->
+
+<script>(function() {
+  var _fbq = window._fbq || (window._fbq = []);
+  if (!_fbq.loaded) {
+    var fbds = document.createElement('script');
+    fbds.async = true;
+    fbds.src = '//connect.facebook.net/en_US/fbds.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(fbds, s);
+    _fbq.loaded = true;
+  }
+  _fbq.push(['addPixelId', '1485530595011438']);
+})();
+window._fbq = window._fbq || [];
+window._fbq.push(['track', 'PixelInitialized', {}]);
+</script>
+<noscript><img height="1" width="1" border="0" alt="" style="display:none" src="https://www.facebook.com/tr?id=1485530595011438&amp;ev=NoScript" /></noscript>
+
+<!-- Begin comScore Tag -->
+<script>
+var _comscore = _comscore || [];
+_comscore.push({ c1: "2", c2: "3000005" });
+(function() {
+var s = document.createElement("script"), el =
+document.getElementsByTagName("script")[0]; s.async = true;
+s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+el.parentNode.insertBefore(s, el);
+})();
+</script>
+<!-- End comScore Tag -->
+
+    
+<script type='text/javascript'>
+    var _sf_async_config={};
+    /** CONFIGURATION START **/
+    _sf_async_config.uid = 26455;
+    _sf_async_config.domain = 'espncricinfo.com';
+    _sf_async_config.useCanonical = true;
+    _sf_async_config.authors  = 'in';
+    _sf_async_config.sections = 'Scorecards';
+    /** CONFIGURATION END **/
+    (function(){
+      function loadChartbeat() {
+        window._sf_endpt=(new Date()).getTime();
+        var e = document.createElement('script');
+        e.setAttribute('language', 'javascript');
+        e.setAttribute('type', 'text/javascript');
+        e.setAttribute('src',
+           (('https:' == document.location.protocol) ? 'https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/' : 'http://static.chartbeat.com/') +
+           'js/chartbeat.js');
+        document.body.appendChild(e);
+      }
+      var oldonload = window.onload;
+      window.onload = (typeof window.onload != 'function') ?
+      loadChartbeat : function() { oldonload(); loadChartbeat(); };
+    })();
+</script>
+<div class="mcr-tooltip"><h2 class="mcr-tooltip-title"></h2><p class="mcr-tooltip-content"></p></div>
+
+<!-- START live event clipper video -->
+<script>
+  window.espni = window.espni || {};
+  espni.video = espni.video || {};
+  espni.video.timeStamp = "1442970568";
+  espni.video.genre = "livescorecard";
+  espni.video.adSet = "cric";
+  espni.vars = espni.vars || {};
+  espni.vars.video = espni.vars.video || {};
+  espni.vars.video.testVideos = '';
+  espni.vars.video.clipperPollInterval = '';
+  espni.vars.live = espni.vars.live || {};
+  espni.vars.live.matchId = '419123';
+</script>
+    
+<div id="video-popup">
+</div>
+<!-- END live event clipper video -->
+<script src="/navigation/cricinfo/ci/assets/js/src/espncricinfo.gpt.1.0.0.min.js?v=1441718351"></script>
+<script type="text/javascript">
+$(function(){
+  if((typeof espni !== 'undefined') && (espni.ads !== 'undefined')){
+    espni.ads.helpers.refreshAllAfter(300000);
+  }
+}(jQuery));
+</script>
+</body>
+</html>

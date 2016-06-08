@@ -1,0 +1,160 @@
+End of over 1 (2 runs) Royal Challengers Bangalore 2/0 (RR: 2.00)
+
+  *     * MK Pandey 1 (2b)
+    * JH Kallis 1 (4b)
+  *     * JA Morkel 1-0-2-0
+
+
+
+End of over 2 (6 runs) Royal Challengers Bangalore 8/0 (RR: 4.00)
+
+  *     * JH Kallis 2 (6b)
+    * MK Pandey 6 (6b 1x4)
+  *     * S Tyagi 1-0-6-0
+    * JA Morkel 1-0-2-0
+
+
+End of over 3 (9 runs) Royal Challengers Bangalore 17/0 (RR: 5.66)
+
+  *     * JH Kallis 10 (11b 2x4)
+    * MK Pandey 7 (7b 1x4)
+  *     * JA Morkel 2-0-11-0
+    * S Tyagi 1-0-6-0
+
+
+End of over 4 (2 runs) Royal Challengers Bangalore 19/0 (RR: 4.75)
+
+  *     * JH Kallis 11 (12b 2x4)
+    * MK Pandey 8 (12b 1x4)
+  *     * S Tyagi 2-0-8-0
+    * JA Morkel 2-0-11-0
+
+
+End of over 5 (10 runs) Royal Challengers Bangalore 29/1 (RR: 5.80)
+
+  *     * R Dravid 0 (2b)
+    * MK Pandey 8 (12b 1x4)
+  *     * L Balaji 1-0-10-1
+    * S Tyagi 2-0-8-0
+
+
+End of over 6 (9 runs) Royal Challengers Bangalore 38/1 (RR: 6.33)
+
+  *     * MK Pandey 16 (16b 2x4)
+    * R Dravid 1 (4b)
+  *     * S Tyagi 3-0-17-0
+    * L Balaji 1-0-10-1
+
+
+End of over 7 (14 runs) Royal Challengers Bangalore 52/1 (RR: 7.42)
+
+  *     * MK Pandey 17 (18b 2x4)
+    * R Dravid 10 (8b 2x4)
+  *     * L Balaji 2-0-20-1
+    * S Tyagi 3-0-17-0
+
+
+End of over 8 (7 runs) Royal Challengers Bangalore 59/2 (RR: 7.37)
+
+  *     *     * MK Pandey 18 (21b 2x4)
+  *     * M Muralitharan 1-0-6-1
+    * L Balaji 2-0-20-1
+
+
+
+End of over 9 (2 runs) Royal Challengers Bangalore 61/2 (RR: 6.77)
+
+  *     * RV Uthappa 0 (2b)
+    * MK Pandey 19 (25b 2x4)
+  *     * S Tyagi 4-0-19-0
+    * M Muralitharan 1-0-6-1
+
+
+End of over 10 (6 runs) Royal Challengers Bangalore 67/3 (RR: 6.70)
+
+  *     * RV Uthappa 4 (5b 1x4)
+    * V Kohli 0 (0b)
+  *     * M Muralitharan 2-0-11-2
+    * S Tyagi 4-0-19-0
+
+
+End of over 11 (8 runs) Royal Challengers Bangalore 75/3 (RR: 6.81)
+
+  *     * V Kohli 7 (4b 1x4)
+    * RV Uthappa 5 (7b 1x4)
+  *     * JA Morkel 3-0-19-0
+    * M Muralitharan 2-0-11-2
+
+
+End of over 12 (11 runs) Royal Challengers Bangalore 86/3 (RR: 7.16)
+
+  *     * V Kohli 11 (5b 2x4)
+    * RV Uthappa 9 (12b 1x4)
+  *     * M Muralitharan 3-0-19-2
+    * JA Morkel 3-0-19-0
+
+
+End of over 13 (8 runs) Royal Challengers Bangalore 94/3 (RR: 7.23)
+
+  *     * V Kohli 13 (7b 2x4)
+    * RV Uthappa 15 (16b 2x4)
+  *     * R Ashwin 1-0-8-0
+    * M Muralitharan 3-0-19-2
+
+
+End of over 14 (5 runs) Royal Challengers Bangalore 99/3 (RR: 7.07)
+
+  *     * RV Uthappa 18 (20b 2x4)
+    * V Kohli 15 (9b 2x4)
+  *     * L Balaji 3-0-25-1
+    * R Ashwin 1-0-8-0
+
+
+End of over 15 (5 runs) Royal Challengers Bangalore 104/3 (RR: 6.93)
+
+  *     * V Kohli 18 (12b 2x4)
+    * RV Uthappa 19 (23b 2x4)
+  *     * R Ashwin 2-0-12-0
+    * L Balaji 3-0-25-1
+
+
+End of over 16 (6 runs) Royal Challengers Bangalore 110/4 (RR: 6.87)
+
+  *     * EJG Morgan 0 (2b)
+    * RV Uthappa 19 (23b 2x4)
+  *     * M Muralitharan 4-0-25-3
+    * R Ashwin 2-0-12-0
+
+
+End of over 17 (9 runs) Royal Challengers Bangalore 119/5 (RR: 7.00)
+
+  *     * MV Boucher 0 (1b)
+    * RV Uthappa 27 (26b 2x4 1x6)
+  *     * JA Morkel 4-0-28-1
+    * M Muralitharan 4-0-25-3
+
+
+End of over 18 (11 runs) Royal Challengers Bangalore 130/5 (RR: 7.22)
+
+  *     * RV Uthappa 36 (30b 2x4 2x6)
+    * MV Boucher 2 (3b)
+  *     * R Ashwin 3-0-23-0
+    * JA Morkel 4-0-28-1
+
+
+End of over 19 (24 runs) Royal Challengers Bangalore 154/5 (RR: 8.10)
+
+  *     * MV Boucher 3 (4b)
+    * RV Uthappa 59 (35b 3x4 5x6)
+  *     * L Balaji 4-0-49-1
+    * R Ashwin 3-0-23-0
+
+
+End of over 20 (17 runs) Royal Challengers Bangalore 171/5
+
+  *     * RV Uthappa 68 (38b 3x4 6x6)
+    * MV Boucher 11 (7b 1x6)
+  *     * R Ashwin 4-0-40-0
+    * L Balaji 4-0-49-1
+
+
