@@ -13,3 +13,5 @@ SQL
 6. Naive Bayes for postmatch transcription
    Load the mysql database from the file 'CricketDatabase.sql'
 7. Main_Sentiment
+
+Run PlayerSummary.py in Main_Sentiment
